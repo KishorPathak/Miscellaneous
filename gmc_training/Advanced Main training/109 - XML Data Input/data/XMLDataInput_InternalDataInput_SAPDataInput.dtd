@@ -1,0 +1,10 @@
+<?xml version = "1.0" encoding="UTF-8"?>
+<!ELEMENT Array-Records (Customer+)>
+<!ELEMENT Customer (id,Records+)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT Records (company,date,destination,FlightID,Origin)>
+<!ELEMENT company (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT destination (#PCDATA)>
+<!ELEMENT FlightID (#PCDATA)>
+<!ELEMENT Origin (#PCDATA)>

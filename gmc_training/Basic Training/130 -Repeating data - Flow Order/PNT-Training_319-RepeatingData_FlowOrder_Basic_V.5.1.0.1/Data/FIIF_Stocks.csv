@@ -1,0 +1,801 @@
+CustOption;Code;StockName;Volume;Price;Weight,,,
+1;ADS;ADIDAS-SALOMON AG ;2,130,000;83,70;n/a
+1;ALV;ALLIANZ AG ;8,490,000;257,00;n/a
+1;BAS;BASF AG ;8,360,000;46,48;n/a
+1;BAY;BAYER AG ;2,930,000;36,49;n/a
+1;HVM;BAYER.HYPO- UND VEREINSBANK;2,570,000;38,65;n/a
+1;BMW3;BAYERISCHE MOTOREN WERKE AG ;9,660,000;46,50;n/a
+1;CBK;COMMERZBANK AG ;482,354;19,67;n/a,
+1;DCX;DAIMLERCHRYSLER AG ;23,330,000;52,80;n/a
+1;DGX;DEGUSSA AG ;544,656;34,65;n/a,
+1;DBK;DT. BANK AG ;17,480,000;77,01;n/a
+1;LHA;DT. LUFTHANSA AG ;5,40,000;15,42;n/a
+1;DPW;DT. POST AG ;454,388;15,15;n/a,
+1;DTE;DT. TELEKOM AG ;34,490,000;12,80;n/a
+1;EOA;E.ON AG ;4,750,000;56,75;n/a
+1;EPC;EPCOS AG ;1,630,000;43,67;n/a
+1;FME;FRESENIUS MEDICAL CARE AG ;630,067;62,10;n/a,,
+1;HEN3;HENKEL KGAA ;537,999;72,63;n/a,,
+1;IFX;INFINEON TECHNOLOGIES AG ;18,280,000;18,40;n/a,
+1;LIN;LINDE AG ;696,944;53,31;n/a,,
+1;MAN;MAN AG ;289,900;26,27;n/a,,
+1;MLP;MARSCHOLLEK, LAUTENSCHL. U.;3,890,000;59,05;n/a
+1;MEO3;METRO AG ;1,560,000;35,75;n/a,
+1;MUV2;MUENCHENER RUECKVERS.-GES.;5,680,000;268,76;n/a,
+1;PRS;PREUSSAG AG ;717,375;29,40;n/a,,
+1;RWE;RWE AG ;1,820,000;41,47;n/a,
+1;SAP;SAP AG ;29,670,000;130,31;n/a,
+1;SCH;SCHERING AG ;1,220,000;65,91;n/a,
+1;SIE;SIEMENS AG ;17,750,000;67,21;n/a,
+1;TKA;THYSSENKRUPP AG ;1,560,000;16,76;n/a,
+1;VOW;VOLKSWAGEN AG ;4,620,000;55,89;n/a,
+2;AAT;AEA Technology;n/a;n/a;0,596889,,,
+2;AGP;AIT Group;n/a;n/a;0,198955
+2;ARK;ARC International;n/a;n/a;0,139553
+2;ARM;ARM Holdings;n/a;n/a;5,530752
+2;ACM;Acambis;n/a;n/a;0,609553
+2;AIH;Affinity Internet Holdings;n/a;n/a;0,62598
+2;ALM;Alphameric;n/a;n/a;0,256059
+2;AHM;Amersham;n/a;n/a;10,377129
+2;AIE;Anite Group;n/a;n/a;0,801507
+2;AU.;Autonomy Corporation;n/a;n/a;0,768379
+2;ASD;Axis-Shield;n/a;n/a;0,405403
+2;AXO;Axon Group;n/a;n/a;0,146308
+2;AZL;Azlan Group;n/a;n/a;0,400542
+2;BVC;BATM Advanced Comm.;n/a;n/a;0,155895
+2;BGC;BTG;n/a;n/a;1,9771
+2;BII;Biocompatibles International;n/a;n/a;0,345335
+2;BHM;Bookham Technology;n/a;n/a;0,234786
+2;BBG;British Biotech;n/a;n/a;0,187561
+2;CMG;CMG;n/a;n/a;2,376567
+2;CAT;Cambridge Antibody Tech Group;n/a;n/a;0,861771
+2;CCH;Celltech Group;n/a;n/a;3,573984
+2;COB;Cobham;n/a;n/a;2,709112
+2;CTM;Colt Telecom Group;n/a;n/a;1,133784
+2;CCC;Computacenter;n/a;n/a;1,2725
+2;DIA;Diagonal;n/a;n/a;0,188774
+2;DCM;Dicom Group;n/a;n/a;0,213645
+2;DDT;Dimension Data Holdings;n/a;n/a;2,107568
+2;DNO;Domino Printing Sciences;n/a;n/a;0,392058
+2;DRK;Druck Hldgs;n/a;n/a;0,257589
+2;ESY;Easynet Group;n/a;n/a;0,84375
+2;EID;Eidos;n/a;n/a;0,445687
+2;ELA;Elan Corp;n/a;n/a;5,90871
+2;BLZ;Emblaze Systems;n/a;n/a;0,167992
+2;EGS;Energis;n/a;n/a;0,68732
+2;EYR;Eyretel;n/a;n/a;0,161532
+2;FIB;Fibernet;n/a;n/a;0,145521
+2;FTC;Filtronic;n/a;n/a;0,479855
+2;FRS;First Technology;n/a;n/a;0,836837
+2;GAL;Galen Holdings;n/a;n/a;1,79236
+2;GMX;Genemedix;n/a;n/a;0,79512
+2;GEN;Generics Group AG;n/a;n/a;0,65691
+2;GYG;Gyrus Group;n/a;n/a;0,545408
+2;IQE;IQE;n/a;n/a;0,220231
+2;IMG;Imagination Technologies Group;n/a;n/a;0,173721
+2;IND;Indigo Vision Group;n/a;n/a;0,176782
+2;TIG;Innovation Group;n/a;n/a;0,613935
+2;ITL;Intec Telecom Systems;n/a;n/a;0,78783
+2;ITN;Itnet;n/a;n/a;0,327532
+2;KSB;K S Biomedix;n/a;n/a;0,4632
+2;KID;Kidde;n/a;n/a;1,74948
+2;KCOM;Kingston Comms;n/a;n/a;0,541502
+2;LMC;Lastminute.Com;n/a;n/a;0,188675
+2;LOG;Logica;n/a;n/a;3,82663
+2;LNB;London Bridge Software Holdings;n/a;n/a;0,406105
+2;MLB;M.L. Laboratories;n/a;n/a;0,120479
+2;MONI;Marconi;n/a;n/a;0,74289
+2;MAS;Marlborough Stirling PLC;n/a;n/a;0,700673
+2;MDY;Medisys;n/a;n/a;0,451611
+2;MGGT;Meggitt;n/a;n/a;1,459357
+2;MRN;Merant;n/a;n/a;0,288361
+2;MSY;Misys;n/a;n/a;3,513594
+2;MOR;Morse;n/a;n/a;0,469894
+2;NIS;Northgate Information Solutions;n/a;n/a;0,157696
+2;OGS;Oxford Glycosciences;n/a;n/a;0,470597
+2;OXIG;Oxford Instruments;n/a;n/a;0,254011
+2;PIC;Pace Micro Technology;n/a;n/a;0,4656
+2;PTY;Parity;n/a;n/a;0,172752
+2;PRH;Parthus Technologies;n/a;n/a;0,283667
+2;PYM;Phytopharm;n/a;n/a;0,439881
+2;PJP;Powderject Pharmaceuticals;n/a;n/a;0,963441
+2;PJT;Project Telecom;n/a;n/a;0,16643
+2;PON;Psion;n/a;n/a;0,422926
+2;RM.;RM;n/a;n/a;0,175026
+2;RSW;Renishaw;n/a;n/a;0,392839
+2;RCDO;Ricardo;n/a;n/a;0,482166
+2;RXO;Roxboro Group;n/a;n/a;0,363888
+2;RYB;Royalblue Group;n/a;n/a;0,357263
+2;SGE;Sage Group;n/a;n/a;5,789084
+2;SIP;Scipher;n/a;n/a;0,114826
+2;SHP;Shire Pharmaceuticals Group;n/a;n/a;5,22614
+2;SKP;SkyePharma;n/a;n/a;0,919277
+2;SN.;Smith & Nephew;n/a;n/a;8,826665
+2;SXS;Spectris;n/a;n/a;1,195016
+2;SPT;Spirent;n/a;n/a;2,456097
+2;SRF;Surfcontrol;n/a;n/a;0,392592
+2;SYN;Synstar;n/a;n/a;0,242093
+2;THUS;THUS Group;n/a;n/a;0,601169
+2;TTC;TTP Communications;n/a;n/a;0,488944
+2;TMX;Telemetrix;n/a;n/a;0,242588
+2;TWT;Telewest Communications;n/a;n/a;0,507648
+2;TOX;Torex;n/a;n/a;0,747849
+2;TGN;Turbo Genset Inc;n/a;n/a;0,142256
+2;ULE;Ultra Electronics Holdings;n/a;n/a;0,741471
+2;VER;Vernalis Group;n/a;n/a;0,145155
+2;WMG;Weston Medical Group;n/a;n/a;0,37294
+2;WHM;Whatman;n/a;n/a;0,332327
+2;XAN;Xansa;n/a;n/a;1,102185
+2;XEN;Xenova Group;n/a;n/a;0,200836,,
+2;IOT;iSOFT Group;n/a;n/a;0,548666,,
+2;NCH;nCipher;n/a;n/a;0,95641,,
+3;ACCP;Accor;284,285;45,21;n/a,
+3;AIRP;Air Liquide;17,745;164,70;n/a,
+3;AGFP;AGF;10,206;55,70;n/a,
+3;CGEP;Alcatel;1,23,184;332,08;n/a
+3;AVEP;Aventis;168,693;76,25;n/a,
+3;AXAF;AXA;458,912;22,45;n/a,
+3;BNPP;BNP Paribas;301,181;59,60;n/a,
+3;BOUY;Bouygues;103,065;32,37;n/a,
+3;CAPP;Cap Gemini;400,382;59,75;n/a,
+3;CARR;Carrefour;429,059;48,75;n/a,
+3;CASP;Casino Guichard;11,884;86,60;n/a,
+3;CRLP;Credit Lionnais;47,326;46,22;n/a,
+3;DANO;Groupe Danone;44,876;144,60;n/a,
+3;DAST;Dassault Systemes;9,381;46,89;n/a,
+3;DEXI;Dexia (Ex Dexia Bell);175,09;18,42;n/a,
+3;EAD;EADS;146,496;16,77;n/a,
+3;FTE;France Telecom;1,653,343;21,84;n/a
+3;LAFP;Lafarge;24,873;106,60;n/a,
+3;LAGA;Lagardere;55,054;48,36;n/a,
+3;LVMH;L.V.M.H. Moet Vuitton;72,336;58,15;n/a,
+3;MICP;Michelin;21,871;43,38;n/a,
+3;OREP;L'Oreal;118,134;83,70;n/a,
+3;ORA;Orange;651,501;249,59;n/a,
+3;PEUP;Peugeot SA;159,242;59,05;n/a,
+3;PRTP;Pinault Printemps;12,15;123,00;n/a,
+3;RENA;Renault;287,253;54,70;n/a,
+3;SGOB;Saint-Gobain;15,667;190,70;n/a,
+3;SASY;Sanofi-Synthelabo;161,278;68,45;n/a,
+3;SCHN;Schneider Electric;85,258;53,05;n/a,
+3;SOGN;Societe Generale;113,806;78,20;n/a,
+3;EXHO;SodexHo Alliance;39,509;42,30;n/a,
+3;STM;Stmicroeletronics;991,328;31,93;n/a,
+3;LYOE;Suez;277,433;32,28;n/a,
+3;TFFP;TF1;246,196;33,47;n/a,
+3;TCFP;THALES ex TH-CSF;22,984;42,60;n/a,
+3;TMM;Thomson Multimedia;33,823;28,79;n/a,
+3;TOTF;Total Fina Elf;144;170,20;n/a,,
+3;SGEF;Vinci;27,889;70,35;n/a,
+3;VIE;Vivendi Envir;28,161;36,97;n/a,
+3;EAUG;Vivendi Universal;1,87,287;31,70;n/a
+4;MMM;3M Co.;n/a;126,30;8,7066,
+4;AA;Alcoa Inc.;n/a;34,90;2,4059,
+4;AXP;American Express Co.;n/a;42,23;2,9112,
+4;T;AT&T Corp.;n/a;13,75;0,9479,
+4;BA;Boeing Co.;n/a;44,98;3,1007,
+4;CAT;Caterpillar Inc.;n/a;53,86;3,7129
+4;C;Citigroup Inc.;n/a;44,33;3,559
+4;KO;Coca-Cola Co.;n/a;56,50;3,8949
+4;DD;E.I. DuPont de Nemours & Co.;n/a;45,97;3,169
+4;EK;Eastman Kodak Co.;n/a;34,65;2,3886
+4;XOM;Exxon Mobil Corp.;n/a;39,36;2,7133
+4;GE;General Electric Co.;n/a;31,50;2,1715
+4;GM;General Motors Corp.;n/a;65,81;4,5367
+4;HPQ;Hewlett-Packard Co.;n/a;20,01;1,3794
+4;HD;Home Depot Inc.;n/a;46,15;3,1814
+4;HON;Honeywell International Inc.;n/a;38,08;2,6251
+4;INTC;Intel Corp.;n/a;28,24;1,9468
+4;IBM;International Business Machines Corp.;n/a;79,93;5,5101
+4;IP;International Paper Co.;n/a;43,05;2,9677
+4;JPM;J.P. Morgan Chase & Co.;n/a;35,77;2,4658
+4;JNJ;Johnson & Johnson;n/a;61,37;4,2306
+4;MCD;McDonald's Corp.;n/a;29,28;2,184,,,
+4;MRK;Merck & Co. Inc.;n/a;55,76;3,8439,,,
+4;MSFT;Microsoft Corp.;n/a;52,12;3,5929,,,
+4;MO;Philip Morris Cos. Inc.;n/a;55,27;3,8101,,,
+4;PG;Procter & Gamble Co.;n/a;92,06;6,3463,,,
+4;SBC;SBC Communications Inc.;n/a;31,35;2,1611,,,
+4;UTX;United Technologies Corp.;n/a;69,50;4,7911,,,
+4;WMT;Wal-Mart Stores Inc.;n/a;54,99;3,7908,,,
+4;DIS;Walt Disney Co.;n/a;23,55;1,6234,,,
+5;ABGX;Abgenix, Inc.;1,896,800;13,53;0,8
+5;ADCT;ADC Telecommunications, Inc.;3,668,700;3,71;0,34
+5;ADLAE;Adelphia Communications Corporation;13,25,100;6,56;0,4,
+5;ADBE;Adobe Systems Incorporated;5,841,800;39,84;0,50,
+5;ALTR;Altera Corporation;10,36,700;18,77;0,73,
+5;AMZN;Amazon.com, Inc.;11,3,800;17,73;0,14
+5;AMGN;Amgen Inc.;11,485,800;47,59;1,5,
+5;ADRX;Andrx Group;999,000;45,50;0,6,,
+5;APOL;Apollo Group, Inc.;987,700;36,47;0,34,
+5;AAPL;Apple Computer, Inc.;4,11,000;24,19;0,12
+5;AMAT;Applied Materials, Inc.;35,306,200;25,26;0,35
+5;AMCC;Applied Micro Circuits Corporation;10,874,400;6,72;0,17,
+5;ATML;Atmel Corporation;4,589,800;8,01;0,21,
+5;BEAS;BEA Systems, Inc.;10,846,400;10,00;0,40
+5;BBBY;Bed Bath & Beyond Inc.;2,827,700;35,14;0,14,
+5;BGEN;Biogen, Inc.;2,352,300;40,55;0,42
+5;BMET;Biomet, Inc.;2,275,800;28,11;0,52
+5;BRCM;Broadcom Corporation;16,212,800;25,78;0,61,
+5;BRCD;Brocade Communications Systems, Inc.;27,289,700;23,13;0,63
+5;CDWC;CDW Computer Centers, Inc.;1,257,500;53,56;0,19
+5;CEPH;Cephalon, Inc.;1,769,500;55,93;0,20
+5;CHTR;Charter Communications, Inc.;2,980,200;8,29;0,9
+5;CHKP;Check Point Software Technologies Ltd.;6,398,000;18,29;0,21,
+5;CHIR;Chiron Corporation;2,649,100;37,04;0,75,
+5;CIEN;CIENA Corporation;9,322,300;7,06;0,17,
+5;CTAS;Cintas Corporation;1,405,700;55,11;0,3,
+5;CSCO;Cisco Systems, Inc.;89,870,900;15,75;1,89
+5;CTXS;Citrix Systems, Inc.;1,405,000;10,63;0,18
+5;CMCSK;Comcast Corporation;5,953,400;29,01;0,28,
+5;CPWR;Compuware Corporation;5,30,200;6,93;0,2,
+5;CMVT;Comverse Technology, Inc.;1,959,100;12,07;0,3
+5;CEFT;Concord EFS, Inc.;2,868,700;33,33;0,63
+5;CNXT;Conexant Systems, Inc.;6,8,900;7,96;0,23
+5;COST;Costco Wholesale Corporation;3,955,200;41,01;0,24,
+5;CYTC;Cytyc Corporation;2,104,100;15,80;0,4,
+5;DELL;Dell Computer Corporation;19,403,800;25,24;0,54,
+5;EBAY;eBay Inc.;5,20,100;53,66;0,10,
+5;DISH;EchoStar Communications Corporation;4,34,100;24,54;0,45,
+5;ERTS;Electronic Arts Inc.;3,825,600;58,95;0,23,
+5;ESRX;Express Scripts, Inc.;1,471,100;58,20;0,9
+5;FISV;Fiserv, Inc.;1,210,700;43,57;0,36
+5;FLEX;Flextronics International Ltd.;7,682,100;13,94;0,35,
+5;GMST;Gemstar-TV Guide International Inc.;2,391,000;8,82;0,16,
+5;GENZ;Genzyme General;2,696,700;37,60;0,63,
+5;GILD;Gilead Sciences, Inc.;3,552,000;34,00;0,22
+5;HGSI;Human Genome Sciences, Inc.;1,814,900;14,59;0,18
+5;ITWO;i2 Technologies, Inc.;4,720,800;2,94;0,21
+5;ICOS;ICOS Corporation;949,900;24,19;0,7,,
+5;IDPH;IDEC Pharmaceuticals Corporation;3,849,800;49,11;0,67,
+5;IMCL;ImClone Systems Incorporated;1,912,100;13,51;0,14,
+5;IMNX;Immunex Corporation;4,80,200;25,18;0,84,
+5;IDTI;Integrated Device Technology, Inc.;2,120,600;27,80;0,19
+5;INTC;Intel Corporation;41,395,200;28,24;2,40,
+5;INTU;Intuit Inc.;2,307,900;39,72;0,47,
+5;IVGN;Invitrogen Corporation;1,341,400;32,27;0,2,
+5;JDSU;JDS Uniphase Corporation;20,45,000;4,15;0,38,
+5;JNPR;Juniper Networks, Inc.;12,442,200;9,03;0,17
+5;KLAC;KLA-Tencor Corporation;18,261,500;57,50;0,31,
+5;LLTC;Linear Technology Corporation;4,205,900;36,49;0,96,
+5;ERICY;LM Ericsson Telephone Company;13,966,800;2,38;0,13,
+5;MXIM;Maxim Integrated Products, Inc.;6,335,600;47,48;0,95
+5;MEDI;MedImmune, Inc.;2,985,100;30,14;0,64
+5;MERQ;Mercury Interactive Corporation;6,824,000;36,90;0,21,
+5;MCHP;Microchip Technology Incorporated;4,266,300;29,60;0,28,
+5;MSFT;Microsoft Corporation;41,650,000;52,12;7,35,
+5;MLNM;Millennium Pharmaceuticals, Inc.;3,606,500;17,01;0,50
+5;MOLX;Molex Incorporated;1,165,300;35,24;0,4,
+5;NTAP;Network Appliance, Inc.;9,74,700;16,37;0,26
+5;NXTL;Nextel Communications, Inc.;12,522,600;4,98;0,37
+5;NVLS;Novellus Systems, Inc.;14,267,700;49,02;0,38
+5;NVDA;NVIDIA Corporation;10,258,200;34,46;0,33,
+5;ORCL;Oracle Corporation;44,338,200;8,48;2,12,
+5;PCAR;PACCAR Inc.;906,800;69,49;0,12,,
+5;SPOT;PanAmSat Corporation;527,000;23,76;0,5,,
+5;PAYX;Paychex, Inc.;2,381,000;35,06;0,59
+5;PSFT;PeopleSoft, Inc.;8,181,100;23,00;0,25
+5;PMCS;PMC - Sierra, Inc.;6,229,600;15,30;0,18
+5;PDLI;Protein Design Labs, Inc.;2,888,900;12,30;0,9
+5;QLGC;QLogic Corporation;15,604,500;47,42;0,14,
+5;QCOM;QUALCOMM Incorporated;19,228,600;28,34;1,40,
+5;RATL;Rational Software Corporation;5,192,100;12,90;0,4,
+5;RFMD;RF Micro Devices, Inc.;5,628,300;17,00;0,11
+5;SANM;Sanmina-SCI Corporation;7,833,500;11,34;0,2,
+5;SEPR;Sepracor Inc.;1,811,600;12,03;0,10,
+5;SEBL;Siebel Systems, Inc.;17,528,500;23,01;0,4
+5;SSCC;Smurfit-Stone Container Corporation;1,490,100;17,03;0,0,
+5;SPLS;Staples, Inc.;4,858,100;19,90;0,9
+5;SBUX;Starbucks Corporation;3,155,700;22,41;0,25,
+5;SUNW;Sun Microsystems, Inc.;128,619,700;6,67;0,43
+5;SYMC;Symantec Corporation;2,808,000;35,52;0,41,
+5;SNPS;Synopsys, Inc.;1,247,000;49,53;0,3
+5;TLAB;Tellabs, Inc.;2,611,900;8,86;0,28
+5;TMPW;TMP Worldwide Inc.;3,51,700;26,99;0,2,
+5;USAI;USA Interactive;2,981,500;29,94;0,23,
+5;VRSN;VeriSign, Inc.;10,569,600;9,85;0,12
+5;VRTS;VERITAS Software Corporation;11,12,200;26,22;0,99,
+5;VTSS;Vitesse Semiconductor Corporation;7,806,300;5,81;0,9,
+5;WCOM;WorldCom, Inc.;128,552,600;2,01;0,21
+5;XLNX;Xilinx, Inc.;9,968,700;37,45;0,70
+5;YHOO;Yahoo! Inc.;11,19,100;16,37;0,2,
+6;ACE;ACE Limited;1,912,100;24,19;n/a,,
+6;ADCT;ADC Telecommunications;4,80,200;25,26;n/a,,
+6;AES;AES Corp.;2,120,600;6,72;n/a,,
+6;AFL;AFLAC Corporation;41,395,200;8,01;n/a
+6;AT;ALLTEL Corp.;2,307,900;10,00;n/a
+6;AMR;AMR Corp.;1,341,400;35,14;n/a
+6;AOL;AOL Time Warner Inc.;20,45,000;40,55;n/a
+6;T;AT&T Corp.;12,442,200;28,11;n/a
+6;AWE;AT&T Wireless Services;18,261,500;25,78;n/a
+6;ABT;Abbott Labs;4,205,900;23,13;n/a
+6;ADBE;Adobe Systems;13,966,800;53,56;n/a
+6;AMD;Advanced Micro Devices;6,335,600;55,93;n/a
+6;AET;Aetna Inc. (New);2,985,100;8,29;n/a
+6;A;Agilient Technologies;6,824,000;18,29;n/a
+6;APD;Air Products & Chemicals;4,266,300;37,04;n/a
+6;ACV;Alberto-Culver;41,650,000;7,06;n/a
+6;ABS;Albertson's;3,606,500;55,11;n/a
+6;AL;Alcan Inc.;1,165,300;15,75;n/a
+6;AA;Alcoa Inc;9,74,700;10,63;n/a
+6;AYE;Allegheny Energy;12,522,600;29,01;n/a,
+6;ATI;Allegheny Technologies Inc;14,267,700;6,93;n/a,
+6;AGN;Allergan, Inc.;10,258,200;12,07;n/a
+6;AW;Allied Waste Industries;44,338,200;33,33;n/a,
+6;ALL;Allstate Corp.;906,800;7,96;n/a,,
+6;ALTR;Altera Corp.;527,000;41,01;n/a,,
+6;ASO;AmSouth Bancorporation;2,381,000;15,80;n/a,
+6;ABK;Ambac Financial Group;10,258,200;25,24;n/a,
+6;AHC;Amerada Hess;44,338,200;53,66;n/a,
+6;AEE;Ameren Corporation;906,800;24,54;n/a,,
+6;AEP;American Electric Power;527,000;58,95;n/a,,
+6;AXP;American Express;2,381,000;58,20;n/a,
+6;AM;American Greetings Class A;8,181,100;43,57;n/a,
+6;AIG;American Int'l. Group;6,229,600;13,94;n/a,
+6;APCC;American Power Conversion;2,888,900;8,82;n/a,
+6;ABC;AmerisourceBergen Corp.;15,604,500;37,60;n/a,
+6;AMGN;Amgen;19,228,600;34,00;n/a,
+6;APC;Anadarko Petroleum;5,192,100;14,59;n/a,
+6;ADI;Analog Devices;5,628,300;2,94;n/a,
+6;ANDW;Andrew Corp.;7,833,500;24,19;n/a,
+6;BUD;Anheuser-Busch;1,811,600;49,11;n/a,
+6;AOC;Aon Corp.;17,528,500;13,51;n/a,
+6;APA;Apache Corp.;1,490,100;25,18;n/a,
+6;AAPL;Apple Computer;4,858,100;27,80;n/a,
+6;ABI;Applera Corp-Applied Biosystems Group;3,155,700;28,24;n/a,
+6;AMAT;Applied Materials;128,619,700;39,72;n/a,
+6;AMCC;Applied Micro Circuits;2,808,000;32,27;n/a,
+6;ADM;Archer-Daniels-Midland;2,649,100;4,15;n/a,
+6;ASH;Ashland Inc.;9,322,300;9,03;n/a,
+6;AZO;AutoZone Inc.;1,405,700;57,50;n/a,
+6;ADSK;Autodesk, Inc.;89,870,900;36,49;n/a
+6;ADP;Automatic Data Processing Inc.;1,405,000;2,38;n/a,
+6;AV;Avaya Inc.;5,953,400;47,48;n/a,
+6;AVY;Avery Dennison Corp.;5,30,200;30,14;n/a,
+6;AVP;Avon Products;1,959,100;36,90;n/a,
+6;BBT;BB&T Corporation;2,868,700;29,60;n/a,
+6;BMC;BMC Software;6,8,900;52,12;n/a,
+6;BHI;Baker Hughes;3,955,200;17,01;n/a,
+6;BLL;Ball Corp.;2,104,100;35,24;n/a,
+6;ONE;Bank One Corp.;19,403,800;16,37;n/a,
+6;BAC;Bank of America Corp.;5,20,100;4,98;n/a,
+6;BK;Bank of New York;4,34,100;49,02;n/a,
+6;BCR;Bard (C.R.) Inc.;3,825,600;24,19;n/a,
+6;ABX;Barrick Gold Corp.;1,471,100;49,11;n/a,
+6;BOL;Bausch & Lomb;1,210,700;13,51;n/a,
+6;BAX;Baxter International Inc.;7,682,100;25,18;n/a,
+6;BSC;Bear Stearns Cos.;2,391,000;27,80;n/a,
+6;BDX;Becton, Dickinson;2,696,700;28,24;n/a
+6;BBBY;Bed Bath & Beyond;3,552,000;39,72;n/a,
+6;BLS;BellSouth;1,814,900;32,27;n/a,
+6;BMS;Bemis Company;4,720,800;4,15;n/a,
+6;BBY;Best Buy Co., Inc.;949,900;9,03;n/a,
+6;BLI;Big Lots, Inc.;3,849,800;57,50;n/a
+6;BGEN;Biogen Inc.;1,912,100;36,49;n/a,
+6;BMET;Biomet, Inc.;4,80,200;2,38;n/a
+6;BDK;Black & Decker Corp.;2,120,600;47,48;n/a,
+6;HRB;Block H&R;41,395,200;30,14;n/a,
+6;BA;Boeing Company;2,307,900;36,90;n/a,
+6;BCC;Boise Cascade;1,341,400;29,60;n/a,
+6;BSX;Boston Scientific;20,45,000;52,12;n/a,
+6;BMY;Bristol-Myers Squibb;12,442,200;17,01;n/a,
+6;BRCM;Broadcom Corporation;18,261,500;35,24;n/a,
+6;BF.B;Brown-Forman Corp.;4,205,900;16,37;n/a,
+6;BC;Brunswick Corp.;13,966,800;4,98;n/a,
+6;BNI;Burlington Northern Santa Fe C;6,335,600;49,02;n/a,
+6;BR;Burlington Resources;2,985,100;34,46;n/a,
+6;CIEN;CIENA Corp.;6,824,000;8,48;n/a,
+6;CI;CIGNA Corp.;8,360,000;69,49;n/a,
+6;CIN;CINergy Corp.;2,930,000;23,76;n/a,
+6;CMS;CMS Energy;2,570,000;35,06;n/a,
+6;CSX;CSX Corp.;9,660,000;23,00;n/a,
+6;CVS;CVS Corp.;482,354;15,30;n/a,,
+6;CPN;Calpine Corp.;23,330,000;12,30;n/a,
+6;CPB;Campbell Soup;544,656;47,42;n/a,,
+6;COF;Capital One Financial;17,480,000;28,34;n/a,
+6;CAH;Cardinal Health, Inc.;5,40,000;12,90;n/a
+6;CCL;Carnival Corp.;454,388;17,00;n/a,,
+6;CAT;Caterpillar Inc.;34,490,000;11,34;n/a,
+6;CD;Cendant Corporation;4,750,000;12,03;n/a,
+6;CTX;Centex Corp.;1,630,000;23,01;n/a,
+6;CTL;Century Telephone;630,067;17,03;n/a,
+6;SCH;Charles Schwab;537,999;19,90;n/a,
+6;CF;Charter One Financial;18,280,000;22,41;n/a
+6;CVX;ChevronTexaco Corp.;696,944;6,67;n/a,
+6;CHIR;Chiron Corp.;289,900;35,52;n/a,
+6;CB;Chubb Corp.;3,890,000;13,53;n/a
+6;CINF;Cincinnati Financial;1,560,000;3,71;n/a
+6;CTAS;Cintas Corporation;5,680,000;6,56;n/a
+6;CC;Circuit City Group;717,375;39,84;n/a,
+6;CSCO;Cisco Systems;1,820,000;18,77;n/a
+6;C;Citigroup Inc.;29,670,000;17,73;n/a
+6;CZN;Citizens Communications;1,405,000;47,59;n/a
+6;CTXS;Citrix Systems;5,953,400;45,50;n/a
+6;CCU;Clear Channel Communications;5,30,200;36,47;n/a
+6;CLX;Clorox Co.;1,959,100;24,19;n/a
+6;KO;Coca Cola Co.;2,868,700;25,26;n/a
+6;CCE;Coca-Cola Enterprises;6,8,900;6,72;n/a,
+6;CL;Colgate-Palmolive;3,955,200;8,01;n/a,
+6;CMCSK;Comcast Class A Special;2,104,100;10,00;n/a,
+6;CMA;Comerica Inc.;19,403,800;35,14;n/a,
+6;CA;Computer Associates Intl.;5,20,100;40,55;n/a,
+6;CSC;Computer Sciences Corp.;4,34,100;28,11;n/a,
+6;CPWR;Compuware Corp.;3,825,600;25,78;n/a,
+6;CMVT;Comverse Technology;1,471,100;23,13;n/a,
+6;CAG;ConAgra Foods, Inc.;1,210,700;53,56;n/a
+6;CEFT;Concord EFS Inc.;7,682,100;55,93;n/a,
+6;CNXT;Conexant Systems Electronics;2,391,000;8,29;n/a,
+6;COC;Conoco Inc.;2,696,700;18,29;n/a,
+6;CNC;Conseco Inc.;3,552,000;37,04;n/a,
+6;ED;Consolidated Edison;1,814,900;7,06;n/a,
+6;CEG;Constellation Energy Group;4,720,800;55,11;n/a,
+6;CVG;Convergys Corp.;949,900;15,75;n/a,,
+6;CBE;Cooper Industries;3,849,800;10,63;n/a
+6;CTB;Cooper Tire & Rubber;1,912,100;29,01;n/a
+6;RKY;Coors (Adolph);4,80,200;13,53;n/a
+6;GLW;Corning Inc.;2,120,600;3,71;n/a
+6;COST;Costco Co.;41,395,200;6,56;n/a
+6;CCR;Countrywide Credit Industries;2,307,900;39,84;n/a
+6;CR;Crane Company;1,341,400;18,77;n/a
+6;CUM;Cummins  Inc.;20,45,000;17,73;n/a
+6;DTE;DTE Energy Co.;12,442,200;47,59;n/a
+6;DCN;Dana Corp.;18,261,500;45,50;n/a
+6;DHR;Danaher Corp.;6,335,600;36,47;n/a
+6;DRI;Darden Restaurants;2,985,100;24,19;n/a
+6;DE;Deere & Co.;6,824,000;25,26;n/a
+6;DELL;Dell Computer;4,266,300;6,72;n/a
+6;DPH;Delphi Corporation;41,650,000;8,01;n/a
+6;DAL;Delta Air Lines;3,606,500;10,00;n/a
+6;DLX;Deluxe Corp.;1,165,300;35,14;n/a
+6;DVN;Devon Energy Corp.;9,74,700;40,55;n/a
+6;DDS;Dillard Inc.;12,522,600;28,11;n/a
+6;DG;Dollar General;14,267,700;25,78;n/a
+6;D;Dominion Resources;10,258,200;23,13;n/a
+6;DNY;Donnelley (R.R.) & Sons;44,338,200;53,56;n/a
+6;DOV;Dover Corp.;906,800;55,93;n/a,
+6;DOW;Dow Chemical;527,000;8,29;n/a,
+6;DJ;Dow Jones & Co.;2,381,000;18,29;n/a
+6;DD;Du Pont (E.I.);8,181,100;37,04;n/a
+6;DUK;Duke Energy;6,229,600;7,06;n/a
+6;DYN;Dynegy Inc. (New) Class A;2,888,900;55,11;n/a
+6;EMC;EMC Corp.;15,604,500;15,75;n/a
+6;EOG;EOG Resources;19,228,600;10,63;n/a
+6;EMN;Eastman Chemical;5,192,100;29,01;n/a
+6;EK;Eastman Kodak;5,628,300;13,53;n/a
+6;ETN;Eaton Corp.;7,833,500;3,71;n/a
+6;ECL;Ecolab Inc.;20,45,000;6,56;n/a
+6;EIX;Edison Int'l;12,442,200;39,84;n/a
+6;EP;El Paso Corp.;18,261,500;18,77;n/a
+6;EDS;Electronic Data Systems;4,205,900;17,73;n/a
+6;EMR;Emerson Electric;13,966,800;47,59;n/a
+6;EC;Engelhard Corp.;6,335,600;45,50;n/a
+6;ETR;Entergy Corp.;2,985,100;36,47;n/a
+6;EFX;Equifax Inc.;6,824,000;24,19;n/a
+6;EOP;Equity Office Properties;4,266,300;25,26;n/a
+6;EQR;Equity Residential Prop Tr;41,650,000;6,72;n/a
+6;EXC;Exelon Corp.;3,606,500;8,01;n/a
+6;XOM;Exxon Mobil Corp.;1,165,300;10,00;n/a
+6;FISV;FIserv Inc.;9,74,700;35,14;n/a
+6;FPL;FPL Group;12,522,600;40,55;n/a
+6;FDO;Family Dollar Stores;14,267,700;28,11;n/a
+6;FNM;Fannie Mae;10,258,200;25,78;n/a,
+6;FDX;Federal Express;44,338,200;23,13;n/a,
+6;FRE;Federal Home Loan Mtg.;906,800;53,56;n/a,,
+6;FD;Federated Dept. Stores;527,000;55,93;n/a,,
+6;FITB;Fifth Third Bancorp;2,381,000;8,29;n/a,
+6;FDC;First Data;10,258,200;18,29;n/a,
+6;FE;FirstEnergy Corp.;44,338,200;37,04;n/a,
+6;FTN;First Tennessee National;906,800;7,06;n/a,,
+6;FBF;Fleet Boston Financial Group;527,000;55,11;n/a,,
+6;FLR;Fluor Corp. (New);2,381,000;15,75;n/a,
+6;F;Ford Motor;8,181,100;10,63;n/a,
+6;FRX;Forest Laboratories;6,229,600;29,01;n/a,
+6;FO;Fortune Brands, Inc.;2,888,900;25,26;n/a
+6;BEN;Franklin Resources;15,604,500;6,72;n/a,
+6;FCX;Freeport-McMoran Cp & Gld;19,228,600;8,01;n/a,
+6;GCI;Gannett Co.;5,192,100;10,00;n/a,
+6;GPS;Gap (The);5,628,300;35,14;n/a
+6;GTW;Gateway 2000;7,833,500;40,55;n/a
+6;GD;General Dynamics;1,811,600;28,11;n/a
+6;GE;General Electric;17,528,500;25,78;n/a
+6;GIS;General Mills;1,490,100;23,13;n/a
+6;GM;General Motors;4,858,100;53,56;n/a
+6;GPC;Genuine Parts;3,155,700;55,93;n/a
+6;GENZ;Genzyme Corp.;128,619,700;8,29;n/a
+6;GP;Georgia-Pacific Group;2,808,000;18,29;n/a
+6;G;Gillette Co.;2,649,100;37,04;n/a
+6;GDW;Golden West Financial;9,322,300;7,06;n/a
+6;GR;Goodrich Corporation;1,405,700;55,11;n/a
+6;GT;Goodyear Tire & Rubber;89,870,900;15,75;n/a
+6;GWW;Grainger (W.W.) Inc.;1,405,000;10,63;n/a
+6;GLK;Great Lakes Chemical;5,953,400;29,01;n/a
+6;GDT;Guidant Corp.;5,30,200;6,93;n/a
+6;HCA;HCA Inc.;1,959,100;12,07;n/a,
+6;HRC;HEALTHSOUTH Corp.;2,868,700;33,33;n/a,
+6;HAL;Halliburton Co.;6,8,900;7,96;n/a,
+6;HDI;Harley-Davidson;3,955,200;41,01;n/a,
+6;HET;Harrah's Entertainment;2,104,100;15,80;n/a,
+6;HIG;Hartford Financial Svc.Gp.;19,403,800;25,24;n/a,
+6;HAS;Hasbro Inc.;5,20,100;53,66;n/a,
+6;HMA;Health Management Assoc.;4,34,100;24,54;n/a,
+6;HNZ;Heinz (H.J.);3,825,600;58,95;n/a,
+6;HPC;Hercules, Inc.;1,471,100;58,20;n/a
+6;HSY;Hershey Foods;1,210,700;43,57;n/a,
+6;HPQ;Hewlett-Packard;7,682,100;13,94;n/a,
+6;HLT;Hilton Hotels;2,391,000;8,82;n/a,
+6;HD;Home Depot;2,696,700;37,60;n/a,
+6;HON;Honeywell Int'l Inc.;3,552,000;34,00;n/a,
+6;HI;Household International;1,814,900;14,59;n/a,
+6;HUM;Humana Inc.;4,720,800;2,94;n/a,
+6;HBAN;Huntington Bancshares;949,900;24,19;n/a,,
+6;RX;IMS Health Inc.;3,849,800;49,11;n/a,
+6;ITT;ITT Industries, Inc.;1,912,100;13,51;n/a
+6;ITW;Illinois Tool Works;4,80,200;25,18;n/a,
+6;IMNX;Immunex Corp.;2,120,600;27,80;n/a,
+6;N;Inco, Ltd.;41,395,200;28,24;n/a
+6;IR;Ingersoll-Rand Co. Ltd.;2,307,900;39,72;n/a,
+6;INTC;Intel Corp.;1,341,400;32,27;n/a,
+6;IBM;International Bus. Machines;20,45,000;4,15;n/a,
+6;IFF;International Flav/Frag;12,442,200;9,03;n/a,
+6;IGT;International Game Technology;18,261,500;57,50;n/a,
+6;IP;International Paper;4,205,900;36,49;n/a,
+6;IPG;Interpublic Group;13,966,800;2,38;n/a,
+6;INTU;Intuit, Inc.;6,335,600;47,48;n/a
+6;JPM;J.P. Morgan Chase & Co.;2,985,100;30,14;n/a,
+6;JDSU;JDS Uniphase Corp;2,391,000;36,90;n/a
+6;JBL;Jabil Circuit;2,696,700;29,60;n/a
+6;JP;Jefferson-Pilot;3,552,000;52,12;n/a
+6;JHF;John Hancock Financial;1,814,900;17,01;n/a
+6;JNJ;Johnson & Johnson;4,720,800;35,24;n/a
+6;JCI;Johnson Controls;949,900;16,37;n/a,
+6;JNY;Jones Apparel Group;3,849,800;4,98;n/a
+6;KBH;KB Home;1,912,100;49,02;n/a
+6;KLAC;KLA-Tencor Corp.;4,80,200;24,19;n/a
+6;K;Kellogg Co.;2,120,600;49,11;n/a
+6;KMG;Kerr-McGee;41,395,200;13,51;n/a
+6;KEY;KeyCorp;2,307,900;25,18;n/a
+6;KSE;Keyspan Energy;1,341,400;27,80;n/a
+6;KMB;Kimberly-Clark;20,45,000;28,24;n/a
+6;KMI;Kinder Morgan;12,442,200;39,72;n/a
+6;KG;King Pharmaceuticals;20,45,000;32,27;n/a
+6;KRI;Knight-Ridder Inc.;12,442,200;4,15;n/a,
+6;KSS;Kohl's Corp.;18,261,500;9,03;n/a,
+6;KR;Kroger Co.;4,205,900;57,50;n/a,
+6;LSI;LSI Logic;2,391,000;36,49;n/a,
+6;LEG;Leggett & Platt;2,696,700;2,38;n/a,
+6;LEH;Lehman Bros.;3,552,000;47,48;n/a,
+6;LXK;Lexmark Int'l Inc;1,814,900;30,14;n/a,
+6;LLY;Lilly (Eli) & Co.;4,720,800;36,90;n/a,
+6;LTD;Limited Inc.;949,900;29,60;n/a,,
+6;LNC;Lincoln National;3,849,800;52,12;n/a,
+6;LLTC;Linear Technology Corp.;1,912,100;17,01;n/a,
+6;LIZ;Liz Claiborne, Inc.;4,80,200;35,24;n/a
+6;LMT;Lockheed Martin Corp.;2,120,600;16,37;n/a,
+6;LTR;Loews Corp.;41,395,200;4,98;n/a,
+6;LPX;Louisiana Pacific;2,307,900;49,02;n/a,
+6;LOW;Lowe's Cos.;1,341,400;34,46;n/a,
+6;LU;Lucent Technologies;20,45,000;8,48;n/a,
+6;MBI;MBIA Inc.;12,442,200;69,49;n/a,
+6;KRB;MBNA Corp.;20,45,000;23,76;n/a,
+6;MTG;MGIC Investment;12,442,200;35,06;n/a,
+6;HCR;HCR Manor Care;18,261,500;23,00;n/a,
+6;MRO;Marathon Oil Corp.;4,205,900;15,30;n/a,
+6;MAR;Marriott Int'l.;13,966,800;12,30;n/a,
+6;MMC;Marsh & McLennan;7,682,100;47,42;n/a,
+6;MI;Marshall & Ilsley Corp.;2,391,000;28,34;n/a,
+6;MAS;Masco Corp.;2,696,700;12,90;n/a,
+6;MAT;Mattel, Inc.;3,552,000;17,00;n/a
+6;MXIM;Maxim Integrated Prod;1,814,900;11,34;n/a,
+6;MAY;May Dept. Stores;4,720,800;12,03;n/a,
+6;MYG;Maytag Corp.;949,900;23,01;n/a,,
+6;MDR;McDermott International;3,849,800;17,03;n/a,
+6;MCD;McDonald's Corp.;1,912,100;19,90;n/a,
+6;MHP;McGraw-Hill;4,80,200;22,41;n/a
+6;MCK;McKesson Corp. (New);2,120,600;6,67;n/a
+6;MWV;MeadWestvaco Corporation;41,395,200;35,52;n/a
+6;MEDI;MedImmune Inc.;2,307,900;13,53;n/a
+6;MDT;Medtronic Inc.;1,341,400;3,71;n/a
+6;MEL;Mellon Bank Corp.;20,45,000;6,56;n/a
+6;MRK;Merck & Co.;12,442,200;39,84;n/a
+6;MERQ;Mercury Interactive;20,45,000;18,77;n/a
+6;MDP;Meredith Corp.;12,442,200;17,73;n/a
+6;MER;Merrill Lynch;18,261,500;47,59;n/a
+6;MET;MetLife Inc.;4,205,900;45,50;n/a
+6;MU;Micron Technology;13,966,800;36,47;n/a
+6;MSFT;Microsoft Corp.;6,335,600;24,19;n/a
+6;MIL;Millipore Corp.;2,985,100;25,26;n/a
+6;MMM;3M Company;6,824,000;6,72;n/a
+6;MIR;Mirant Corporation;4,266,300;8,01;n/a
+6;MOLX;Molex Inc.;41,650,000;10,00;n/a,
+6;MCO;Moody's Corp;3,606,500;35,14;n/a,
+6;MWD;Morgan Stanley, Dean Witter;1,165,300;40,55;n/a
+6;MOT;Motorola Inc.;9,74,700;28,11;n/a,
+6;NCR;NCR Corp.;12,522,600;25,78;n/a,
+6;GAS;NICOR Inc.;14,267,700;23,13;n/a,
+6;NKE;NIKE Inc.;10,258,200;53,56;n/a,
+6;NVDA;NVIDIA Corp.;44,338,200;55,93;n/a,
+6;NBR;Nabors Industries;906,800;8,29;n/a,,
+6;NCC;National City Corp.;527,000;18,29;n/a,,
+6;NSM;National Semiconductor;2,381,000;37,04;n/a,
+6;NAV;Navistar International Corp.;10,258,200;7,06;n/a,
+6;NTAP;Network Appliance;44,338,200;55,11;n/a,
+6;NYT;New York Times Cl. A;906,800;15,75;n/a,,
+6;NWL;Newell Rubbermaid Co.;527,000;10,63;n/a,,
+6;NEM;Newmont Mining Corp. (Hldg. Co.);2,381,000;29,01;n/a,
+6;NXTL;Nextel Communications;8,181,100;13,53;n/a
+6;NI;NiSource Inc.;6,229,600;3,71;n/a
+6;NE;Noble Corporation;2,888,900;6,56;n/a
+6;JWN;Nordstrom;15,604,500;39,84;n/a
+6;NSC;Norfolk Southern Corp.;19,228,600;18,77;n/a
+6;NT;Nortel Networks Corp Hldg Co.;5,192,100;17,73;n/a
+6;NTRS;Northern Trust Corp.;5,628,300;47,59;n/a
+6;NOC;Northrop Grumman Corp.;7,833,500;45,50;n/a
+6;NOVL;Novell Inc.;1,811,600;36,47;n/a
+6;NVLS;Novellus Systems;17,528,500;24,19;n/a
+6;NUE;Nucor Corp.;1,490,100;25,26;n/a
+6;OXY;Occidental Petroleum;4,858,100;6,72;n/a
+6;ODP;Office Depot;3,155,700;8,01;n/a
+6;OMC;Omnicom Group;128,619,700;10,00;n/a
+6;ORCL;Oracle Corp.;2,808,000;35,14;n/a
+6;PCAR;PACCAR Inc.;2,649,100;40,55;n/a
+6;PCG;PG&E Corp.;9,322,300;28,11;n/a
+6;PMCS;PMC-Sierra Inc.;1,405,700;25,78;n/a
+6;PNC;PNC Bank Corp.;89,870,900;23,13;n/a
+6;PPG;PPG Industries;1,405,000;53,56;n/a
+6;PPL;PPL Corp.;5,953,400;55,93;n/a
+6;PTV;Pactiv Corp.;5,30,200;8,29;n/a
+6;PLL;Pall Corp.;1,959,100;18,29;n/a
+6;PALM;Palm Inc.;2,868,700;37,04;n/a
+6;PMTC;Parametric Technology;6,8,900;7,06;n/a
+6;PH;Parker-Hannifin;3,955,200;55,11;n/a
+6;PAYX;Paychex Inc.;2,104,100;15,75;n/a
+6;JCP;Penney (J.C.);19,403,800;10,63;n/a
+6;PSFT;PeopleSoft Inc.;5,20,100;29,01;n/a
+6;PGL;Peoples Energy;4,34,100;6,93;n/a
+6;PBG;Pepsi Bottling Group;3,825,600;12,07;n/a
+6;PEP;PepsiCo Inc.;1,471,100;33,33;n/a
+6;PKI;PerkinElmer;1,210,700;7,96;n/a,
+6;PFE;Pfizer, Inc.;7,682,100;41,01;n/a
+6;PHA;Pharmacia Corp;2,391,000;15,80;n/a,
+6;PD;Phelps Dodge;2,696,700;25,24;n/a,
+6;MO;Philip Morris;3,552,000;53,66;n/a,
+6;P;Phillips Petroleum;1,814,900;24,54;n/a,
+6;PNW;Pinnacle West Capital;4,720,800;58,95;n/a,
+6;PBI;Pitney-Bowes;949,900;58,20;n/a,,
+6;PDG;Placer Dome Inc.;3,849,800;43,57;n/a,
+6;PCL;Plum Creek Timber Co.;1,912,100;13,94;n/a,
+6;PWER;Power-One Inc.;4,80,200;8,82;n/a,
+6;PX;Praxair, Inc.;2,120,600;37,60;n/a
+6;PG;Procter & Gamble;41,395,200;34,00;n/a,
+6;PGN;Progress Energy, Inc.;2,307,900;14,59;n/a
+6;PGR;Progressive Corp.;1,341,400;2,94;n/a,
+6;PVN;Providian Financial Corp.;20,45,000;24,19;n/a,
+6;PEG;Public Serv. Enterprise Inc.;12,442,200;49,11;n/a,
+6;PHM;Pulte Homes, Inc.;18,261,500;13,51;n/a
+6;QLGC;QLogic Corp.;4,205,900;25,18;n/a,
+6;QCOM;QUALCOMM Inc.;13,966,800;27,80;n/a,
+6;QTRN;Quintiles Transnational;6,335,600;28,24;n/a,
+6;Q;Qwest Communications Int;2,985,100;39,72;n/a,
+6;RSH;RadioShack Corp;6,824,000;32,27;n/a,
+6;RATL;Rational Software;6,8,900;4,15;n/a,
+6;RTN;Raytheon Co. (New);3,955,200;9,03;n/a,
+6;RBK;Reebok International;2,104,100;57,50;n/a,
+6;RF;Regions Financial Corp.;19,403,800;36,49;n/a,
+6;REI;Reliant Energy;5,20,100;2,38;n/a,
+6;RHI;Robert Half International;4,34,100;47,48;n/a,
+6;ROK;Rockwell Automation, Inc.;3,825,600;30,14;n/a
+6;COL;Rockwell Collins;1,471,100;36,90;n/a,
+6;ROH;Rohm & Haas;1,210,700;29,60;n/a,
+6;RDC;Rowan Cos.;7,682,100;52,12;n/a,
+6;RD;Royal Dutch Petroleum;2,391,000;17,01;n/a,
+6;R;Ryder System;2,696,700;35,24;n/a,
+6;SAFC;SAFECO Corp.;3,552,000;16,37;n/a,
+6;SBC;SBC Communications Inc.;1,814,900;4,98;n/a,
+6;TSG;Sabre Holding Corp.;4,720,800;49,02;n/a,
+6;SWY;Safeway Inc.;949,900;24,19;n/a,,
+6;SANM;Sanmina-SCI Corp.;3,849,800;49,11;n/a,
+6;SAPE;Sapient Corp;1,912,100;13,51;n/a,
+6;SLE;Sara Lee Corp.;4,80,200;25,18;n/a,
+6;SGP;Schering-Plough;2,120,600;27,80;n/a,
+6;SLB;Schlumberger Ltd.;41,395,200;28,24;n/a,
+6;SFA;Scientific-Atlanta;2,307,900;39,72;n/a,
+6;SEE;Sealed Air Corp.(New);1,341,400;32,27;n/a,
+6;S;Sears, Roebuck & Co.;20,45,000;4,15;n/a
+6;SRE;Sempra Energy;12,442,200;9,03;n/a,
+6;SHW;Sherwin-Williams;18,261,500;57,50;n/a
+6;SEBL;Siebel  Systems Inc;4,205,900;36,49;n/a
+6;SIAL;Sigma-Aldrich;1,959,100;2,38;n/a
+6;SNA;Snap-On Inc.;2,868,700;47,48;n/a
+6;SLR;Solectron;6,8,900;30,14;n/a
+6;SOTR;SouthTrust Corp.;3,955,200;36,90;n/a
+6;SO;Southern Co.;2,104,100;29,60;n/a
+6;LUV;Southwest Airlines;19,403,800;52,12;n/a
+6;FON;Sprint Corp. FON;5,20,100;17,01;n/a
+6;PCS;Sprint Corp. PCS;4,34,100;35,24;n/a
+6;STJ;St Jude Medical;3,825,600;16,37;n/a
+6;SPC;St. Paul Cos.;1,471,100;4,98;n/a
+6;SWK;Stanley Works;1,210,700;49,02;n/a
+6;SPLS;Staples Inc.;7,682,100;34,46;n/a
+6;SBUX;Starbucks Corp.;2,391,000;8,48;n/a
+6;HOT;Starwood Hotels & Resorts;2,696,700;69,49;n/a
+6;STT;State Street Corp.;3,552,000;23,76;n/a,
+6;SV;Stilwell Finacial;1,814,900;35,06;n/a,
+6;SYK;Stryker Corp.;4,720,800;23,00;n/a,
+6;SUNW;Sun Microsystems;949,900;15,30;n/a,,
+6;STI;SunTrust Banks;3,849,800;12,30;n/a,
+6;SUN;Sunoco., Inc.;1,912,100;47,42;n/a
+6;SVU;Supervalu Inc.;4,80,200;28,34;n/a,
+6;SBL;Symbol Technologies;2,120,600;12,90;n/a,
+6;SNV;Synovus Financial;41,395,200;17,00;n/a,
+6;SYY;Sysco Corp.;2,307,900;11,34;n/a,
+6;TROW;T. Rowe Price Group;1,341,400;12,03;n/a,
+6;TE;TECO Energy;20,45,000;23,01;n/a,
+6;TJX;TJX Companies Inc.;12,442,200;17,03;n/a,
+6;TMPW;TMP Worldwide;19,228,600;19,90;n/a,
+6;YUM;TRICON Global Restaurants;5,192,100;22,41;n/a,
+6;TRW;TRW Inc.;5,628,300;6,67;n/a,
+6;TXU;TXU CORP;7,833,500;35,52;n/a,
+6;TGT;Target Corp.;1,811,600;13,53;n/a,
+6;TEK;Tektronix Inc.;17,528,500;3,71;n/a,
+6;TLAB;Tellabs, Inc.;1,490,100;6,56;n/a
+6;TIN;Temple-Inland;4,858,100;39,84;n/a,
+6;THC;Tenet Healthcare Corp.;3,155,700;18,77;n/a,
+6;TER;Teradyne Inc.;128,619,700;17,73;n/a,
+6;TXN;Texas Instruments;2,808,000;47,59;n/a,
+6;TXT;Textron Inc.;2,649,100;45,50;n/a,
+6;TMO;Thermo Electron;9,322,300;36,47;n/a,
+6;TNB;Thomas & Betts;1,405,700;24,19;n/a,
+6;TIF;Tiffany & Co.;89,870,900;25,26;n/a,
+6;TMK;Torchmark Corp.;1,405,000;6,72;n/a,
+6;TOY;Toys R Us Hldg. Cos.;5,953,400;8,01;n/a,
+6;RIG;Transocean Inc.;5,30,200;10,00;n/a,
+6;TRB;Tribune Co.;1,959,100;35,14;n/a,
+6;TUP;Tupperware Corp.;2,868,700;40,55;n/a
+6;TYC;Tyco International;6,8,900;28,11;n/a
+6;USB;U.S. Bancorp;3,955,200;25,78;n/a
+6;UNM;UNUM Corp.;2,104,100;23,13;n/a
+6;SLM;USA Education Inc;19,403,800;53,56;n/a
+6;U;USAirways Group Inc.;5,20,100;55,93;n/a
+6;UST;UST Inc.;4,34,100;8,29;n/a
+6;UN;Unilever N.V.;3,825,600;18,29;n/a
+6;UNP;Union Pacific;1,471,100;37,04;n/a
+6;UPC;Union Planters Corporation;1,210,700;7,06;n/a
+6;UIS;Unisys Corp.;7,682,100;55,11;n/a
+6;UNH;United Health Group Inc.;2,391,000;15,75;n/a
+6;X;United States Steel Corp.;2,696,700;10,63;n/a
+6;UTX;United Technologies;3,552,000;29,01;n/a
+6;UVN;Univision Communications;1,814,900;13,53;n/a
+6;UCL;Unocal Corp.;4,720,800;3,71;n/a
+6;VFC;V.F. Corp.;949,900;6,56;n/a,
+6;VRTS;Veritas software;3,849,800;39,84;n/a
+6;VZ;Verizon Communications;1,912,100;18,77;n/a
+6;VIA.B;Viacom Inc.;4,80,200;17,73;n/a
+6;VC;Visteon Corp.;2,120,600;47,59;n/a
+6;VTSS;Vitesse Semiconductor (500);41,395,200;45,50;n/a
+6;VMC;Vulcan Materials;2,307,900;36,47;n/a
+6;WB;Wachovia Corp. (New);1,341,400;24,19;n/a
+6;WMT;Wal-Mart Stores;20,45,000;69,49;n/a
+6;WAG;Walgreen Co.;12,442,200;23,76;n/a
+6;DIS;Walt Disney Co.;18,261,500;35,06;n/a
+6;WM;Washington Mutual;4,205,900;23,00;n/a
+6;WMI;Waste Management Inc.;13,966,800;15,30;n/a
+6;WAT;Waters Corporation;6,335,600;12,30;n/a
+6;WPI;Watson Pharmaceuticals;2,985,100;47,42;n/a
+6;WLP;WellPoint Health Networks;6,8,900;28,34;n/a
+6;WFC;Wells Fargo;3,955,200;12,90;n/a,
+6;WEN;Wendy's International;2,104,100;17,00;n/a,
+6;WY;Weyerhaeuser Corp.;19,403,800;11,34;n/a,
+6;WHR;Whirlpool Corp.;5,20,100;12,03;n/a,
+6;WMB;Williams Cos.;4,34,100;23,01;n/a,
+6;WIN;Winn-Dixie;3,825,600;17,03;n/a,
+6;WCOM;WorldCom Inc.-WorldCom Group;1,471,100;19,90;n/a,
+6;WOR;Worthington Ind.;1,210,700;22,41;n/a,
+6;WWY;Wrigley (Wm) Jr.;7,682,100;6,67;n/a,
+6;WYE;Wyeth;2,391,000;35,52;n/a,
+6;XL;XL Capital;2,696,700;13,53;n/a,
+6;XEL;Xcel Energy Inc;3,552,000;3,71;n/a,
+6;XRX;Xerox Corp.;1,814,900;6,56;n/a,
+6;XLNX;Xilinx, Inc;4,720,800;39,84;n/a
+6;YHOO;Yahoo Inc.;949,900;18,77;n/a,,
+6;ZMH;Zimmer Holdings;3,849,800;17,73;n/a,
+6;ZION;Zions Bancorp;1,912,100;47,59;n/a

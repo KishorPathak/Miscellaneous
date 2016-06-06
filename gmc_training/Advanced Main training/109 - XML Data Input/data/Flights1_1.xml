@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Array-Records>
+   <Customer>
+      <id>441545</id>
+      <Records>
+         <company>CSA</company>
+         <date>01032007</date>
+         <destination>Paris/CDG</destination>
+         <FlightID>OK124</FlightID>
+         <Origin>Prague/PRG</Origin>
+      </Records>
+      <Records>
+         <company>CSA</company>
+         <date>02032007</date>
+         <destination>New York/JFK</destination>
+         <FlightID>OK100</FlightID>
+         <Origin>Prague/PRG</Origin>
+      </Records>
+      <Records>
+         <company>CSA</company>
+         <date>03032007</date>
+         <destination>Bangkok/BKK</destination>
+         <FlightID>OK200</FlightID>
+         <Origin>Prague/PRG</Origin>
+      </Records>
+   </Customer>
+   <Customer>
+      <Records>
+         <company>CSA</company>
+         <date>01122007</date>
+         <destination>San Francisco/SFO</destination>
+         <FlightID>OK475</FlightID>
+         <Origin>Prague/PRG</Origin>
+      </Records>
+      <Records>
+         <company>CSA</company>
+         <date>02102007</date>
+         <destination>Los Angeles/LAX</destination>
+         <FlightID>OK102</FlightID>
+         <Origin>Prague/PRG</Origin>
+      </Records>
+      <Records>
+         <date>03202007</date>
+         <destination>Paris/CDG</destination>
+         <Origin>Prague/PRG</Origin>
+      </Records>
+   </Customer>
+</Array-Records>

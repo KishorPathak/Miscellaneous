@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Array-Records>
+   <Customers>
+      <ID>123</ID>
+      <name>Jack</name>
+      <surname>Black</surname>
+      <city>Baltimore</city>
+      <country>USA</country>
+      <Transactions>
+         <account>124554</account>
+         <sum>1000</sum>
+      </Transactions>
+      <Transactions>
+         <sum>1200</sum>
+      </Transactions>
+      <Transactions>
+         <account>788889</account>
+         <sum>5000</sum>
+      </Transactions>
+   </Customers>
+   <Customers>
+      <ID>456</ID>
+      <name>Phil</name>
+      <surname>Smith</surname>
+      <city>Los Angeles</city>
+      <country>USA</country>
+   </Customers>
+   <Customers>
+      <ID>789</ID>
+      <name>Tony</name>
+      <surname>Fine</surname>
+      <city>Paris</city>
+      <country>France</country>
+      <Transactions>
+         <account>779999</account>
+         <sum>1000</sum>
+      </Transactions>
+      <Transactions>
+         <account>471112</account>
+      </Transactions>
+   </Customers>
+</Array-Records>

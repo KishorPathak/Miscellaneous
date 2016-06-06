@@ -1,0 +1,15 @@
+CustNo;Surname;Name;Street;Street2;Region;ZIP;Phone1;TaxPointDate;PaymentMethod;BillStart;BillEnd;AccAmt
+252516;Smith;John;51 Cairnwell Drive;;ABERDEEN;AB16 5NJ;1224681562;18.6.2001;1;31.5.2001;2.9.2001;280
+SBV032504;Smith;Margaret;Halesfield House;909 Aldridge Road;ABERDEEN;B44 8N5;1213251060;18.6.2001;2;31.5.2001;26.8.2001;
+SBV032003;Dodger;Phil;9 Christmas Steps;Bristol;Derby;B51 5BS;1179253260;18.6.2001;3;31.5.2001;6.6.2001;222
+SBV011801;Newcomer;Ed;6, Meadow Lee;Sutton In Craven;Keighley;BD20 8BY;1535632183;18.6.2001;2;31.5.2001;27.6.2001;
+SBV052132;Nicholson;Mark;190 Church Road;Hove;East Sussex;BN3 2DJ;8009806007;18.6.2001;3;31.5.2001;4.8.2001;251
+332833;Coehl;Paul;9 Borradale Court;Steeple Bumpstead;Kent;CB9 7ES;1440730295;18.6.2001;2;31.5.2001;25.7.2001;
+21827;Newcomer;Ervin;Stour House;Bridge Street;Keighley;CO8 5AD;1787227570;18.6.2001;3;31.5.2001;17.6.2001;1200
+SBV082403;Coehl;Sandra;Unit 43, John Wilson Business Park;Whitstable;Kent;CT5 3QT;1227772122;18.6.2001;1;31.5.2001;17.9.2001;
+8822;Kirby;Tanya;2 Wessington Mews;Allestree;Derby;DE22 2XH;1332553049;18.6.2001;3;31.5.2001;28.7.2001;500
+SBV022714;Kirby;Jane;12 Shaftesbury Street South;Sir Francis Ley Business Park;Derby;DE23 8yb;800243088;18.6.2001;3;31.5.2001;12.6.2001;284
+SBV121201;Nicholson;Catherine;Amberley, Willersley Lane;Cromford Bridge;East Sussex;DE4 5JG;1629823472;18.6.2001;2;31.5.2001;11.6.2001;
+SBV022713;Dodger;Mary;33 Main Street;Weston-on Trent;Derby;DE72 2DL;800833481;18.6.2001;1;31.5.2001;12.8.2001;
+SBV033003;Smith;Steven;37 Hallgate;Doncaster;ABERDEEN;DN1 3NT;800393494;18.6.2001;1;31.5.2001;28.6.2001;
+SBV071801;Rent;Lola;Redbourne Mere;Kirton-in-Lindsey;Kent;DN21 4NN;1652640565;18.6.2001;3;31.5.2001;13.9.2001;476

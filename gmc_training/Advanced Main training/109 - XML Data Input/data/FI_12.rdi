@@ -1,0 +1,344 @@
+H046A018500000000121DZ140_ACC_STAT_01PRINTER dewdfm486                                                                                                                      1RDI PLAIN   X  XSAP08     1000          7   00000000000000                                                                                                                            000000000000000D                                                                    D028472                             1              RDI                           
+S                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+CCODEPAGE 1100 LANGUAGE DE
+CPAGENAME FIRST
+DMAIN    XX511                                                                                                                                                              024Offene-Posten-Liste zum 
+DMAIN      511                           RF140-STIDA                                                                                                                        01015.02.2007
+DMAIN     X523                           ULINE                                                                                                                              071_______________________________________________________________________
+DMAIN      523                                                                                                                                                              006Beleg-
+DMAIN      523                                                                                                                                                              006Beleg-
+DMAIN      523                                                                                                                                                              004Vor-
+DMAIN      523                                                                                                                                                              004W‰h-
+DMAIN      523                                                                                                                                                              006Betrag
+DMAIN      523                                                                                                                                                              006Nummer
+DMAIN      523                                                                                                                                                              005Datum
+DMAIN      523                                                                                                                                                              004gang
+DMAIN      523                                                                                                                                                              004rung
+DMAIN      523                           ULINE                                                                                                                              071_______________________________________________________________________
+DMAIN     X535                                                                                                                                                              034Keine offenen Posten zum Stichtag 
+DMAIN      535                           RF140-STIDA                                                                                                                        01015.02.2007
+DMAIN      535                                                                                                                                                              001 
+DMAIN     X555                           ULINE                                                                                                                              071_______________________________________________________________________
+DMAIN      555                                                                                                                                                              006Saldo 
+DMAIN      555                           RF140-STIDA                                                                                                                        01015.02.2007
+DMAIN      555                           RF140-SALDO                                                                                                                        020               0,00 
+DMAIN      555                                                                                                                                                              001 
+CINC-BEGIN ADRS_SENDER TEXT ADRS DE
+DADDRESS  X                                                                                                                                                                 015IDES Holding AG
+DADDRESS                                                                                                                                                                    040, Postfach 16 05 29, D-60070 Frankfurt/M
+DADDRESS                                 ULINE                                                                                                                              035___________________________________
+DADDRESS                                                                                                                                                                    001 
+CINC-END ADRS_SENDER TEXT ADRS DE
+DADDRESS                                 STXADDRESS-TDPARGRAPH                                                                                                              002AS
+DADDRESS                                 STXADDRESS-TYPE                                                                                                                    0011
+DADDRESS                                 STXADDRESS-NUMBER                                                                                                                  0100000006903
+DADDRESS                                 STXADDRESS-FROM_COUNT                                                                                                              002DE
+DADDRESS                                 STXADDRESS-RECEIVER_L                                                                                                              000
+DADDRESS                                 STXADDRESS-PRIORITY                                                                                                                000
+DADDRESS                                 STXADDRESS-DELIVERY                                                                                                                000
+DADDRESS                                 STXADDRESS-ANZZL                                                                                                                   00210
+DADDRESS                                 STXADDRESS-PERSONNUMB                                                                                                              000
+DADDRESS                                 STXADDRESS-COUNT_IRL                                                                                                               000
+DADDRESS                                 STXADDRESS-LANG_COUNT                                                                                                              000
+DADDRESS                                 STXADDRESS-NO_UPPER                                                                                                                000
+DADDRESS                                 ADRS1-TITLE_TEXT                                                                                                                   005Firma
+DADDRESS                                 ADRS1-NAME1                                                                                                                        020Autohaus Franzl GmbH
+DADDRESS                                 ADRS1-NAME2                                                                                                                        021SAPSOTA Haupthaendler
+DADDRESS                                 ADRS1-NAME3                                                                                                                        000
+DADDRESS                                 ADRS1-NAME4                                                                                                                        000
+DADDRESS                                 ADRS1-NAME_CO                                                                                                                      000
+DADDRESS                                 ADRS1-STREET                                                                                                                       019Schwarzhauptstrasse
+DADDRESS                                 ADRS1-HOUSE_NUM1                                                                                                                   00251
+DADDRESS                                 ADRS1-STR_SUPPL1                                                                                                                   000
+DADDRESS                                 ADRS1-STR_SUPPL2                                                                                                                   000
+DADDRESS                                 ADRS1-STR_SUPPL3                                                                                                                   000
+DADDRESS                                 ADRS1-CITY1                                                                                                                        008Muenchen
+DADDRESS                                 ADRS1-CITY2                                                                                                                        000
+DADDRESS                                 ADRS1-HOME_CITY                                                                                                                    000
+DADDRESS                                 ADRS1-POST_CODE1                                                                                                                   00580939
+DADDRESS                                 ADRS1-POST_CODE2                                                                                                                   000
+DADDRESS                                 ADRS1-POST_CODE3                                                                                                                   000
+DADDRESS                                 ADRS1-PO_BOX                                                                                                                       000
+DADDRESS                                 ADRS1-PO_BOX_LOC                                                                                                                   000
+DADDRESS                                 ADRS1-LOCATION                                                                                                                     000
+DADDRESS                                 ADRS1-REGION                                                                                                                       00209
+DADDRESS                                 ADRS1-COUNTRY                                                                                                                      002DE
+CINC-BEGIN ADRS_FOOTER TEXT ADRS DE
+DFOOTER   X                                                                                                                                                                X255Friedrich-Wagner-Straﬂe 16 ∑ D-60318 Frankfurt/M ∑ Postfach 16 05 29 D-60070 Frankfurt/M ∑ Telefon (0 69) 99-0 ∑ Telefax (0 69) 99 12 77∑ Internet: IDESAG@SAP-AG.COMVolksbank Frankfurt ∑ (BLZ 699 922 99) 50 4999 09 SWIFT DXXX DE 6K ∑ Postbank Karlsruhe ∑ 
+DFOOTER                                                                                                                                                                    X255(BLZ 660 900 99) 999 366-999Dresdner Bank Frankfurt ∑ (BLZ 699 800 99) 49999 111 00 SWIFT DRES DE FF699 ∑ Deutsche Bank Hamburg (BLZ 699 700 99) 099 55555 SWIFT DEUT DE SM 699Vorstand: Thomas Schmidt ∑ Sharon Bishop ∑ Chantal Willemin ∑ Sigeruh Takahashi 
+DFOOTER                                                                                                                                                                     042∑ Registergericht Frankfurt/M HRB 999-WWW 
+CINC-END ADRS_FOOTER TEXT ADRS DE
+CINC-BEGIN ADRS_HEADER TEXT ADRS DE
+DHEADER   X                                                                                                                                                                 001 
+CINC-END ADRS_HEADER TEXT ADRS DE
+DINFO     X504                                                                                                                                                              019Offene-Posten-Liste
+DINFO     X506                                                                                                                                                              005Datum
+DINFO      506                           SYST-DATUM                                                                                                                         01015.02.2007
+DINFO      506                                                                                                                                                              020Unser Sachbearbeiter
+DINFO      506                                                                                                                                                              001 
+DINFO      506                                                                                                                                                              007Telefon
+DINFO      506                                                                                                                                                              007Telefax
+DINFO      506                                                                                                                                                              017Ihr Konto bei uns
+DINFO      506                           DKADR-KONTO                                                                                                                        0041012
+DINFO      506                                                                                                                                                              001 
+H046A018500000000124DZ140_ACC_STAT_01PRINTER dewdfm486                                                                                                                      1RDI PLAIN   X  XSAP08     1000          7   00000000000000                                                                                                                            000000000000000D                                                                    D028472                             1              RDI                           
+S                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+CCODEPAGE 1100 LANGUAGE DE
+CPAGENAME FIRST
+DMAIN    XX511                                                                                                                                                              024Offene-Posten-Liste zum 
+DMAIN      511                           RF140-STIDA                                                                                                                        01015.02.2007
+DMAIN     X523                           ULINE                                                                                                                              071_______________________________________________________________________
+DMAIN      523                                                                                                                                                              006Beleg-
+DMAIN      523                                                                                                                                                              006Beleg-
+DMAIN      523                                                                                                                                                              004Vor-
+DMAIN      523                                                                                                                                                              004W‰h-
+DMAIN      523                                                                                                                                                              006Betrag
+DMAIN      523                                                                                                                                                              006Nummer
+DMAIN      523                                                                                                                                                              005Datum
+DMAIN      523                                                                                                                                                              004gang
+DMAIN      523                                                                                                                                                              004rung
+DMAIN      523                           ULINE                                                                                                                              071_______________________________________________________________________
+DMAIN     X530                           RF140-BELEGNUM                                                                                                                     0101600000112
+DMAIN      530                           BSID-BLDAT                                                                                                                         01005.11.2001
+DMAIN      530                           T003T-BLART                                                                                                                        002DG
+DMAIN      530                           BSID-WAERS                                                                                                                         003EUR
+DMAIN      530                           RF140-WRSHB                                                                                                                        018        53.443,98-
+DMAIN      530                                                                                                                                                              001 
+DMAIN     X530                           RF140-BELEGNUM                                                                                                                     0101600000122
+DMAIN      530                           BSID-BLDAT                                                                                                                         01005.12.2001
+DMAIN      530                           T003T-BLART                                                                                                                        002DG
+DMAIN      530                           BSID-WAERS                                                                                                                         003EUR
+DMAIN      530                           RF140-WRSHB                                                                                                                        018        53.443,98-
+DMAIN      530                                                                                                                                                              001 
+DMAIN     X530                           RF140-BELEGNUM                                                                                                                     005KREDI
+DMAIN      530                           BSID-BLDAT                                                                                                                         01005.12.2001
+DMAIN      530                           T003T-BLART                                                                                                                        002RV
+DMAIN      530                           BSID-WAERS                                                                                                                         003EUR
+DMAIN      530                           RF140-WRSHB                                                                                                                        018        53.443,98 
+DMAIN      530                                                                                                                                                              001 
+DMAIN     X530                           RF140-BELEGNUM                                                                                                                     005KREDI
+DMAIN      530                           BSID-BLDAT                                                                                                                         01005.12.2001
+DMAIN      530                           T003T-BLART                                                                                                                        002RV
+DMAIN      530                           BSID-WAERS                                                                                                                         003EUR
+DMAIN      530                           RF140-WRSHB                                                                                                                        018         1.214,64 
+DMAIN      530                                                                                                                                                              001 
+DMAIN     X530                           RF140-BELEGNUM                                                                                                                     0101600000132
+DMAIN      530                           BSID-BLDAT                                                                                                                         01005.01.2002
+DMAIN      530                           T003T-BLART                                                                                                                        002DG
+DMAIN      530                           BSID-WAERS                                                                                                                         003EUR
+DMAIN      530                           RF140-WRSHB                                                                                                                        018        53.443,98-
+DMAIN      530                                                                                                                                                              001 
+DMAIN     X530                           RF140-BELEGNUM                                                                                                                     0101600000142
+DMAIN      530                           BSID-BLDAT                                                                                                                         01005.02.2002
+DMAIN      530                           T003T-BLART                                                                                                                        002DG
+DMAIN      530                           BSID-WAERS                                                                                                                         003EUR
+DMAIN      530                           RF140-WRSHB                                                                                                                        018        53.443,98-
+DMAIN      530                                                                                                                                                              001 
+DMAIN     X530                           RF140-BELEGNUM                                                                                                                     005KREDI
+DMAIN      530                           BSID-BLDAT                                                                                                                         01005.02.2002
+DMAIN      530                           T003T-BLART                                                                                                                        002RV
+DMAIN      530                           BSID-WAERS                                                                                                                         003EUR
+DMAIN      530                           RF140-WRSHB                                                                                                                        018        53.443,98 
+DMAIN      530                                                                                                                                                              001 
+DMAIN     X530                           RF140-BELEGNUM                                                                                                                     005KREDI
+DMAIN      530                           BSID-BLDAT                                                                                                                         01005.02.2002
+DMAIN      530                           T003T-BLART                                                                                                                        002RV
+DMAIN      530                           BSID-WAERS                                                                                                                         003EUR
+DMAIN      530                           RF140-WRSHB                                                                                                                        018         1.214,64 
+DMAIN      530                                                                                                                                                              001 
+DMAIN     X530                           RF140-BELEGNUM                                                                                                                     0101600000152
+DMAIN      530                           BSID-BLDAT                                                                                                                         01005.03.2002
+DMAIN      530                           T003T-BLART                                                                                                                        002DG
+DMAIN      530                           BSID-WAERS                                                                                                                         003EUR
+DMAIN      530                           RF140-WRSHB                                                                                                                        018        53.443,98-
+DMAIN      530                                                                                                                                                              001 
+DMAIN     X530                           RF140-BELEGNUM                                                                                                                     005KREDI
+DMAIN      530                           BSID-BLDAT                                                                                                                         01005.03.2002
+DMAIN      530                           T003T-BLART                                                                                                                        002RV
+DMAIN      530                           BSID-WAERS                                                                                                                         003EUR
+DMAIN      530                           RF140-WRSHB                                                                                                                        018         1.214,64 
+DMAIN      530                                                                                                                                                              001 
+DMAIN     X530                           RF140-BELEGNUM                                                                                                                     005KREDI
+DMAIN      530                           BSID-BLDAT                                                                                                                         01005.03.2002
+DMAIN      530                           T003T-BLART                                                                                                                        002RV
+DMAIN      530                           BSID-WAERS                                                                                                                         003EUR
+DMAIN      530                           RF140-WRSHB                                                                                                                        018        53.443,98 
+DMAIN      530                                                                                                                                                              001 
+DMAIN     X530                           RF140-BELEGNUM                                                                                                                     0101600000162
+DMAIN      530                           BSID-BLDAT                                                                                                                         01005.04.2002
+DMAIN      530                           T003T-BLART                                                                                                                        002DG
+DMAIN      530                           BSID-WAERS                                                                                                                         003EUR
+DMAIN      530                           RF140-WRSHB                                                                                                                        018        53.443,98-
+DMAIN      530                                                                                                                                                              001 
+DMAIN     X530                           RF140-BELEGNUM                                                                                                                     005KREDI
+DMAIN      530                           BSID-BLDAT                                                                                                                         01005.04.2002
+DMAIN      530                           T003T-BLART                                                                                                                        002RV
+DMAIN      530                           BSID-WAERS                                                                                                                         003EUR
+DMAIN      530                           RF140-WRSHB                                                                                                                        018        53.443,98 
+DMAIN      530                                                                                                                                                              001 
+DMAIN     X530                           RF140-BELEGNUM                                                                                                                     005KREDI
+DMAIN      530                           BSID-BLDAT                                                                                                                         01005.04.2002
+DMAIN      530                           T003T-BLART                                                                                                                        002RV
+DMAIN      530                           BSID-WAERS                                                                                                                         003EUR
+DMAIN      530                           RF140-WRSHB                                                                                                                        018         1.214,64 
+DMAIN      530                                                                                                                                                              001 
+DMAIN     X530                           RF140-BELEGNUM                                                                                                                     0101600000172
+DMAIN      530                           BSID-BLDAT                                                                                                                         01005.05.2002
+DMAIN      530                           T003T-BLART                                                                                                                        002DG
+DMAIN      530                           BSID-WAERS                                                                                                                         003EUR
+DMAIN      530                           RF140-WRSHB                                                                                                                        018        53.443,98-
+DMAIN      530                                                                                                                                                              001 
+DMAIN     X530                           RF140-BELEGNUM                                                                                                                     005KREDI
+DMAIN      530                           BSID-BLDAT                                                                                                                         01005.05.2002
+DMAIN      530                           T003T-BLART                                                                                                                        002RV
+DMAIN      530                           BSID-WAERS                                                                                                                         003EUR
+DMAIN      530                           RF140-WRSHB                                                                                                                        018         1.214,64 
+DMAIN      530                                                                                                                                                              001 
+DMAIN     X530                           RF140-BELEGNUM                                                                                                                     005KREDI
+DMAIN      530                           BSID-BLDAT                                                                                                                         01005.05.2002
+DMAIN      530                           T003T-BLART                                                                                                                        002RV
+DMAIN      530                           BSID-WAERS                                                                                                                         003EUR
+DMAIN      530                           RF140-WRSHB                                                                                                                        018        53.443,98 
+DMAIN      530                                                                                                                                                              001 
+DMAIN     X530                           RF140-BELEGNUM                                                                                                                     0101600000182
+DMAIN      530                           BSID-BLDAT                                                                                                                         01005.06.2002
+DMAIN      530                           T003T-BLART                                                                                                                        002DG
+DMAIN      530                           BSID-WAERS                                                                                                                         003EUR
+DMAIN      530                           RF140-WRSHB                                                                                                                        018        53.443,98-
+DMAIN      530                                                                                                                                                              001 
+DMAIN     X530                           RF140-BELEGNUM                                                                                                                     005KREDI
+DMAIN      530                           BSID-BLDAT                                                                                                                         01005.06.2002
+DMAIN      530                           T003T-BLART                                                                                                                        002RV
+DMAIN      530                           BSID-WAERS                                                                                                                         003EUR
+DMAIN      530                           RF140-WRSHB                                                                                                                        018         1.214,64 
+DMAIN      530                                                                                                                                                              001 
+DMAIN     X530                           RF140-BELEGNUM                                                                                                                     005KREDI
+DMAIN      530                           BSID-BLDAT                                                                                                                         01005.06.2002
+DMAIN      530                           T003T-BLART                                                                                                                        002RV
+DMAIN      530                           BSID-WAERS                                                                                                                         003EUR
+DMAIN      530                           RF140-WRSHB                                                                                                                        018        53.443,98 
+DMAIN      530                                                                                                                                                              001 
+DMAIN     X530                           RF140-BELEGNUM                                                                                                                     0101600000192
+DMAIN      530                           BSID-BLDAT                                                                                                                         01005.07.2002
+DMAIN      530                           T003T-BLART                                                                                                                        002DG
+DMAIN      530                           BSID-WAERS                                                                                                                         003EUR
+DMAIN      530                           RF140-WRSHB                                                                                                                        018        53.443,98-
+DMAIN      530                                                                                                                                                              001 
+DMAIN     X530                           RF140-BELEGNUM                                                                                                                     005KREDI
+DMAIN      530                           BSID-BLDAT                                                                                                                         01005.07.2002
+DMAIN      530                           T003T-BLART                                                                                                                        002RV
+DMAIN      530                           BSID-WAERS                                                                                                                         003EUR
+DMAIN      530                           RF140-WRSHB                                                                                                                        018         1.214,64 
+DMAIN      530                                                                                                                                                              001 
+DMAIN     X530                           RF140-BELEGNUM                                                                                                                     005KREDI
+DMAIN      530                           BSID-BLDAT                                                                                                                         01005.07.2002
+DMAIN      530                           T003T-BLART                                                                                                                        002RV
+DMAIN      530                           BSID-WAERS                                                                                                                         003EUR
+DMAIN      530                           RF140-WRSHB                                                                                                                        018        53.443,98 
+DMAIN      530                                                                                                                                                              001 
+DMAIN     X530                           RF140-BELEGNUM                                                                                                                     0101600000202
+DMAIN      530                           BSID-BLDAT                                                                                                                         01005.08.2002
+DMAIN      530                           T003T-BLART                                                                                                                        002DG
+DMAIN      530                           BSID-WAERS                                                                                                                         003EUR
+DMAIN      530                           RF140-WRSHB                                                                                                                        018        53.443,98-
+DMAIN      530                                                                                                                                                              001 
+DMAIN     X530                           RF140-BELEGNUM                                                                                                                     005KREDI
+DMAIN      530                           BSID-BLDAT                                                                                                                         01005.08.2002
+DMAIN      530                           T003T-BLART                                                                                                                        002RV
+DMAIN      530                           BSID-WAERS                                                                                                                         003EUR
+DMAIN      530                           RF140-WRSHB                                                                                                                        018         1.214,64 
+DMAIN      530                                                                                                                                                              001 
+DMAIN     X530                           RF140-BELEGNUM                                                                                                                     005KREDI
+DMAIN      530                           BSID-BLDAT                                                                                                                         01005.08.2002
+DMAIN      530                           T003T-BLART                                                                                                                        002RV
+DMAIN      530                           BSID-WAERS                                                                                                                         003EUR
+DMAIN      530                           RF140-WRSHB                                                                                                                        018        53.443,98 
+DMAIN      530                                                                                                                                                              001 
+DMAIN     X530                           RF140-BELEGNUM                                                                                                                     0101600000213
+DMAIN      530                           BSID-BLDAT                                                                                                                         01005.09.2002
+DMAIN      530                           T003T-BLART                                                                                                                        002DG
+DMAIN      530                           BSID-WAERS                                                                                                                         003EUR
+DMAIN      530                           RF140-WRSHB                                                                                                                        018        53.443,98-
+DMAIN      530                                                                                                                                                              001 
+DMAIN     X530                           RF140-BELEGNUM                                                                                                                     005KREDI
+DMAIN      530                           BSID-BLDAT                                                                                                                         01005.09.2002
+DMAIN      530                           T003T-BLART                                                                                                                        002RV
+DMAIN      530                           BSID-WAERS                                                                                                                         003EUR
+DMAIN      530                           RF140-WRSHB                                                                                                                        018         1.214,64 
+DMAIN      530                                                                                                                                                              001 
+DMAIN     X530                           RF140-BELEGNUM                                                                                                                     005KREDI
+DMAIN      530                           BSID-BLDAT                                                                                                                         01005.09.2002
+DMAIN      530                           T003T-BLART                                                                                                                        002RV
+DMAIN      530                           BSID-WAERS                                                                                                                         003EUR
+DMAIN      530                           RF140-WRSHB                                                                                                                        018        53.443,98 
+DMAIN      530                                                                                                                                                              001 
+DMAIN     X530                           RF140-BELEGNUM                                                                                                                     0101600000223
+DMAIN      530                           BSID-BLDAT                                                                                                                         01010.10.2002
+DMAIN      530                           T003T-BLART                                                                                                                        002DG
+DMAIN      530                           BSID-WAERS                                                                                                                         003EUR
+DMAIN      530                           RF140-WRSHB                                                                                                                        018        53.443,98-
+DMAIN      530                                                                                                                                                              001 
+DMAIN     X553                           ULINE                                                                                                                              071_______________________________________________________________________
+DMAIN      553                                                                                                                                                              006Saldo 
+DMAIN      553                           RF140-STIDA                                                                                                                        01015.02.2007
+DMAIN      553                           RF140-WAERS                                                                                                                        003EUR
+DMAIN      553                           RF140-SALDO                                                                                                                        020         149.400,18-
+DMAIN      553                                                                                                                                                              001 
+CINC-BEGIN ADRS_SENDER TEXT ADRS DE
+DADDRESS  X                                                                                                                                                                 015IDES Holding AG
+DADDRESS                                                                                                                                                                    040, Postfach 16 05 29, D-60070 Frankfurt/M
+DADDRESS                                 ULINE                                                                                                                              035___________________________________
+DADDRESS                                                                                                                                                                    001 
+CINC-END ADRS_SENDER TEXT ADRS DE
+DADDRESS                                 STXADDRESS-TDPARGRAPH                                                                                                              002AS
+DADDRESS                                 STXADDRESS-TYPE                                                                                                                    0011
+DADDRESS                                 STXADDRESS-NUMBER                                                                                                                  0100000006676
+DADDRESS                                 STXADDRESS-FROM_COUNT                                                                                                              002DE
+DADDRESS                                 STXADDRESS-RECEIVER_L                                                                                                              000
+DADDRESS                                 STXADDRESS-PRIORITY                                                                                                                000
+DADDRESS                                 STXADDRESS-DELIVERY                                                                                                                000
+DADDRESS                                 STXADDRESS-ANZZL                                                                                                                   00210
+DADDRESS                                 STXADDRESS-PERSONNUMB                                                                                                              000
+DADDRESS                                 STXADDRESS-COUNT_IRL                                                                                                               000
+DADDRESS                                 STXADDRESS-LANG_COUNT                                                                                                              000
+DADDRESS                                 STXADDRESS-NO_UPPER                                                                                                                000
+DADDRESS                                 ADRS1-TITLE_TEXT                                                                                                                   005Firma
+DADDRESS                                 ADRS1-NAME1                                                                                                                        018Elektromarkt Bamby
+DADDRESS                                 ADRS1-NAME2                                                                                                                        000
+DADDRESS                                 ADRS1-NAME3                                                                                                                        000
+DADDRESS                                 ADRS1-NAME4                                                                                                                        000
+DADDRESS                                 ADRS1-NAME_CO                                                                                                                      000
+DADDRESS                                 ADRS1-STREET                                                                                                                       012Adlerstrasse
+DADDRESS                                 ADRS1-HOUSE_NUM1                                                                                                                   003452
+DADDRESS                                 ADRS1-STR_SUPPL1                                                                                                                   000
+DADDRESS                                 ADRS1-STR_SUPPL2                                                                                                                   000
+DADDRESS                                 ADRS1-STR_SUPPL3                                                                                                                   000
+DADDRESS                                 ADRS1-CITY1                                                                                                                        004Gera
+DADDRESS                                 ADRS1-CITY2                                                                                                                        000
+DADDRESS                                 ADRS1-HOME_CITY                                                                                                                    000
+DADDRESS                                 ADRS1-POST_CODE1                                                                                                                   00507545
+DADDRESS                                 ADRS1-POST_CODE2                                                                                                                   000
+DADDRESS                                 ADRS1-POST_CODE3                                                                                                                   000
+DADDRESS                                 ADRS1-PO_BOX                                                                                                                       000
+DADDRESS                                 ADRS1-PO_BOX_LOC                                                                                                                   000
+DADDRESS                                 ADRS1-LOCATION                                                                                                                     000
+DADDRESS                                 ADRS1-REGION                                                                                                                       00216
+DADDRESS                                 ADRS1-COUNTRY                                                                                                                      002DE
+CINC-BEGIN ADRS_FOOTER TEXT ADRS DE
+DFOOTER   X                                                                                                                                                                X255Friedrich-Wagner-Straﬂe 16 ∑ D-60318 Frankfurt/M ∑ Postfach 16 05 29 D-60070 Frankfurt/M ∑ Telefon (0 69) 99-0 ∑ Telefax (0 69) 99 12 77∑ Internet: IDESAG@SAP-AG.COMVolksbank Frankfurt ∑ (BLZ 699 922 99) 50 4999 09 SWIFT DXXX DE 6K ∑ Postbank Karlsruhe ∑ 
+DFOOTER                                                                                                                                                                    X255(BLZ 660 900 99) 999 366-999Dresdner Bank Frankfurt ∑ (BLZ 699 800 99) 49999 111 00 SWIFT DRES DE FF699 ∑ Deutsche Bank Hamburg (BLZ 699 700 99) 099 55555 SWIFT DEUT DE SM 699Vorstand: Thomas Schmidt ∑ Sharon Bishop ∑ Chantal Willemin ∑ Sigeruh Takahashi 
+DFOOTER                                                                                                                                                                     042∑ Registergericht Frankfurt/M HRB 999-WWW 
+CINC-END ADRS_FOOTER TEXT ADRS DE
+CINC-BEGIN ADRS_HEADER TEXT ADRS DE
+DHEADER   X                                                                                                                                                                 001 
+CINC-END ADRS_HEADER TEXT ADRS DE
+DINFO     X504                                                                                                                                                              019Offene-Posten-Liste
+DINFO     X506                                                                                                                                                              005Datum
+DINFO      506                           SYST-DATUM                                                                                                                         01015.02.2007
+DINFO      506                                                                                                                                                              020Unser Sachbearbeiter
+DINFO      506                                                                                                                                                              001 
+DINFO      506                                                                                                                                                              007Telefon
+DINFO      506                                                                                                                                                              007Telefax
+DINFO      506                                                                                                                                                              017Ihr Konto bei uns
+DINFO      506                           DKADR-KONTO                                                                                                                        0041175
+DINFO      506                                                                                                                                                              001 

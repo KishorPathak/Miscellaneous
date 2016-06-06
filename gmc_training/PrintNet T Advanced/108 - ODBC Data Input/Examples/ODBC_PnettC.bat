@@ -1,0 +1,1 @@
+PNetTC.exe Names.wfd -conODBCDataInput1 "DSN=Excel Files;DBQ=Names2.xls;DriverId=790;MaxBufferSize=2048;PageTimeout=5;" -e PDF

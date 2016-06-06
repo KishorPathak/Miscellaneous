@@ -1,0 +1,17 @@
+<Accounts>
+  <Customer>
+    <ID>100</ID>
+    <Transactions>
+      <Cash>100</Cash>
+    </Transactions>
+    <Transactions>
+      <Cash>-95</Cash>
+    </Transactions>
+  </Customer>
+  <Customer>
+    <ID>101</ID>
+    <Transactions>
+      <Cash>1000</Cash>
+    </Transactions>
+  </Customer>
+</Accounts>

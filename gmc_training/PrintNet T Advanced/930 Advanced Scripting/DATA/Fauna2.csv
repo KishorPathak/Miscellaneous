@@ -1,0 +1,17 @@
+ID;Order;OrderENG;ID_order
+1;Metatheria;Marsupial;1_1
+1;Carnivora;Carnivora;1_2
+1;Chyroptera;Chiropterans;1_3
+1;Insectivora;Insectivore;1_4
+1;Primates;Primates;1_5
+1;Rodentia;Rodents;1_6
+1;Cetacea;Cetaceans;1_7
+1;Artidactyla;Atriodactyls;1_8
+1;Perissodactyla;Perissodactyls;1_9
+2;Palaeognathae;Runners;2_2
+2;Neognathae;Fliers;2_1
+3;Actinopterygii;Ray-fins;3_1
+3;Dipnoi;Lungfish;3_2
+3;Crossopterygii;Crossopterigian;3_3
+4;Elasmobranchii;Elasmobranchii;4_1
+4;Holocephali;Chimeras;4_2

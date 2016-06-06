@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Max recursive nesting: 0 --> 
+<!-- Document root: Root --> 
+<!ELEMENT Accounts ( Id, Tr+ ) >
+
+<!ELEMENT Company ( #PCDATA ) >
+
+<!ELEMENT Date ( #PCDATA ) >
+
+<!ELEMENT Destination ( #PCDATA ) >
+
+<!ELEMENT FlightID ( #PCDATA ) >
+
+<!ELEMENT Id ( #PCDATA ) >
+
+<!ELEMENT Origin ( #PCDATA ) >
+
+<!ELEMENT Root ( Accounts+ ) >
+
+<!ELEMENT Tr ( Date, Company, FlightID, Origin, Destination ) >
+

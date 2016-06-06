@@ -1,0 +1,1290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductionConfig Version="4.3.39.0">
+  <EngineConfigs>
+    <Engine EngineType="PDF">
+      <FormatConfig Name="Default">
+        <General Compression="True" CreatePieceInfoFromSheetName="False" PieceInfoIndex="1" UseEncodingForFonts="False" Encoding="Standard" HighLightVariables="False">
+          <HighLightColor R="0" G="1" B="1"/>
+          <ResizeBarcodes>
+            <Relative X="1" Y="1"/>
+            <Absolute X="0" Y="0"/>
+          </ResizeBarcodes>
+        </General>
+        <Graphics VariableEpsPdfOutputResolution="300">
+          <Colorspace TextAndGraphics="ConvertToRGB" Images="ConvertToRGB" UseSeparations="False"/>
+          <JpegCompression Use="forJPEGsOnly" Quality="75"/>
+          <ICCProfile>
+            <RenderingIntent>Perceptual</RenderingIntent>
+            <BuiltInProfile>True</BuiltInProfile>
+          </ICCProfile>
+        </Graphics>
+        <Security PasswordToOpenDocument="" PasswordToChangePermissions="">
+          <Permissions AllowPrinting="True" AllowChangingTheDocument="True" AllowContentCopyingOrExtraction="True" AllowFillingOfForms="True"/>
+        </Security>
+        <Acrobat ShowAcrobatPrintDialog="True" ShrinkPagesToFit="False" PrintAsImage="False" SearchForAlternativeImagesForViewing="False" AlternativeImageFormat="%n_1.%e">
+          <PrintOptions Set="None" SheetNameIndex="2"/>
+        </Acrobat>
+      </FormatConfig>
+      <DriverConfig DriverConfigType="File" Name="Default">
+        <OutputFileName>%n.pdf</OutputFileName>
+        <Split>False</Split>
+        <SplitBySize>False</SplitBySize>
+        <SplitSize>1000000</SplitSize>
+      </DriverConfig>
+    </Engine>
+    <Engine EngineType="Image">
+      <FormatConfig Name="Default">
+        <DPI X="150" Y="150"/>
+        <ImageStreamerType>image/png</ImageStreamerType>
+        <Interlace>False</Interlace>
+        <Quality>75</Quality>
+        <BlackAndWhite>False</BlackAndWhite>
+      </FormatConfig>
+      <DriverConfig DriverConfigType="File" Name="Default">
+        <OutputFileName>page%s.png</OutputFileName>
+        <Split>False</Split>
+        <SplitBySize>False</SplitBySize>
+        <SplitSize>1000000</SplitSize>
+      </DriverConfig>
+    </Engine>
+    <Engine EngineType="AdobePostScript3">
+      <FormatConfig Name="Default">
+        <PsOutputOption OutputProfiles="Optimized for size" AddDebugInfoIntoSpool="False"/>
+        <AdvancedSettings ResetAllValuesTo="Optimized for size">
+          <DSC DocumentStructuringConventionsType="Basic" EOL="unix style" LineLength="200"/>
+          <Fonts Use="type 1 fonts" ASCIICharstringEncryption="False" UseEexecEncryption="True" ASCIIEexecEncrytion="False" TextEncodings="Binary" FontEncoding="Share" MaximalCountOfSingleByteFonts="5"/>
+          <Images ImagesRenderDPI="300" ImageBufferSize="32000" UseOriginalEps="True" PutTransparentMonochromaticImagesIntoFonts="True" CachedImages="True" ImageColorSpace="Keep Original">
+            <ImageFilters>
+              <Filter Name="Flate"/>
+            </ImageFilters>
+          </Images>
+          <PsSettings SpoolFileCompression="Partial" UseOverlays="True" UseSeparationColorSpaces="False"/>
+          <PJLCommands IncludePJLCommand="False" StartPJLCommands="@PJL ENTER LANGUAGE = Postscript" EndPJLCommands=""/>
+          <Engine CompressedTemporaryFiles="True">
+            <ResizeBarcodes>
+              <Relative X="1" Y="1"/>
+              <Absolute X="0" Y="0"/>
+            </ResizeBarcodes>
+            <ICCProfile>
+              <RenderingIntent>Perceptual</RenderingIntent>
+              <BuiltInProfile>True</BuiltInProfile>
+            </ICCProfile>
+          </Engine>
+        </AdvancedSettings>
+      </FormatConfig>
+      <PrinterConfig Name="Default">
+        <PPDSettings IncludePPDCommandsToSpoolOnlyOnChange="True" ShowTranslationValues="True">
+          <PPD ModelName="No PPD Selected">
+            <UIFeatures/>
+            <PpdStructure Name="MainGroup" TransformName="">
+              <Keys/>
+              <DefaultValues/>
+              <DefaultQueries/>
+              <OrderDependencies/>
+              <JobPatchFiles/>
+              <CustomPageSizeParams/>
+              <SubGroups/>
+            </PpdStructure>
+            <Constraints/>
+          </PPD>
+          <OnStartDocument UseCustomPageSize="False" ShowOnlyUsedPpdKeys="False">
+            <PpdItems/>
+          </OnStartDocument>
+          <OnFinishDocument UseCustomPageSize="False" ShowOnlyUsedPpdKeys="False">
+            <PpdItems/>
+          </OnFinishDocument>
+          <FullView>
+            <UserInterfaces CollapseAllNodes="True"/>
+            <GlobalValues CollapseAllNodes="True"/>
+          </FullView>
+        </PPDSettings>
+      </PrinterConfig>
+      <DriverConfig DriverConfigType="File" Name="Default">
+        <OutputFileName>%n.ps</OutputFileName>
+        <Split>False</Split>
+        <SplitBySize>False</SplitBySize>
+        <SplitSize>1000000</SplitSize>
+      </DriverConfig>
+    </Engine>
+    <Engine EngineType="AFP">
+      <FormatConfig Name="Default">
+        <General>
+          <Resolution PrinterResolution="600"/>
+          <Color OutputColors="Dithered spot color">
+            <AssignAFPColorsToIndex>
+              <SpotColor SpotColor="0" AFPColor="Black"/>
+              <SpotColor SpotColor="1" AFPColor="Turquoise/Cyan"/>
+              <SpotColor SpotColor="2" AFPColor="White"/>
+              <SpotColor SpotColor="3" AFPColor="DefaultColor"/>
+              <SpotColor SpotColor="4" AFPColor="DefaultColor"/>
+              <SpotColor SpotColor="5" AFPColor="DefaultColor"/>
+              <SpotColor SpotColor="6" AFPColor="DefaultColor"/>
+              <SpotColor SpotColor="7" AFPColor="DefaultColor"/>
+              <SpotColor SpotColor="8" AFPColor="DefaultColor"/>
+              <SpotColor SpotColor="9" AFPColor="DefaultColor"/>
+              <SpotColor SpotColor="10" AFPColor="DefaultColor"/>
+              <SpotColor SpotColor="11" AFPColor="DefaultColor"/>
+              <SpotColor SpotColor="12" AFPColor="DefaultColor"/>
+              <SpotColor SpotColor="13" AFPColor="DefaultColor"/>
+              <SpotColor SpotColor="14" AFPColor="DefaultColor"/>
+              <SpotColor SpotColor="15" AFPColor="DefaultColor"/>
+            </AssignAFPColorsToIndex>
+            <ColorSpaceForTextAndGraphic ColorSpaceForTextAndGraphic="CMYK"/>
+          </Color>
+          <Graphic GraphicSupport="Simple Lines"/>
+          <WhiteProcessing WhiteColorProcessing="Never"/>
+          <CompressBW CompressBlackAndWhiteImagesCCITTG4="True" DoCutOperationsUncompressedIM1="False"/>
+          <FullColorImage FullColorImageFormat="uncompressed"/>
+          <GrayscaleImage GrayscaleImageSupportSelection="False" GrayscaleImageSupportValue="uncompressed" ConvertToGrayscale="16M color images, PDF, EPS"/>
+          <JPEG JPEGCompressionQuality="80"/>
+          <UseOutlineFonts UseOutlineFonts="False"/>
+        </General>
+        <Indexing>
+          <IndexPagesUsingTLE UseIndexPagesUsingTLESelection="False"/>
+          <IndexesPagesUsingTLE/>
+          <CodingForPageIndexes Coding="EBCDIC" ReplaceUnresolvedCharactersWith="_"/>
+          <ReinvokeMediumOptionsWithEveryPageGroup ReinvokeMediumOptionsWithEveryPageGroupSelection="True"/>
+          <CreateSeparateResourceDocumentAndIndexObjectFiles CreateSeparateResourceDocumentAndIndexObjectFilesSelection="False" ResourceFileName="%n.res" IndexFileName="%n.idx" AddPageLevelEntriesToIndexFile="False"/>
+          <CustomIndexFile>
+            <CreateCustomIndexFile CreateCustomIndexFile="False"/>
+            <CustomIndexFileItems/>
+            <ItemsSeparatorIndexFilePath ReplaceNonLatin1CharactersWith="_" IndexFileItemsSeparator="&#x20;" IndexFilePath="%n.idx"/>
+          </CustomIndexFile>
+        </Indexing>
+        <Misc.>
+          <TakePageNameFromSheetNameIndex UsePageNameFromSheetNameIndex="False" PageNameFromSheetNameIndex="3"/>
+          <NOPComments>
+            <WriteNOPCommentsWithSheetNameData WriteNOPCommentsWithSheetNameDataSelection="False"/>
+            <Indexes/>
+            <NOPDataEncoding NOPDataEncoding="UTF-8"/>
+          </NOPComments>
+        </Misc.>
+        <Resources>
+          <ResourceType>
+            <FormDef Status="Included" Directory="" Naming="F1GMCDEF" Extension=""/>
+            <Overlays Status="Included" Directory="" Naming="continuous" Extension=""/>
+            <PageSegments Status="Included" Directory="" Naming="continuous" Extension=""/>
+            <CodePages Status="Included" Directory="" Extension=""/>
+            <RasterFonts Status="Included" Directory="" Naming="continuous" Extension=""/>
+            <OutlineFonts Status="Included" Directory="" Naming="continuous" Extension="OLN"/>
+            <CodedFonts Status="Included" Directory="" Naming="continuous" Extension=""/>
+          </ResourceType>
+          <ExternalResources ExternalResourcesWithRDW="False" ReuseExternalImageResources="False"/>
+          <CustomerResources AFPResourcesProcessingMethod="0" BasicRotationSupportForAFPOverlays="True" TakeForegroundResourcesFromSheetNameIndex="False" ForegroundResourcesFromSheetNameIndex="3" TakeBackgroundResourcesFromSheetNameIndex="False" BackgroundResourcesFromSheetNameIndex="3"/>
+          <UseOriginalResourcesWithoutProcessing UseOriginalIOCAImageDataWithoutProcessing="False" UseOriginalJPEGImageDataWithoutProcessing="False"/>
+        </Resources>
+        <Advanced>
+          <Compatibilities OldStyleOfFontUseMCF1="False" UseRelativeFontMetric="False" OldFormDefFormat="False" UseIM1ImageFormat="False" UsePageSegmentsOnly="False" UsePageSegmentsOnlyAs="Hard" DPI1440Positioning="False"/>
+          <AdvancedTextOptions UseTextEncoding="False" TextEncoding="ibm-500_P100-1995" DoNotCorrectCharacterPositionsInsideWords="False" UseFontsFor="Any glyphs" UseFontsForGraphics="False"/>
+          <ExternalAFPFonts UseOriginalAFPFonts="False" DefaultCodePageForAFPFonts=""/>
+          <ResizeBarcodes>
+            <Relative X="1" Y="1"/>
+            <Absolute X="0" Y="0"/>
+          </ResizeBarcodes>
+          <ICCProfileSetting>
+            <RenderingIntent>Perceptual</RenderingIntent>
+            <BuiltInProfile>True</BuiltInProfile>
+          </ICCProfileSetting>
+        </Advanced>
+        <Dithering>
+          <DitheringSetting>
+            <ColorFeature>DitheredSpotColor</ColorFeature>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+          </DitheringSetting>
+        </Dithering>
+      </FormatConfig>
+      <DriverConfig DriverConfigType="File" Name="Default">
+        <OutputFileName>%n.afp</OutputFileName>
+        <Split>False</Split>
+        <SplitBySize>False</SplitBySize>
+        <SplitSize>1000000</SplitSize>
+      </DriverConfig>
+    </Engine>
+    <Engine EngineType="IJPDS">
+      <FormatConfig Name="Default">
+        <General>
+          <SpoolFileFormat Format="Disk" BlockSize="4096" MaxSDCPerBlock="3"/>
+          <FileSplitting UseFileSplitting="False" SizeOfFileSplitting="2000" AllowSplittingOfResources="False" FixedResources="0"/>
+          <IndexFiles CreateIndexFile="False" OldScheme="False"/>
+        </General>
+        <Resources>
+          <Compression UseCompressionForFont="False" UseCompressionForPictures="False"/>
+          <OverlaySetting LoadOverlayAsFont="True" OverlayGlyphWidth="256" OverlayGlyphHeight="256"/>
+          <Other DoNotUseExtraWhiteProcessing="False" UseTempFiles="True" UseFontsForGraphics="False" UseFixedFiles="False"/>
+        </Resources>
+        <StopCommand PutStopCommand="">
+          <BySheetCount Count="1000"/>
+          <BySheetNameChange SheetNameIndex="3"/>
+          <BySheetNameCondition SheetNameIndex="3" NameIsEqualTo=""/>
+          <StopCommandMessage PutMessage="False" SheetNameIndex="1"/>
+        </StopCommand>
+        <CuePages ApplyOnOneSheet="False" CropBottomOfPage="False" PageCommand="SOD">
+          <CuePage LengthOfPage="Media size"/>
+        </CuePages>
+        <TextOptions>
+          <Encoding TextEncoding="False" EncodingName="ibm-500_P100-1995" DoNotCorrectCharacterPositionsInsideWords="False"/>
+        </TextOptions>
+        <ICCProfile>
+          <ICCProfileSetting>
+            <RenderingIntent>Perceptual</RenderingIntent>
+            <BuiltInProfile>True</BuiltInProfile>
+          </ICCProfileSetting>
+        </ICCProfile>
+        <Advanced>
+          <ResizeBarcodes>
+            <Relative X="1" Y="1"/>
+            <Absolute X="0" Y="0"/>
+          </ResizeBarcodes>
+          <UserOutputSignal UseUserOutpuSignal="False" UseCalculatedOutputSignal="True" UseSheetNameValueForOutputSignal="False" SheetNameIndex="3"/>
+          <EBCDICConversion ReplaceNonEBCDICCharactersWith="_"/>
+        </Advanced>
+        <SmallConfig InitialDocumentNumber="1" ContinuousDocumentNumbering="False"/>
+        <PhysicalRIPs>
+          <PhysicalRIP>
+            <RIP>1</RIP>
+            <NumberOfJets>2688</NumberOfJets>
+            <NumberOfDrops>1</NumberOfDrops>
+            <RIPType>Versa</RIPType>
+          </PhysicalRIP>
+        </PhysicalRIPs>
+        <Printers RIPStitching="False" RIPSplitting="False" PartialOverlappingOfHeads="False">
+          <PrinterGroupForPageSide>
+            <ColorFeature>Black and white</ColorFeature>
+            <ResolutionX>300</ResolutionX>
+            <ResolutionY>300</ResolutionY>
+            <Page>0</Page>
+            <PageSide>Front</PageSide>
+            <FontSetting FontType="Category II" SuperFont="False"/>
+            <WhiteProcessing WhiteProcessing="Auto"/>
+            <Trapping UseTrapping="False" SizeOfFontTrapping="1" SizeOfBitmapTrapping="1"/>
+            <FontStoring DoNotDivideGlyph="False"/>
+            <SheetOffset StartWithEmptySheets="0"/>
+            <PLRCommand SuppressPLRCommand="False"/>
+            <PageBufferLength PageBufferLength="4096"/>
+            <Dithering>
+              <DitheringSetting>
+                <ColorFeature>BlackAndWhite</ColorFeature>
+                <DefaultDitherer/>
+                <DefaultDitherer/>
+                <DefaultDitherer/>
+                <DefaultDitherer/>
+                <DefaultDitherer/>
+                <DefaultDitherer/>
+                <DefaultDitherer/>
+                <DefaultDitherer/>
+                <DefaultDitherer/>
+                <DefaultDitherer/>
+                <DefaultDitherer/>
+                <DefaultDitherer/>
+                <DefaultDitherer/>
+                <DefaultDitherer/>
+                <DefaultDitherer/>
+                <DefaultDitherer/>
+                <DefaultDitherer/>
+                <DefaultDitherer/>
+                <DefaultDitherer/>
+                <DefaultDitherer/>
+                <DefaultDitherer/>
+                <DefaultDitherer/>
+                <DefaultDitherer/>
+                <DefaultDitherer/>
+              </DitheringSetting>
+            </Dithering>
+            <PrinterGroup>
+              <Printer>
+                <Color>Black</Color>
+                <UsedPhysicalHeads>
+                  <PhysicalHead RIP="1" Head="1" Stitched="True" Position="0"/>
+                </UsedPhysicalHeads>
+              </Printer>
+            </PrinterGroup>
+          </PrinterGroupForPageSide>
+        </Printers>
+      </FormatConfig>
+      <DriverConfig DriverConfigType="File" Name="Default">
+        <OutputFileName>%n.ijp</OutputFileName>
+        <Split>False</Split>
+        <SplitBySize>False</SplitBySize>
+        <SplitSize>1000000</SplitSize>
+      </DriverConfig>
+    </Engine>
+    <Engine EngineType="PCL">
+      <FormatConfig Name="Default">
+        <General PrinterResolution="300" OutputColors="BlackAndWhite" UseHighlightColors="False">
+          <AssignColorToIndex>
+            <SpotColor Idx="0" Color="DefaultColor"/>
+            <SpotColor Idx="1" Color="DefaultColor"/>
+            <SpotColor Idx="2" Color="DefaultColor"/>
+            <SpotColor Idx="3" Color="DefaultColor"/>
+            <SpotColor Idx="4" Color="DefaultColor"/>
+            <SpotColor Idx="5" Color="DefaultColor"/>
+            <SpotColor Idx="6" Color="DefaultColor"/>
+            <SpotColor Idx="7" Color="DefaultColor"/>
+            <SpotColor Idx="8" Color="DefaultColor"/>
+            <SpotColor Idx="9" Color="DefaultColor"/>
+            <SpotColor Idx="10" Color="DefaultColor"/>
+            <SpotColor Idx="11" Color="DefaultColor"/>
+            <SpotColor Idx="12" Color="DefaultColor"/>
+            <SpotColor Idx="13" Color="DefaultColor"/>
+            <SpotColor Idx="14" Color="DefaultColor"/>
+            <SpotColor Idx="15" Color="DefaultColor"/>
+          </AssignColorToIndex>
+          <WhiteProcessing WhiteProces="Auto"/>
+          <FontFormat FontFormat="PCL 5"/>
+          <DoNotUseOverlay DoNotUseOverlay="False"/>
+          <CompressBlackAndWhiteImages CompressBlackAndWhiteImages="False"/>
+          <KerningNotSupportedByPrinter KerningNotSupportedByPrinter="True"/>
+          <AllowSingleFileSplitting AllowSingleFileSplitting="False"/>
+          <UsePermanentResources UsePermanentResources="False"/>
+          <ResizeBarcodes>
+            <Relative X="1" Y="1"/>
+            <Absolute X="0" Y="0"/>
+          </ResizeBarcodes>
+          <PrintComands TakeInitialPageCommandsFromSheetNameIndex="False" InitialPageCommandsFromSheetNameIndex="3" TakeFinishPageWithCommandsFromSheetNameIndex="False" FinishPageWithCommandsFromSheetNameIndex="3" TranslateOpenSquareBracketToEscapeCharacters="False"/>
+          <ICCProfileSetting>
+            <RenderingIntent>Perceptual</RenderingIntent>
+            <BuiltInProfile>True</BuiltInProfile>
+          </ICCProfileSetting>
+        </General>
+        <PJLCommands>
+          <StartPJLCommands Command="@PJL COMMENT PCL job generated by PrintNetT ver. %v .&#xd;&#xa;@PJL ENTER LANGUAGE=PCL&#xd;&#xa;"/>
+          <EndPJLCommands Command=""/>
+        </PJLCommands>
+        <Dithering>
+          <DitheringSetting>
+            <ColorFeature>BlackAndWhite</ColorFeature>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+          </DitheringSetting>
+        </Dithering>
+      </FormatConfig>
+      <DriverConfig DriverConfigType="File" Name="Default">
+        <OutputFileName>%n.pcl</OutputFileName>
+        <Split>False</Split>
+        <SplitBySize>False</SplitBySize>
+        <SplitSize>1000000</SplitSize>
+      </DriverConfig>
+    </Engine>
+    <Engine EngineType="NativePrinter">
+      <FormatConfig Name="Default">
+        <DPI X="300" Y="300"/>
+        <ColorSpace>RGB</ColorSpace>
+        <AutoFitType>AutoFitWithBorders</AutoFitType>
+      </FormatConfig>
+      <DriverConfig DriverConfigType="WinNativePrinter" Name="Default">
+        <PrinterName/>
+        <DocumentProperties>AAAAAA==</DocumentProperties>
+        <JobName/>
+        <Spool2File>False</Spool2File>
+        <ShouldSplit>False</ShouldSplit>
+        <ShouldSplitBySize>False</ShouldSplitBySize>
+        <SplitAtSize>1000000</SplitAtSize>
+      </DriverConfig>
+    </Engine>
+    <Engine EngineType="AdobePostScript2">
+      <FormatConfig Name="Default">
+        <PsOutputOption OutputProfiles="Optimized for size" AddDebugInfoIntoSpool="False"/>
+        <AdvancedSettings ResetAllValuesTo="Optimized for size">
+          <DSC DocumentStructuringConventionsType="Basic" EOL="unix style" LineLength="200"/>
+          <Fonts Use="type 1 fonts" ASCIICharstringEncryption="False" UseEexecEncryption="True" ASCIIEexecEncrytion="False" TextEncodings="Binary" FontEncoding="Share" MaximalCountOfSingleByteFonts="5"/>
+          <Images ImagesRenderDPI="300" ImageBufferSize="32000" UseOriginalEps="True" PutTransparentMonochromaticImagesIntoFonts="True" CachedImages="True" ImageColorSpace="Keep Original">
+            <ImageFilters/>
+          </Images>
+          <PsSettings SpoolFileCompression="None" UseOverlays="True" UseSeparationColorSpaces="False"/>
+          <PJLCommands IncludePJLCommand="False" StartPJLCommands="@PJL ENTER LANGUAGE = Postscript" EndPJLCommands=""/>
+          <Engine CompressedTemporaryFiles="True">
+            <ResizeBarcodes>
+              <Relative X="1" Y="1"/>
+              <Absolute X="0" Y="0"/>
+            </ResizeBarcodes>
+            <ICCProfile>
+              <RenderingIntent>Perceptual</RenderingIntent>
+              <BuiltInProfile>True</BuiltInProfile>
+            </ICCProfile>
+          </Engine>
+        </AdvancedSettings>
+      </FormatConfig>
+      <PrinterConfig Name="Default">
+        <PPDSettings IncludePPDCommandsToSpoolOnlyOnChange="True" ShowTranslationValues="True">
+          <PPD ModelName="No PPD Selected">
+            <UIFeatures/>
+            <PpdStructure Name="MainGroup" TransformName="">
+              <Keys/>
+              <DefaultValues/>
+              <DefaultQueries/>
+              <OrderDependencies/>
+              <JobPatchFiles/>
+              <CustomPageSizeParams/>
+              <SubGroups/>
+            </PpdStructure>
+            <Constraints/>
+          </PPD>
+          <OnStartDocument UseCustomPageSize="False" ShowOnlyUsedPpdKeys="False">
+            <PpdItems/>
+          </OnStartDocument>
+          <OnFinishDocument UseCustomPageSize="False" ShowOnlyUsedPpdKeys="False">
+            <PpdItems/>
+          </OnFinishDocument>
+          <FullView>
+            <UserInterfaces CollapseAllNodes="True"/>
+            <GlobalValues CollapseAllNodes="True"/>
+          </FullView>
+        </PPDSettings>
+      </PrinterConfig>
+      <DriverConfig DriverConfigType="File" Name="Default">
+        <OutputFileName>%n.ps</OutputFileName>
+        <Split>False</Split>
+        <SplitBySize>False</SplitBySize>
+        <SplitSize>1000000</SplitSize>
+      </DriverConfig>
+    </Engine>
+    <Engine EngineType="Metacode">
+      <FormatConfig Name="Default">
+        <General MachineName="Xerox" SelectedColor="BLACK">
+          <SelectableColor>
+            <SpotColor Color="BLACK"/>
+            <SpotColor Color="BLUE"/>
+            <SpotColor Color="GREEN"/>
+            <SpotColor Color="RED"/>
+          </SelectableColor>
+          <AssignColorToIndex>
+            <SpotColor Idx="0" Color="BLACK"/>
+            <SpotColor Idx="1" Color="BLACK"/>
+            <SpotColor Idx="2" Color="BLACK"/>
+            <SpotColor Idx="3" Color="BLACK"/>
+            <SpotColor Idx="4" Color="BLACK"/>
+            <SpotColor Idx="5" Color="BLACK"/>
+            <SpotColor Idx="6" Color="BLACK"/>
+            <SpotColor Idx="7" Color="BLACK"/>
+            <SpotColor Idx="8" Color="BLACK"/>
+            <SpotColor Idx="9" Color="BLACK"/>
+            <SpotColor Idx="10" Color="BLACK"/>
+            <SpotColor Idx="11" Color="BLACK"/>
+            <SpotColor Idx="12" Color="BLACK"/>
+            <SpotColor Idx="13" Color="BLACK"/>
+            <SpotColor Idx="14" Color="BLACK"/>
+            <SpotColor Idx="15" Color="BLACK"/>
+          </AssignColorToIndex>
+          <Output OutputMode="BARRSPOOL" JDLOn="True" JDEOn="True" FormsFont="FORMSX"/>
+          <RSTACK RSTACKOn="True" RSTACKHexaValue="13131313131313131313"/>
+          <Compression UseCompression="True" OverlayCompression="True"/>
+          <ICCProfile>
+            <ICCProfileSetting>
+              <RenderingIntent>Perceptual</RenderingIntent>
+              <BuiltInProfile>True</BuiltInProfile>
+            </ICCProfileSetting>
+          </ICCProfile>
+        </General>
+        <DJDECommands>
+          <DJDESyntax IdenPrefix="DJDE" ModePrefix="ASCII" DJDEEncoding="ASCII" Skip="5" Offset="0" ModeJDL="ASCII"/>
+          <AdditonalDJDECommandsFromSheetName UseDJDECommandsForDocument="False" SheetNameIdxDJDECommandsForDocument="3" UseDJDEPagePreCommands="False" SheetNameIdxDJDEPagePreCommands="3" UseDJDEPageInlineCommands="False" SheetNameIdxDJDEPageInlineCommands="3" ReplaceNonEBCDICcharactersWith="_"/>
+        </DJDECommands>
+        <PrintSetting WhiteProcessing="Never" LoadOverlay="True" UseFontOptimize="True" Use5WordFST="False" UseTempFiles="False" UseFontsForGraphic="False"/>
+        <Dithering>
+          <DitheringSetting>
+            <ColorFeature>BlackAndWhite</ColorFeature>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+          </DitheringSetting>
+        </Dithering>
+        <Advanced>
+          <ResizeBarcodes>
+            <Relative X="1" Y="1"/>
+            <Absolute X="0" Y="0"/>
+          </ResizeBarcodes>
+        </Advanced>
+      </FormatConfig>
+      <PrinterConfig Name="Default">
+        <MetacodePageSizes>
+          <MetacodePageSize PageSizeName="DFLT" HorizontalShiftText="22" VerticalShiftText="3400" HorizontalShiftIMG="0" VerticalShiftIMG="0"/>
+          <MetacodePageSize PageSizeName="A4" HorizontalShiftText="57" VerticalShiftText="3555" HorizontalShiftIMG="0" VerticalShiftIMG="0"/>
+        </MetacodePageSizes>
+      </PrinterConfig>
+      <DriverConfig DriverConfigType="File" Name="Default">
+        <OutputFileName>%n.xrx</OutputFileName>
+        <Split>False</Split>
+        <SplitBySize>False</SplitBySize>
+        <SplitSize>1000000</SplitSize>
+      </DriverConfig>
+    </Engine>
+    <Engine EngineType="CreoVPS">
+      <FormatConfig Name="Default">
+        <PsOutputOption OutputProfiles="Optimized for size" AddDebugInfoIntoSpool="False"/>
+        <AdvancedSettings ResetAllValuesTo="Optimized for size">
+          <DSC DocumentStructuringConventionsType="Basic" EOL="unix style" LineLength="200"/>
+          <Fonts Use="type 1 fonts" ASCIICharstringEncryption="False" UseEexecEncryption="True" ASCIIEexecEncrytion="False" TextEncodings="Binary" FontEncoding="Share" MaximalCountOfSingleByteFonts="5"/>
+          <Images ImagesRenderDPI="300" ImageBufferSize="32000" UseOriginalImages="False" PutTransparentMonochromaticImagesIntoFonts="False" UseCachedImages="True" ImageColorSpace="Keep Original">
+            <CreateImages CreateInto="DoNotGenerateImages" Dir=""/>
+            <ImageFilters>
+              <Filter Name="Flate"/>
+            </ImageFilters>
+          </Images>
+          <VpsSettings SpoolFileCompression="None" UseOverlays="True" UseSeparationColorSpaces="False">
+            <BookletSplitting Split="SplitByGroup" CountOfSheets="1"/>
+            <CachedVIElements Generate="NotGenerate" UserName=""/>
+            <JobUniqueEementNames Generate="False"/>
+            <CorrectionOfInlineElements UseTresholdValueOfGroupObjects="False" TresholdValue="130"/>
+          </VpsSettings>
+          <PJLCommands IncludePJLCommand="False" StartPJLCommands="@PJL ENTER LANGUAGE = Postscript" EndPJLCommands=""/>
+          <Engine CompressedTemporaryFiles="True">
+            <ResizeBarcodes>
+              <Relative X="1" Y="1"/>
+              <Absolute X="0" Y="0"/>
+            </ResizeBarcodes>
+            <ICCProfile>
+              <RenderingIntent>Perceptual</RenderingIntent>
+              <BuiltInProfile>True</BuiltInProfile>
+            </ICCProfile>
+          </Engine>
+        </AdvancedSettings>
+      </FormatConfig>
+      <PrinterConfig Name="Default">
+        <PPDSettings IncludePPDCommandsToSpoolOnlyOnChange="True" ShowTranslationValues="True">
+          <PPD ModelName="No PPD Selected">
+            <UIFeatures/>
+            <PpdStructure Name="MainGroup" TransformName="">
+              <Keys/>
+              <DefaultValues/>
+              <DefaultQueries/>
+              <OrderDependencies/>
+              <JobPatchFiles/>
+              <CustomPageSizeParams/>
+              <SubGroups/>
+            </PpdStructure>
+            <Constraints/>
+          </PPD>
+          <OnStartDocument UseCustomPageSize="False" ShowOnlyUsedPpdKeys="False">
+            <PpdItems/>
+          </OnStartDocument>
+          <OnFinishDocument UseCustomPageSize="False" ShowOnlyUsedPpdKeys="False">
+            <PpdItems/>
+          </OnFinishDocument>
+          <FullView>
+            <UserInterfaces CollapseAllNodes="True"/>
+            <GlobalValues CollapseAllNodes="True"/>
+          </FullView>
+        </PPDSettings>
+      </PrinterConfig>
+      <DriverConfig DriverConfigType="File" Name="Default">
+        <OutputFileName>%n.vps</OutputFileName>
+        <Split>False</Split>
+        <SplitBySize>False</SplitBySize>
+        <SplitSize>1000000</SplitSize>
+      </DriverConfig>
+    </Engine>
+    <Engine EngineType="PodiPPML">
+      <FormatConfig Name="Default">
+        <PsOutputOption OutputProfiles="Optimized for size" PPMLVersion="PPML ver. 2.10" AddDebugInfoIntoSpool="False"/>
+        <AdvancedSettings ResetAllValuesTo="Optimized for size">
+          <DSC DocumentStructuringConventionsType="Basic" EOL="unix style" LineLength="200"/>
+          <Fonts Use="type 1 fonts" ASCIICharstringEncryption="False" UseEexecEncryption="True" ASCIIEexecEncrytion="False" TextEncodings="Binary" FontEncoding="Share" MaximalCountOfSingleByteFonts="5"/>
+          <Images ImagesRenderDPI="300" ImageBufferSize="32000" ImageColorSpace="Keep Original">
+            <CreateImages CreateInto="DoNotGenerateImages" Dir=""/>
+            <ImageFilters>
+              <Filter Name="Flate"/>
+            </ImageFilters>
+          </Images>
+          <ImageFormat ConvertUnsupportedImagesTypeInto="EPS" UseCachedImages="True" LocationPrefix="">
+            <ImagesSupportByPrinter>
+              <EPS Support="True" UseOriginalSourceCode="False"/>
+              <TIFF Support="False" UseOriginalSourceCode="False"/>
+              <JPG Support="False" UseOriginalSourceCode="False"/>
+              <BMP Support="False" UseOriginalSourceCode="False"/>
+              <PCX Support="False" UseOriginalSourceCode="False"/>
+            </ImagesSupportByPrinter>
+          </ImageFormat>
+          <VIElements>
+            <CachedVIElements Generate="NotGenerate" UserName=""/>
+            <OverwriteCache Overlays="False" Images="False"/>
+            <GlobalCache AddOverlays="False" AddImages="False"/>
+            <JobUniqueElementNames Generate="False"/>
+            <CorrectionOfInlineElements UseTresholdValueOfGroupObjects="False" TresholdValue="130"/>
+          </VIElements>
+          <PPMLSettings UseOverlays="True" UseMasters="False" UseProcset="True" UseSeparationColorSpaces="False">
+            <DocumentSplitting Split="SplitByGroup" CountOfSheets="1"/>
+            <InternalOrExternalFontResources UseInternalData="True" IsExternalDirSameAsSpool="True" ExternalDir=""/>
+            <InternalDataEncoding UseBase64OnPsCommand="True"/>
+          </PPMLSettings>
+          <Engine ZipAllFiles="False" CopyAllFilesToRightDirOnFinishAtOnce="False" CompressedTemporaryFiles="False">
+            <ResizeBarcodes>
+              <Relative X="1" Y="1"/>
+              <Absolute X="0" Y="0"/>
+            </ResizeBarcodes>
+            <ICCProfile>
+              <RenderingIntent>Perceptual</RenderingIntent>
+              <BuiltInProfile>True</BuiltInProfile>
+            </ICCProfile>
+          </Engine>
+        </AdvancedSettings>
+      </FormatConfig>
+      <PrinterConfig Name="Default">
+        <PageMedia CreateMediaResources="False" CreateToDirAsSpoolFile="True" ExternalDirectory=""/>
+        <Impositioning UseGlobalImpositioning="False" UsePredefinedCommand="True" SelectedCommand="Simplex 1-UP (default)" CustomCommand=""/>
+      </PrinterConfig>
+      <DriverConfig DriverConfigType="File" Name="Default">
+        <OutputFileName>%n.ppml</OutputFileName>
+        <Split>False</Split>
+        <SplitBySize>False</SplitBySize>
+        <SplitSize>1000000</SplitSize>
+      </DriverConfig>
+    </Engine>
+    <Engine EngineType="PDF Fixed Resolution">
+      <FormatConfig Name="Default">
+        <General PrinterResolutionX="300" PrinterResolutionY="300" OutputColors="BlackAndWhite" ColorspaceForTextAndGraphic="CIELab" GraphicSupport="FullWithStroke" WhiteColorProcessing="Never" GrayscaleSupport="None" Compress="True" JPEGCompression="False" JPEGQuality="80">
+          <AssignColorants>
+            <SpotColor Index="0" ColorantName="Default">
+              <AlternativeColor R="0" G="0" B="0"/>
+            </SpotColor>
+            <SpotColor Index="1" ColorantName="Spot01">
+              <AlternativeColor R="1" G="0" B="0"/>
+            </SpotColor>
+            <SpotColor Index="2" ColorantName="Spot02">
+              <AlternativeColor R="0" G="0.33333334" B="0"/>
+            </SpotColor>
+            <SpotColor Index="3" ColorantName="Spot03">
+              <AlternativeColor R="1" G="0.33333334" B="0"/>
+            </SpotColor>
+            <SpotColor Index="4" ColorantName="Spot04">
+              <AlternativeColor R="0" G="0.66666669" B="0"/>
+            </SpotColor>
+            <SpotColor Index="5" ColorantName="Spot05">
+              <AlternativeColor R="1" G="0.66666669" B="0"/>
+            </SpotColor>
+            <SpotColor Index="6" ColorantName="Spot06">
+              <AlternativeColor R="0" G="1" B="0"/>
+            </SpotColor>
+            <SpotColor Index="7" ColorantName="Spot07">
+              <AlternativeColor R="1" G="1" B="0"/>
+            </SpotColor>
+            <SpotColor Index="8" ColorantName="Spot08">
+              <AlternativeColor R="0" G="0" B="1"/>
+            </SpotColor>
+            <SpotColor Index="9" ColorantName="Spot09">
+              <AlternativeColor R="1" G="0" B="1"/>
+            </SpotColor>
+            <SpotColor Index="10" ColorantName="Spot10">
+              <AlternativeColor R="0" G="0.33333334" B="1"/>
+            </SpotColor>
+            <SpotColor Index="11" ColorantName="Spot11">
+              <AlternativeColor R="1" G="0.33333334" B="1"/>
+            </SpotColor>
+            <SpotColor Index="12" ColorantName="Spot12">
+              <AlternativeColor R="0" G="0.66666669" B="1"/>
+            </SpotColor>
+            <SpotColor Index="13" ColorantName="Spot13">
+              <AlternativeColor R="1" G="0.66666669" B="1"/>
+            </SpotColor>
+            <SpotColor Index="14" ColorantName="Spot14">
+              <AlternativeColor R="0" G="1" B="1"/>
+            </SpotColor>
+            <SpotColor Index="15" ColorantName="Spot15">
+              <AlternativeColor R="1" G="1" B="1"/>
+            </SpotColor>
+          </AssignColorants>
+          <ResizeBarcodes>
+            <Relative X="1" Y="1"/>
+            <Absolute X="0" Y="0"/>
+          </ResizeBarcodes>
+          <ICCProfile>
+            <RenderingIntent>Saturation</RenderingIntent>
+            <BuiltInProfile>True</BuiltInProfile>
+          </ICCProfile>
+        </General>
+        <Dithering>
+          <ColorFeature>BlackAndWhite</ColorFeature>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+        </Dithering>
+        <Splitting>
+          <MediaSetting Index="Default" Face="Both" Shrink="False">
+            <HorizontalHeadSetting>
+              <Head From="0" Width="2147483647" To="0"/>
+            </HorizontalHeadSetting>
+          </MediaSetting>
+        </Splitting>
+      </FormatConfig>
+      <DriverConfig DriverConfigType="File" Name="Default">
+        <OutputFileName>%n.pdf</OutputFileName>
+        <Split>False</Split>
+        <SplitBySize>False</SplitBySize>
+        <SplitSize>1000000</SplitSize>
+      </DriverConfig>
+    </Engine>
+    <Engine EngineType="Text">
+      <FormatConfig Name="Default">
+        <General WidthOfLine="0.13" HeightOfLine="0.00325" GlyphsPerLine="80" SpaceCharacterCode="32" SupportEastAsiaChars="True"/>
+        <DataEncoding TextCodec="UTF-8" EndOfLine="Windows"/>
+        <Table>
+          <TopLeftCorner TopLeftCornerChar="+" TopLeftCornerCode="43"/>
+          <TopLine TopLineChar="-" TopLineCode="45"/>
+          <TopMiddleCrossing TopMiddleCrossingChar="+" TopMiddleCrossingCode="43"/>
+          <TopRightCorner TopRightCornerChar="+" TopRightCornerCode="43"/>
+          <LeftLine LeftLineChar="|" LeftLineCode="124"/>
+          <NoBorder NoBorderChar="&#x20;" NoBorderCode="32"/>
+          <VerticalLine VerticalLineChar="|" VerticalLineCode="124"/>
+          <RightLine RightLineChar="|" RightLineCode="124"/>
+          <LeftMiddleCrossing LeftMiddleCrossingChar="+" LeftMiddleCrossingCode="43"/>
+          <HorizontalLine HorizontalLineChar="-" HorizontalLineCode="45"/>
+          <InnerLinesCrossing InnerLinesCrossingChar="+" InnerLinesCrossingCode="43"/>
+          <RightMiddleCrossing RightMiddleCrossingChar="+" RightMiddleCrossingCode="43"/>
+          <BottomLeftCorner BottomLeftCornerChar="+" BottomLeftCornerCode="43"/>
+          <BottomLine BottomLineChar="-" BottomLineCode="45"/>
+          <BottomMiddleCrossing BottomMiddleCrossingChar="+" BottomMiddleCrossingCode="43"/>
+          <BottomRightCorner BottomRightCornerChar="+" BottomRightCornerCode="43"/>
+        </Table>
+      </FormatConfig>
+      <DriverConfig DriverConfigType="File" Name="Default">
+        <OutputFileName>%n.txt</OutputFileName>
+        <Split>False</Split>
+        <SplitBySize>False</SplitBySize>
+        <SplitSize>1000000</SplitSize>
+      </DriverConfig>
+    </Engine>
+    <Engine EngineType="Simple Html">
+      <FormatConfig Name="Default">
+        <General>
+          <OutputResolution[DPI]>96</OutputResolution[DPI]>
+          <UseJPGsAndPNGsWithoutProcessing>False</UseJPGsAndPNGsWithoutProcessing>
+          <UseOriginalPictureNames>False</UseOriginalPictureNames>
+          <OverwritePictureIfExist>False</OverwritePictureIfExist>
+          <ResizeImagesToOutputResolution>False</ResizeImagesToOutputResolution>
+          <ImageOutputPath>.\images</ImageOutputPath>
+        </General>
+        <DataEncoding>
+          <TextCodec>ibm-5348_P100-1997</TextCodec>
+        </DataEncoding>
+      </FormatConfig>
+      <DriverConfig DriverConfigType="File" Name="Default">
+        <OutputFileName>c:\tmp\%n-%g.html</OutputFileName>
+        <Split>True</Split>
+        <SplitBySize>False</SplitBySize>
+        <SplitSize>1000000</SplitSize>
+      </DriverConfig>
+    </Engine>
+    <Engine EngineType="PNetTNative">
+      <FormatConfig Name="Default">
+        <Compressed>True</Compressed>
+        <ExternalFonts>True</ExternalFonts>
+        <UseOriginalFontLinks>True</UseOriginalFontLinks>
+        <FontDirectory>UnknownLocation,</FontDirectory>
+        <ExternalImages>True</ExternalImages>
+        <UseOriginalImageLinks>True</UseOriginalImageLinks>
+        <ImageDirectory>UnknownLocation,</ImageDirectory>
+        <ImageRenderDPI>300</ImageRenderDPI>
+        <IncludeMetadata>0</IncludeMetadata>
+      </FormatConfig>
+      <DriverConfig DriverConfigType="File" Name="Default">
+        <OutputFileName>%n.tno</OutputFileName>
+        <Split>False</Split>
+        <SplitBySize>False</SplitBySize>
+        <SplitSize>1000000</SplitSize>
+      </DriverConfig>
+    </Engine>
+    <Engine EngineType="Multi">
+      <FormatConfig Name="Default">
+        <ShouldSplit>False</ShouldSplit>
+        <ShouldSplitBySize>False</ShouldSplitBySize>
+        <SplitAtSize>1000000</SplitAtSize>
+      </FormatConfig>
+      <DriverConfig DriverConfigType="Multi" Name="Default"/>
+    </Engine>
+    <Engine EngineType="HP PPML">
+      <FormatConfig Name="Default">
+        <PsOutputOption OutputProfiles="Optimized for size" PPMLVersion="PPML ver. 2.10" AddDebugInfoIntoSpool="False"/>
+        <AdvancedSettings ResetAllValuesTo="Optimized for size">
+          <DSC DocumentStructuringConventionsType="Basic" EOL="unix style" LineLength="200"/>
+          <Fonts Use="type 1 fonts" ASCIICharstringEncryption="False" UseEexecEncryption="True" ASCIIEexecEncrytion="False" TextEncodings="Binary" FontEncoding="Share" MaximalCountOfSingleByteFonts="5"/>
+          <Images ImagesRenderDPI="300" ImageBufferSize="32000" ImageColorSpace="Keep Original">
+            <CreateImages CreateInto="DoNotGenerateImages" Dir=""/>
+            <ImageFilters>
+              <Filter Name="Flate"/>
+            </ImageFilters>
+          </Images>
+          <ImageFormat ConvertUnsupportedImagesTypeInto="EPS" UseCachedImages="True" LocationPrefix="">
+            <ImagesSupportByPrinter>
+              <EPS Support="True" UseOriginalSourceCode="False"/>
+              <TIFF Support="False" UseOriginalSourceCode="False"/>
+              <JPG Support="False" UseOriginalSourceCode="False"/>
+              <BMP Support="False" UseOriginalSourceCode="False"/>
+              <PCX Support="False" UseOriginalSourceCode="False"/>
+            </ImagesSupportByPrinter>
+          </ImageFormat>
+          <VIElements>
+            <CachedVIElements Generate="NotGenerate" UserName=""/>
+            <OverwriteCache Overlays="False" Images="False"/>
+            <GlobalCache AddOverlays="False" AddImages="False"/>
+            <JobUniqueElementNames Generate="False"/>
+            <CorrectionOfInlineElements UseTresholdValueOfGroupObjects="False" TresholdValue="130"/>
+          </VIElements>
+          <PPMLSettings UseOverlays="True" UseProcset="True" UseSeparationColorSpaces="False">
+            <DocumentSplitting Split="SplitByGroup" CountOfSheets="1"/>
+            <InternalOrExternalFontResources UseInternalData="True" IsExternalDirSameAsSpool="True" ExternalDir=""/>
+            <InternalDataEncoding UseBase64OnPsCommand="True" UseBase64OnSvgCommand="True"/>
+            <PageDescriptionLanguage UseSVG="False" EnlargeBoundingBox="False" EnlargeValue="5"/>
+          </PPMLSettings>
+          <Engine ZipAllFiles="False" CopyAllFilesToRightDirOnFinishAtOnce="False" CompressedTemporaryFiles="False">
+            <ResizeBarcodes>
+              <Relative X="1" Y="1"/>
+              <Absolute X="0" Y="0"/>
+            </ResizeBarcodes>
+            <ICCProfile>
+              <RenderingIntent>Perceptual</RenderingIntent>
+              <BuiltInProfile>True</BuiltInProfile>
+            </ICCProfile>
+          </Engine>
+        </AdvancedSettings>
+      </FormatConfig>
+      <PrinterConfig Name="Default">
+        <PageMedia CreateMediaResources="False" CreateToDirAsSpoolFile="True" ExternalDirectory=""/>
+        <Impositioning UseGlobalImpositioning="False" UsePredefinedCommand="True" SelectedCommand="Simplex 1-UP (default)" CustomCommand=""/>
+        <Fonts DefaultFontName="">
+          <DefinedFonts/>
+        </Fonts>
+      </PrinterConfig>
+      <DriverConfig DriverConfigType="File" Name="Default">
+        <OutputFileName>%n.ppml</OutputFileName>
+        <Split>False</Split>
+        <SplitBySize>False</SplitBySize>
+        <SplitSize>1000000</SplitSize>
+      </DriverConfig>
+    </Engine>
+    <Engine EngineType="Raster">
+      <FormatConfig Name="Default">
+        <ImageStreamerType>image/png</ImageStreamerType>
+        <Interlace>False</Interlace>
+        <Quality>75</Quality>
+        <OutputColorSpace>RGB</OutputColorSpace>
+        <DPI X="150" Y="150"/>
+        <PDFDPI X="150" Y="150"/>
+        <WhiteProcessing>Always</WhiteProcessing>
+        <GraphicFeature>None</GraphicFeature>
+        <ColorFeature>BlackAndWhite</ColorFeature>
+        <SupportPlentyOfFonts>False</SupportPlentyOfFonts>
+        <DitheringSettings>
+          <ColorFeature>BlackAndWhite</ColorFeature>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+          <DefaultDitherer/>
+        </DitheringSettings>
+        <ICCProfileSettings>
+          <RenderingIntent>Perceptual</RenderingIntent>
+          <BuiltInProfile>True</BuiltInProfile>
+        </ICCProfileSettings>
+        <BarcodeResizeSettings>
+          <Relative X="1" Y="1"/>
+          <Absolute X="0" Y="0"/>
+        </BarcodeResizeSettings>
+        <splitsetting>
+          <setting media="0" shrink="False">
+            <head posx="0" width="2147483647" outx="0"/>
+          </setting>
+        </splitsetting>
+      </FormatConfig>
+      <DriverConfig DriverConfigType="File" Name="Default">
+        <OutputFileName>page%s.png</OutputFileName>
+        <Split>False</Split>
+        <SplitBySize>False</SplitBySize>
+        <SplitSize>1000000</SplitSize>
+      </DriverConfig>
+    </Engine>
+    <Engine EngineType="NexPressVDX">
+      <FormatConfig Name="Default" Compression="True" VariableEpsPdfOutputResolution="300">
+        <Colorspace TextAndGraphics="ConvertToRGB" Images="ConvertToRGB"/>
+        <JpegCompression Use="forJPEGsOnly" Quality="75"/>
+        <ResizeBarcodes>
+          <Relative X="1" Y="1"/>
+          <Absolute X="0" Y="0"/>
+        </ResizeBarcodes>
+        <ICCProfile>
+          <RenderingIntent>Perceptual</RenderingIntent>
+          <BuiltInProfile>True</BuiltInProfile>
+        </ICCProfile>
+      </FormatConfig>
+      <DriverConfig DriverConfigType="File" Name="Default">
+        <OutputFileName>%n.vdx</OutputFileName>
+        <Split>False</Split>
+        <SplitBySize>False</SplitBySize>
+        <SplitSize>1000000</SplitSize>
+      </DriverConfig>
+    </Engine>
+    <Engine EngineType="IPDS">
+      <FormatConfig Name="Default">
+        <General>
+          <PrinterResolutionForPositioning>240</PrinterResolutionForPositioning>
+          <MaxIpdsDataSizeInKB>8</MaxIpdsDataSizeInKB>
+          <MaxPageSegmentsCount>127</MaxPageSegmentsCount>
+          <MaxOverlaysCount>254</MaxOverlaysCount>
+          <MaxFontsCount>128</MaxFontsCount>
+          <PagesPerAcknowledge>1</PagesPerAcknowledge>
+          <GraphicsSupport>None</GraphicsSupport>
+          <WhiteColorProcessing>Text</WhiteColorProcessing>
+          <OutputColors>Black and white</OutputColors>
+          <AssignIPDSColorsToIndex>
+            <SpotColor SpotColor="0" IPDSColor="DefaultColor"/>
+            <SpotColor SpotColor="1" IPDSColor="DefaultColor"/>
+            <SpotColor SpotColor="2" IPDSColor="DefaultColor"/>
+            <SpotColor SpotColor="3" IPDSColor="DefaultColor"/>
+            <SpotColor SpotColor="4" IPDSColor="DefaultColor"/>
+            <SpotColor SpotColor="5" IPDSColor="DefaultColor"/>
+            <SpotColor SpotColor="6" IPDSColor="DefaultColor"/>
+            <SpotColor SpotColor="7" IPDSColor="DefaultColor"/>
+            <SpotColor SpotColor="8" IPDSColor="DefaultColor"/>
+            <SpotColor SpotColor="9" IPDSColor="DefaultColor"/>
+            <SpotColor SpotColor="10" IPDSColor="DefaultColor"/>
+            <SpotColor SpotColor="11" IPDSColor="DefaultColor"/>
+            <SpotColor SpotColor="12" IPDSColor="DefaultColor"/>
+            <SpotColor SpotColor="13" IPDSColor="DefaultColor"/>
+            <SpotColor SpotColor="14" IPDSColor="DefaultColor"/>
+            <SpotColor SpotColor="15" IPDSColor="DefaultColor"/>
+          </AssignIPDSColorsToIndex>
+          <ReportUndefinedCharacters>True</ReportUndefinedCharacters>
+          <ReportPrintOutsitePage>True</ReportPrintOutsitePage>
+          <ReportAllOther>True</ReportAllOther>
+          <HiglightException>True</HiglightException>
+          <UseRelativeMetricPrefered>False</UseRelativeMetricPrefered>
+          <DoubleByteFonts>False</DoubleByteFonts>
+          <Compression>False</Compression>
+          <UseIOImageCmd>False</UseIOImageCmd>
+          <StackReceivedPages>False</StackReceivedPages>
+          <SplitOverlaysForNipson>none</SplitOverlaysForNipson>
+          <GrayscaleImage>
+            <GrayscaleImageSupportAllowed>False</GrayscaleImageSupportAllowed>
+            <GrayscaleFormat>Uncompressed</GrayscaleFormat>
+            <JpegCompressionQuality>70</JpegCompressionQuality>
+            <ConvertToGrayscale>16M color images, PDF, EPS</ConvertToGrayscale>
+          </GrayscaleImage>
+          <JogPageCount(AOS)>0</JogPageCount(AOS)>
+        </General>
+        <Advanced>
+          <ResizeBarcodes>
+            <Relative X="1" Y="1"/>
+            <Absolute X="0" Y="0"/>
+          </ResizeBarcodes>
+          <UsedFontsForGraphic>True</UsedFontsForGraphic>
+          <LoadAllFontsAsMICR>False</LoadAllFontsAsMICR>
+        </Advanced>
+        <ICCProfile>
+          <ICCProfileSetting>
+            <RenderingIntent>Perceptual</RenderingIntent>
+            <BuiltInProfile>True</BuiltInProfile>
+          </ICCProfileSetting>
+        </ICCProfile>
+        <Dithering>
+          <DitheringSetting>
+            <ColorFeature>BlackAndWhite</ColorFeature>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+            <DefaultDitherer/>
+          </DitheringSetting>
+        </Dithering>
+        <Indexing>
+          <EnablePageLog>False</EnablePageLog>
+          <UpdateAfter>printed</UpdateAfter>
+          <SheetNamesCount>0</SheetNamesCount>
+          <FileName>%n</FileName>
+        </Indexing>
+      </FormatConfig>
+      <PrinterConfigBinary Name="Default">CABJAFAARABTAF8AUABSAE4AAQAAAAAAAAAAAAAAAAA=</PrinterConfigBinary>
+      <DriverConfig DriverConfigType="TCPIP" Name="Default">
+        <General>
+          <TCPaddress/>
+          <IPPort>5001</IPPort>
+          <PageBuffer>10</PageBuffer>
+          <PrinterType>OCE</PrinterType>
+          <StartWithPurge>False</StartWithPurge>
+          <A-twinPrinter>False</A-twinPrinter>
+          <TraceEnabled>True</TraceEnabled>
+          <TraceFilename>C:/Dokumente und Einstellungen/walter/Desktop/acquire.hii</TraceFilename>
+          <DiscardBufferedDataAfterStop>False</DiscardBufferedDataAfterStop>
+        </General>
+        <Atwin-BackPrinter>
+          <TCPaddress/>
+          <IPPort>5001</IPPort>
+          <PageBuffer>10</PageBuffer>
+          <DrainingLength>20</DrainingLength>
+        </Atwin-BackPrinter>
+      </DriverConfig>
+    </Engine>
+  </EngineConfigs>
+  <Jobs>
+    <Job>
+      <WorkFlow>Z:/Transfer/Xochitl/Impositioning/SheetRegrouper/SheetRegrouper_exercise.wfd</WorkFlow>
+      <Output>MyOutput1</Output>
+      <JobConfig>
+        <SheetBegin>1</SheetBegin>
+        <SheetEnd>1</SheetEnd>
+        <PrintToEnd>True</PrintToEnd>
+        <CopyCount>1</CopyCount>
+        <Collate>True</Collate>
+        <PrintUserGroup1>True</PrintUserGroup1>
+        <PrintUserGroup2>True</PrintUserGroup2>
+        <PrintUserGroup3>True</PrintUserGroup3>
+        <Offset X="0" Y="0"/>
+        <Scale X="1" Y="1"/>
+        <RunByRecord>UseOutputSetting</RunByRecord>
+      </JobConfig>
+      <Engine>PDF</Engine>
+      <DriverConfigType>File</DriverConfigType>
+      <FormatConfigName>Default</FormatConfigName>
+      <DriverConfigName>Default</DriverConfigName>
+      <FormatConfig>
+        <General Compression="True" CreatePieceInfoFromSheetName="False" PieceInfoIndex="1" UseEncodingForFonts="False" Encoding="Standard" HighLightVariables="False">
+          <HighLightColor R="0" G="1" B="1"/>
+          <ResizeBarcodes>
+            <Relative X="1" Y="1"/>
+            <Absolute X="0" Y="0"/>
+          </ResizeBarcodes>
+        </General>
+        <Graphics VariableEpsPdfOutputResolution="300">
+          <Colorspace TextAndGraphics="ConvertToRGB" Images="ConvertToRGB" UseSeparations="False"/>
+          <JpegCompression Use="forJPEGsOnly" Quality="75"/>
+          <ICCProfile>
+            <RenderingIntent>Perceptual</RenderingIntent>
+            <BuiltInProfile>True</BuiltInProfile>
+          </ICCProfile>
+        </Graphics>
+        <Security PasswordToOpenDocument="" PasswordToChangePermissions="">
+          <Permissions AllowPrinting="True" AllowChangingTheDocument="True" AllowContentCopyingOrExtraction="True" AllowFillingOfForms="True"/>
+        </Security>
+        <Acrobat ShowAcrobatPrintDialog="True" ShrinkPagesToFit="False" PrintAsImage="False" SearchForAlternativeImagesForViewing="False" AlternativeImageFormat="%n_1.%e">
+          <PrintOptions Set="None" SheetNameIndex="2"/>
+        </Acrobat>
+      </FormatConfig>
+      <DriverConfig>
+        <OutputFileName>Z:\Transfer\Xochitl\Impositioning\SheetRegrouper\%n_%g.pdf</OutputFileName>
+        <Split>True</Split>
+        <SplitBySize>False</SplitBySize>
+        <SplitSize>1000000</SplitSize>
+      </DriverConfig>
+      <WorkFlowModuleParameters/>
+      <WarningConfigs/>
+    </Job>
+  </Jobs>
+</ProductionConfig>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <xsd:element name="Array-Records">
+    <xsd:complexType>
+      <xsd:sequence minOccurs="1" maxOccurs="1">
+        <xsd:element ref="Customer" minOccurs="1" maxOccurs="unbounded"/>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+  <xsd:element name="Customer">
+    <xsd:complexType>
+      <xsd:sequence minOccurs="1" maxOccurs="1">
+        <xsd:element ref="id" minOccurs="1" maxOccurs="1"/>
+        <xsd:element ref="Records" minOccurs="1" maxOccurs="unbounded"/>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+  <xsd:element name="id" type="xsd:string"/>
+  <xsd:element name="Records">
+    <xsd:complexType>
+      <xsd:sequence minOccurs="1" maxOccurs="1">
+        <xsd:element ref="company" minOccurs="1" maxOccurs="1"/>
+        <xsd:element ref="date" minOccurs="1" maxOccurs="1"/>
+        <xsd:element ref="destination" minOccurs="1" maxOccurs="1"/>
+        <xsd:element ref="FlightID" minOccurs="1" maxOccurs="1"/>
+        <xsd:element ref="Origin" minOccurs="1" maxOccurs="1"/>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+  <xsd:element name="company" type="xsd:string"/>
+  <xsd:element name="date" type="xsd:string"/>
+  <xsd:element name="destination" type="xsd:string"/>
+  <xsd:element name="FlightID" type="xsd:string"/>
+  <xsd:element name="Origin" type="xsd:string"/>
+</xsd:schema>

@@ -1,0 +1,1001 @@
+ID,First Name,Last Name,Club Level,DOB,Phone Model,Activation,Gender,Address1,Address2,City,State,Zip,e-mail
+1,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+2,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+3,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+4,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+5,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+6,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+7,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+8,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+9,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+10,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+11,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+12,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+13,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+14,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+15,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+16,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+17,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+18,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+19,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+20,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+21,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+22,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+23,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+24,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+25,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+26,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+27,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+28,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+29,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+30,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+31,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+32,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+33,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+34,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+35,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+36,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+37,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+38,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+39,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+40,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+41,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+42,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+43,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+44,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+45,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+46,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+47,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+48,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+49,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+50,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+51,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+52,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+53,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+54,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+55,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+56,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+57,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+58,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+59,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+60,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+61,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+62,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+63,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+64,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+65,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+66,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+67,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+68,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+69,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+70,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+71,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+72,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+73,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+74,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+75,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+76,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+77,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+78,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+79,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+80,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+81,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+82,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+83,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+84,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+85,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+86,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+87,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+88,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+89,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+90,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+91,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+92,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+93,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+94,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+95,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+96,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+97,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+98,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+99,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+100,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+101,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+102,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+103,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+104,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+105,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+106,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+107,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+108,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+109,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+110,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+111,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+112,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+113,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+114,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+115,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+116,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+117,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+118,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+119,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+120,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+121,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+122,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+123,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+124,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+125,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+126,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+127,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+128,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+129,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+130,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+131,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+132,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+133,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+134,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+135,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+136,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+137,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+138,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+139,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+140,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+141,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+142,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+143,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+144,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+145,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+146,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+147,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+148,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+149,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+150,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+151,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+152,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+153,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+154,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+155,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+156,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+157,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+158,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+159,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+160,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+161,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+162,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+163,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+164,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+165,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+166,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+167,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+168,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+169,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+170,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+171,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+172,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+173,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+174,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+175,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+176,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+177,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+178,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+179,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+180,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+181,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+182,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+183,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+184,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+185,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+186,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+187,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+188,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+189,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+190,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+191,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+192,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+193,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+194,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+195,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+196,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+197,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+198,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+199,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+200,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+201,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+202,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+203,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+204,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+205,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+206,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+207,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+208,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+209,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+210,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+211,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+212,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+213,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+214,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+215,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+216,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+217,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+218,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+219,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+220,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+221,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+222,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+223,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+224,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+225,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+226,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+227,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+228,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+229,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+230,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+231,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+232,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+233,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+234,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+235,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+236,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+237,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+238,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+239,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+240,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+241,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+242,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+243,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+244,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+245,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+246,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+247,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+248,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+249,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+250,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+251,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+252,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+253,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+254,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+255,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+256,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+257,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+258,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+259,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+260,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+261,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+262,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+263,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+264,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+265,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+266,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+267,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+268,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+269,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+270,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+271,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+272,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+273,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+274,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+275,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+276,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+277,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+278,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+279,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+280,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+281,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+282,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+283,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+284,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+285,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+286,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+287,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+288,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+289,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+290,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+291,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+292,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+293,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+294,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+295,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+296,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+297,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+298,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+299,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+300,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+301,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+302,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+303,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+304,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+305,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+306,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+307,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+308,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+309,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+310,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+311,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+312,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+313,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+314,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+315,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+316,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+317,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+318,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+319,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+320,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+321,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+322,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+323,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+324,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+325,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+326,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+327,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+328,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+329,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+330,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+331,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+332,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+333,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+334,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+335,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+336,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+337,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+338,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+339,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+340,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+341,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+342,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+343,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+344,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+345,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+346,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+347,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+348,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+349,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+350,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+351,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+352,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+353,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+354,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+355,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+356,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+357,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+358,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+359,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+360,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+361,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+362,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+363,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+364,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+365,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+366,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+367,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+368,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+369,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+370,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+371,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+372,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+373,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+374,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+375,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+376,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+377,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+378,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+379,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+380,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+381,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+382,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+383,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+384,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+385,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+386,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+387,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+388,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+389,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+390,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+391,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+392,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+393,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+394,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+395,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+396,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+397,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+398,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+399,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+400,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+401,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+402,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+403,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+404,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+405,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+406,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+407,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+408,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+409,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+410,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+411,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+412,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+413,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+414,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+415,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+416,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+417,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+418,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+419,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+420,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+421,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+422,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+423,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+424,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+425,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+426,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+427,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+428,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+429,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+430,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+431,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+432,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+433,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+434,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+435,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+436,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+437,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+438,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+439,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+440,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+441,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+442,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+443,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+444,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+445,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+446,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+447,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+448,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+449,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+450,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+451,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+452,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+453,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+454,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+455,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+456,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+457,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+458,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+459,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+460,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+461,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+462,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+463,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+464,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+465,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+466,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+467,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+468,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+469,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+470,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+471,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+472,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+473,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+474,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+475,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+476,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+477,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+478,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+479,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+480,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+481,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+482,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+483,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+484,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+485,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+486,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+487,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+488,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+489,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+490,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+491,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+492,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+493,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+494,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+495,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+496,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+497,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+498,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+499,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+500,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+501,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+502,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+503,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+504,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+505,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+506,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+507,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+508,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+509,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+510,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+511,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+512,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+513,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+514,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+515,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+516,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+517,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+518,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+519,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+520,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+521,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+522,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+523,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+524,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+525,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+526,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+527,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+528,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+529,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+530,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+531,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+532,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+533,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+534,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+535,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+536,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+537,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+538,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+539,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+540,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+541,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+542,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+543,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+544,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+545,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+546,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+547,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+548,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+549,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+550,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+551,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+552,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+553,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+554,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+555,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+556,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+557,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+558,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+559,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+560,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+561,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+562,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+563,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+564,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+565,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+566,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+567,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+568,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+569,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+570,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+571,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+572,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+573,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+574,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+575,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+576,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+577,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+578,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+579,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+580,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+581,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+582,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+583,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+584,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+585,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+586,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+587,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+588,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+589,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+590,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+591,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+592,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+593,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+594,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+595,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+596,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+597,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+598,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+599,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+600,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+601,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+602,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+603,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+604,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+605,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+606,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+607,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+608,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+609,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+610,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+611,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+612,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+613,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+614,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+615,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+616,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+617,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+618,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+619,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+620,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+621,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+622,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+623,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+624,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+625,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+626,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+627,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+628,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+629,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+630,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+631,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+632,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+633,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+634,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+635,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+636,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+637,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+638,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+639,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+640,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+641,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+642,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+643,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+644,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+645,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+646,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+647,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+648,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+649,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+650,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+651,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+652,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+653,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+654,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+655,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+656,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+657,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+658,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+659,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+660,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+661,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+662,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+663,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+664,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+665,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+666,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+667,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+668,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+669,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+670,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+671,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+672,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+673,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+674,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+675,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+676,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+677,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+678,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+679,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+680,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+681,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+682,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+683,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+684,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+685,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+686,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+687,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+688,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+689,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+690,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+691,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+692,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+693,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+694,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+695,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+696,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+697,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+698,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+699,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+700,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+701,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+702,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+703,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+704,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+705,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+706,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+707,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+708,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+709,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+710,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+711,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+712,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+713,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+714,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+715,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+716,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+717,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+718,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+719,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+720,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+721,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+722,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+723,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+724,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+725,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+726,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+727,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+728,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+729,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+730,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+731,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+732,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+733,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+734,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+735,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+736,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+737,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+738,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+739,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+740,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+741,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+742,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+743,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+744,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+745,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+746,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+747,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+748,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+749,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+750,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+751,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+752,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+753,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+754,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+755,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+756,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+757,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+758,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+759,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+760,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+761,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+762,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+763,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+764,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+765,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+766,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+767,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+768,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+769,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+770,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+771,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+772,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+773,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+774,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+775,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+776,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+777,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+778,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+779,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+780,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+781,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+782,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+783,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+784,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+785,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+786,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+787,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+788,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+789,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+790,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+791,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+792,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+793,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+794,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+795,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+796,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+797,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+798,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+799,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+800,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+801,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+802,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+803,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+804,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+805,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+806,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+807,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+808,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+809,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+810,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+811,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+812,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+813,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+814,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+815,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+816,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+817,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+818,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+819,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+820,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+821,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+822,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+823,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+824,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+825,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+826,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+827,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+828,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+829,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+830,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+831,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+832,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+833,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+834,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+835,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+836,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+837,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+838,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+839,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+840,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+841,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+842,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+843,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+844,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+845,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+846,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+847,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+848,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+849,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+850,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+851,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+852,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+853,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+854,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+855,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+856,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+857,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+858,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+859,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+860,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+861,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+862,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+863,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+864,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+865,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+866,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+867,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+868,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+869,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+870,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+871,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+872,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+873,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+874,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+875,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+876,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+877,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+878,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+879,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+880,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+881,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+882,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+883,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+884,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+885,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+886,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+887,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+888,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+889,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+890,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+891,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+892,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+893,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+894,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+895,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+896,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+897,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+898,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+899,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+900,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+901,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+902,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+903,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+904,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+905,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+906,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+907,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+908,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+909,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+910,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+911,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+912,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+913,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+914,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+915,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+916,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+917,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+918,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+919,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+920,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+921,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+922,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+923,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+924,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+925,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+926,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+927,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+928,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+929,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+930,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+931,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+932,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+933,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+934,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+935,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+936,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+937,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+938,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+939,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+940,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+941,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+942,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+943,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+944,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+945,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+946,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+947,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+948,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+949,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+950,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+951,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+952,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+953,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+954,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+955,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+956,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+957,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+958,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+959,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+960,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+961,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+962,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+963,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+964,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+965,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+966,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+967,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+968,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+969,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+970,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+971,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+972,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+973,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+974,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+975,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+976,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+977,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+978,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+979,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+980,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com
+981,Jane,Jones,Stellar,3/4/1950,SC_001,internet,f,9 Mayflower Dr,,Plymouth,MA,21340,jane@net.com
+982,Jerry,Jones,Stellar,4/5/1949,SC_002,e-mail,m,9 Mayflower Dr,,Plymouth,MA,21340,jerry@net.com
+983,Jennifer,Jones,,3/6/1978,SC_003,none,f,9 Mayflower Dr,,Plymouth,MA,21340,jennifer@net.com
+984,Jimmy,Jones,,8/8/1990,SC_004,internet,m,9 Mayflower Dr,,Plymouth,MA,21340,jimmy@net.com
+985,Sandra,Smith,Stellar,2/11/1970,SC_002,e-mail,f,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sandra@net.com
+986,Sam,Smith,,7/3/1970,SC_001,none,m,29 Pine Ridge Rd,Apt 9C,Bridgeport,CT,11743,sam@net.com
+987,Mary,McAndrews,,5/12/1975,SC_001,internet,f,8 Avon St,,Jacksonville,FL,94210,mary@net.com
+988,Mike,McAndrews,Stellar,6/8/1973,SC_003,none,m,8 Avon St,,Jacksonville,FL,94210,mike@net.com
+989,Gina,Green,,6/2/1957,SC_004,internet,f,28 Pond Rd,,San Diago,CA,44902,gina@net.com
+990,George,Green,,3/2/1990,SC_002,e-mail,m,28 Pond Rd,,San Diago,CA,44902,george@net.com
+991,Gilian,Green,,6/7/1993,SC_005,e-mail,f,28 Pond Rd,,San Diago,CA,44902,gilian@net.com
+992,Rachel,Rosen,,3/2/1980,SC_001,none,f,44 Country Club Rd,,San Francisco,CA,43770,rachel@net.com
+993,Erik,Emerson,Stellar,5/9/1979,SC_003,e-mail,m,106 Hill Rd,Apt 3D,Detroit,MI,23887,erik@net.com
+994,Nora,Nevill,,2/4/1969,SC_002,none,f,27 West St,,Seattle,WA,27980,nora@net.com
+995,Allison,Anderson,Stellar,2/3/1955,SC_001,none,f,222 St. Augustin Rd,,Newark,NJ,20030,allison@net.com
+996,Bill,Becker,,4/5/1957,SC_005,e-mail,m,1902 Old Wall St,,Newport,CT,80020,bill@net.com
+997,Carry,Cole,,6/7/1960,SC_001,none,f,25 Church Hill Rd,,Chelmford,RI,30002,carry@net.com
+998,Douglas,Dickenson,Stellar,8/9/1963,SC_004,internet,m,547 4th Ave,,Bradford,NH,66890,douglas@net.com
+999,Fred,Farrel,Stellar,7/8/1950,SC_003,e-mail,m,5 Mountain View Dr,,Los Angeles,CA,57892,fred@net.com
+1000,Sally,Jetson,Stellar,5/7/1970,SC_005,e-mail,f,1902 Old Wall St,Apt 20A,Newport,CT,80020,sally@net.com

@@ -1,0 +1,43 @@
+CustNumber;CustName;CustSur;CustStreet;CustStreet2;CustCity;CustProvince;CustZIP;CustCode;CustPhone;BillStart;BillEnd
+252516;John;McCann;19 Appledodge Lane;;Grand Bend;Ontario;L4N 5P5;1;5097222222;31.05.07;31.06.07
+SBV032504;Payne;Andrews;724 Spadina Avenue;;Toronto;Ontario;L9M 0Z9;1;4167999999;31.05.07;28.09.07
+SBV032003;Linda;Ruff;80 Robert Street;Apt. 2;Kootenay;British Columbia;E8T 3R1;2;8790001122;31.05.07;31.12.07
+SBV011801;Jimmy;Flanagan;12 Twill Road;P.O.Box 44;Kearleigh;Nova Scotia;P0L 8E5;1;4223669988;31.05.07;29.06.07
+SBV052132;Anne;Way;44 Vespra Street;;Barrie;Ontario;L9L 2W3;2;7057930865;31.05.07;28.08.07
+332833;Alison;Body;30 Pepper Court;;Bradford;Ontario;I6R 3T3;2;7051156655;31.05.07;29.08.07
+21827;Peter;Happy;73 Johnson Street;Apt. 5;North Bay;Ontario;T2M 9I0;1;5198887741;31.05.07;30.08.07
+SBV082403;Paul;Kramer;55 Payette Drive;;Penetanguishene;Ontario;L0L 1P0;1;7055498111;31.05.07;28.10.07
+8822;Murray;Tamer;4111 Yonge Street;;Toronto;Ontario;L9N 3Z4;1;4165550003;31.05.07;15.09.07
+SBV022714;Pindar;Tennankore;2112 Cawthra Street;Apt. 404;Mississauga;Ontario;M7X 7Y7;1;9056668877;31.05.07;31.07.07
+SBV121201;Radka;Starkova;48 Riel Way;;Winnipeg;Manitoba;R6T 8B1;2;2559886632;31.05.07;15.06.07
+SBV022713;Andre;Doucet;34 rue Camillion;;Trois Rivières;Quebec;Q0N 5T8;1;8896623311;31.05.07;24.09.07
+SBV033003;Patrik;Novak;56 McKay Street;;Elmvale;Ontario;LOL 1P0;1;7053223132;31.05.07;22.06.07
+SBV071801;Alice;Atwood;90 Dickens Lane;;Kitchener;Ontario;M6Y 9N7;2;5195558888;31.05.07;31.07.07
+SBV022502;Karen;Reed;12 Birch Avenue;;Kingston;Ontario;K9L 4F3;2;6135887412;31.05.07;31.07.07
+SBV042217;Brendan;DeCourcy;94 Smyth Street;;Edmonton;Alberta;E6B 4R2;1;4882356554;31.05.07;30.06.07
+SBV030414;Nancy;Hardy;109 Carlyle Road West;;Saint John;New Brunswick;N2B 6R8;2;4445556666;31.05.07;30.06.07
+164439;Pi;Patel;100 Pondicherry Court;;Winnipeg;Manitoba;R6T 8B3;1;4244345555;31.05.07;31.12.07
+SBV051521;Richard;Parker;450 Pacific Way;;Winnipeg;Manitoba;R6T 8B3;1;8986758888;31.05.07;31.12.07
+SBV062205;Diogenes;Katsopoulis;468 Danforth Street;Apt. 101;Toronto;Ontario;M6X 3H8;1;1234567890;31.05.07;25.10.07
+SBV061205;Faith;Hope;10 Angel Way;;Saskatoon;Saskatchewan;SXS 4R4;2;7158489635;31.05.07;29.06.07
+SBV032615;Stirling;Hall;32 Queen's Crescent;;Kingston;Ontario;K7L 1Q7;1;8476251259;31.05.07;15.10.07;
+SBV041719;Wendy;Pinkerton;24 Stall Drive;;Calgary;Alberta;N4R 3E7;2;4785653521;31.05.07;15.11.07
+20948;Chloe;Rabbitt;444 rue St. Laurent;;Montreal;Quebec;Q0E 9J1;2;7758521236;31.05.07;15.12.07
+308;Peter;Piper; 1 Peck of Pickled Peppers Path;;Utopia;Ontario;L2V 2Q8;1;7578596512;31.05.07;28.12.07
+800041177;Ania;Haller;409 Stanley Road West;;Kamloops;British Columbia;B3W 9I7;2;5566512589;31.05.07;29.11.07
+SBV050828;Elvis;Browning;99 Rink Road;;Limbo;Newfoundland;N3T 7B3;1;7596633215;31.05.07;11.11.07
+320180;Elizabeth;Browning;99 Rink Road;;Limbo;Newfoundland;N3T 7B3;2;1563522213;31.05.07;11.11.07
+SBV030610;Mats;Aartin;76 Stockholm Road;Apt. 13;Toronto;Ontario;S7N 1D3;1;7586951235;31.05.07;13.12.07
+217654;Bruce;Brazer;14 Krank Street;;Kitchewawa;Manitoba;H7G 5M5;1;1235489658;31.05.07;29.06.07
+SBV033005;Tommy;Boss;1000 Mullet Road;;Stroud;Ontario;L4R 3C6;1;8956842516;31.05.07;05.07.07
+SBV033006;Nancy;Simpson;12 Everglade Glen;;Springfield;Onario;B3H 9V2;2;4569585412;31.05.07;12.12.07
+SBV033001;Karel;Zubrus;23 Canton Crescent;;Red Deer;Alberta;A7B 0M3;1;8496512365;31.05.07;07.07.07
+110343;Wuk;Lai;33 Dominion Avenue;;Midland;Ontario;L0M 2E4;1;7856215695;31.05.07;30.06.07
+SBV051002;Edmond;Dantes;87 rue Pharion;;Quebec City;Quebec;Q7G 4F1;1;1458957856;31.05.07;30.09.07
+69553;Annette;Darien;54 rue Notre Dame;;Montreal;Quebec;Q7Y 9J2;2;6548521595;31.05.07;14.11.07
+SBV010901;Kathleen;Quinn;33 Roy Street;Deep River;Ontario;U7T 0L3;2;4896512657;31.05.07;31.12.07
+SBV071613;Kelly;Kool;10 Brigadier Lane;;Regina;Saskatchewan;S4W 5Q0;2;8889515635;31.05.07;05.06.07
+800050561;Kevin;Widge;40 Dalmation Lane;;Scarborough;Ontario;M4W 8N5;1;4856854521;31.05.07;14.09.07
+SBV012901;Dylan;Mantner;45 Turner Street;;Tofino;British Columbia;B1G 9N0;1;4865851253;31.05.07;06.06.07
+SBV281110;Sianta;Archer;233 Bows Lane East;Apt. 2;Ganonoque;Ontario;K4Z 3W8;2;8984852156;31.05.07;31.12.07
+SBV042621;Lawrence;Wiebe;52 Toronto Street;;Kingston;Ontario;K7L 3F5;1;4169854862;31.05.07;31.07.07

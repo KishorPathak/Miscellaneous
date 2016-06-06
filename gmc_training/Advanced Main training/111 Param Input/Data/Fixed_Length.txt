@@ -1,0 +1,6 @@
+10921123Robert    Nelson              121 8th Ave         New York City  NY01224123490043201020300Bann1.jpg BannPc1.jpg    3 1
+15002541Ghandalf  Smith               25 Atlantic Ave     Boston         MA08450293400000001020300Bann2.jpg BannPc2.jpg    3 2
+20003112Sandra    Wilkinson           19/232 Sand Str     Philadelphia   PA02134221347483201020400Bann3.jpg BannPc3.jpg    4 3
+20011133Gloria    Ferghasson          6 South Blvd        Los Angeles    CA13421288990001201020300Bann2.jpg BannPc2.jpg    3 2
+12003443Helmut    Ulmann              12 Travis Str       Detroit        MI09653122334483401020400Bann3.jpg BannPc3.jpg    4 3
+10023112Charles   Sakhi               10 Texas Ave        San Francisco  CA03232412233456601020400Bann1.jpg BannPc1.jpg    3 1  

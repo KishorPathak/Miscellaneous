@@ -1,0 +1,31 @@
+<Root>
+   <Customer>
+      <ID>2</ID>
+      <Firstname>Gary</Firstname>
+      <Middlename>D</Middlename>
+      <Lastname>Smith</Lastname>
+      <Number>
+         <Phone>3957893432</Phone>
+      </Number>
+      <Number>
+         <Phone>3957895432</Phone>
+      </Number>
+      <Number>
+         <Phone>3957893642</Phone>
+      </Number>
+   </Customer>
+   <Customer>
+      <ID>1</ID>
+      <Firstname>John</Firstname>
+      <Middlename>B</Middlename>
+      <Lastname>Black</Lastname>
+      <Number>
+         <Phone>3957893689</Phone>
+      </Number>
+   </Customer>
+   <Customer>
+      <ID>3</ID>
+      <Firstname>William</Firstname>
+      <Lastname>Novak</Lastname>
+   </Customer>
+</Root>

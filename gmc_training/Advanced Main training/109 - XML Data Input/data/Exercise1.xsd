@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <xsd:element name="Root">
+    <xsd:complexType>
+      <xsd:sequence minOccurs="1" maxOccurs="1">
+        <xsd:element ref="Customer" minOccurs="1" maxOccurs="unbounded"/>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+  <xsd:element name="Customer">
+    <xsd:complexType>
+      <xsd:sequence minOccurs="1" maxOccurs="1">
+        <xsd:element ref="ID" minOccurs="1" maxOccurs="1"/>
+        <xsd:element ref="Firstname" minOccurs="1" maxOccurs="1"/>
+        <xsd:element ref="Middlename" minOccurs="1" maxOccurs="1"/>
+        <xsd:element ref="Lastname" minOccurs="1" maxOccurs="1"/>
+        <xsd:element ref="Number" minOccurs="1" maxOccurs="unbounded"/>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+  <xsd:element name="ID" type="xsd:string"/>
+  <xsd:element name="Firstname" type="xsd:string"/>
+  <xsd:element name="Middlename" type="xsd:string"/>
+  <xsd:element name="Lastname" type="xsd:string"/>
+  <xsd:element name="Number">
+    <xsd:complexType>
+      <xsd:sequence minOccurs="1" maxOccurs="1">
+        <xsd:element ref="Phone" minOccurs="1" maxOccurs="1"/>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+  <xsd:element name="Phone" type="xsd:string"/>
+</xsd:schema>

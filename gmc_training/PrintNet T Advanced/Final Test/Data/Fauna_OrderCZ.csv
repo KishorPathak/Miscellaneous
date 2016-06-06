@@ -1,0 +1,17 @@
+ID;Order;ØádCZ;ID_order
+1;Metatheria;Vaènatí;1_1
+1;Carnivora;Šelmy;1_2
+1;Chyroptera;Letouni;1_3
+1;Insectivora;Hmyzožraví;1_4
+1;Primates;Primáti;1_5
+1;Rodentia;Hlodavci;1_6
+1;Cetacea;Kytovci;1_7
+1;Artidactyla;Sudokopitníci;1_8
+1;Perissodactyla;Lichokopitníci;1_9
+2;Palaeognathae;Bìžci;2_2
+2;Neognathae;Letci;2_1
+3;Actinopterygii;Paprskoploutví;3_1
+3;Dipnoi;Dvojdyšní;3_2
+3;Crossopterygii;Lalokoploutví;3_3
+4;Elasmobranchii;Pøíènoústí;4_1
+4;Holocephali;Chiméry;4_2

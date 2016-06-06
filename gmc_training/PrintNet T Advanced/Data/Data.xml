@@ -1,0 +1,4160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Array-Clients>
+	<Clients>
+	<Id>426351</Id>
+	<Gender>1</Gender>
+	<FirstName>John</FirstName>
+	<Surname>Smith</Surname>
+	<Address>1454 Beverly Blvd.</Address>
+	<Town>Los Angeles</Town>
+	<ZIPcode>90048</ZIPcode>
+	<BeginDate>20101708</BeginDate>
+	<EndDate>20101811</EndDate>
+	<BranchID>2103</BranchID>
+	
+	<Array-Accounts>
+		<Accounts>
+		<Id>426351</Id>
+		<Account>87959799</Account>
+		<Balance>550</Balance>
+		<Array-Cards>
+			<Cards>
+			<Number>4032457878891456</Number>
+			<Expiry>07/09</Expiry>
+			<Type>VISA</Type>
+			<Array-Tr>
+				<Tr>
+				<Date>20010817</Date>
+				<Account>32206101</Account>
+				<Details>ABWDL Town Hall</Details>
+				<Amount>-3.7</Amount>
+</Tr>
+				<Tr>
+				<Date>20010823</Date>
+				<Account>69881050</Account>
+				<Details>Handyway Flight</Details>
+				<Amount>-47</Amount>
+</Tr>
+				<Tr>
+				<Date>20010823</Date>
+				<Account>87602586</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-86</Amount>
+</Tr>
+				<Tr>
+				<Date>20010826</Date>
+				<Account>51721724</Account>
+				<Details>ABWDL</Details>
+				<Amount>-180.51</Amount>
+</Tr>
+				<Tr>
+				<Date>20010827</Date>
+				<Account>60729756</Account>
+				<Details>ABWDL</Details>
+				<Amount>-797.07</Amount>
+</Tr>
+				<Tr>
+				<Date>20010831</Date>
+				<Account>87377111</Account>
+				<Details>Bi-Lo Hyprmarket</Details>
+				<Amount>-824</Amount>
+</Tr>
+				<Tr>
+				<Date>20010831</Date>
+				<Account>78588923</Account>
+				<Details>Sydney CenTral C</Details>
+				<Amount>218</Amount>
+</Tr>
+				<Tr>
+				<Date>20010902</Date>
+				<Account>97191475</Account>
+				<Details>GMC Soft</Details>
+				<Amount>1262</Amount>
+</Tr>
+				<Tr>
+				<Date>20010903</Date>
+				<Account>88045422</Account>
+				<Details>ABWDL</Details>
+				<Amount>-69.8</Amount>
+</Tr>
+				<Tr>
+				<Date>20010904</Date>
+				<Account>97039359</Account>
+				<Details>Interest</Details>
+				<Amount>670.4</Amount>
+</Tr>
+				<Tr>
+				<Date>20010908</Date>
+				<Account>64021946</Account>
+				<Details>Sydney CenTral C</Details>
+				<Amount>14.1</Amount>
+</Tr>
+				<Tr>
+				<Date>20010909</Date>
+				<Account>02211581</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-32</Amount>
+</Tr>
+				<Tr>
+				<Date>20010910</Date>
+				<Account>45529339</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-88.3</Amount>
+</Tr>
+				<Tr>
+				<Date>20010910</Date>
+				<Account>56943335</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-242.69</Amount>
+</Tr>
+				<Tr>
+				<Date>20010911</Date>
+				<Account>93769951</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>61.8</Amount>
+</Tr>
+</Array-Tr>
+</Cards>
+			<Cards>
+			<Number>4687878878788978</Number>
+			<Expiry>06/09</Expiry>
+			<Type>Master Card</Type>
+			<Array-Tr>
+				<Tr>
+				<Date>20010913</Date>
+				<Account>57670318</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-28</Amount>
+</Tr>
+				<Tr>
+				<Date>20010915</Date>
+				<Account>10623911</Account>
+				<Details>ABWDL</Details>
+				<Amount>-9.94</Amount>
+</Tr>
+				<Tr>
+				<Date>20010915</Date>
+				<Account>25383405</Account>
+				<Details>Interest</Details>
+				<Amount>2.23</Amount>
+</Tr>
+				<Tr>
+				<Date>20010916</Date>
+				<Account>30902943</Account>
+				<Details>Sydney CenTral C</Details>
+				<Amount>2.5</Amount>
+</Tr>
+				<Tr>
+				<Date>20010917</Date>
+				<Account>86324432</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-59.8</Amount>
+</Tr>
+				<Tr>
+				<Date>20010918</Date>
+				<Account>70659567</Account>
+				<Details>ABWDL George and MKT</Details>
+				<Amount>-778.97</Amount>
+</Tr>
+				<Tr>
+				<Date>20010919</Date>
+				<Account>18218229</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-945.03</Amount>
+</Tr>
+				<Tr>
+				<Date>20010925</Date>
+				<Account>09947576</Account>
+				<Details>ABWDL George and MKT</Details>
+				<Amount>-8.6</Amount>
+</Tr>
+				<Tr>
+				<Date>20010926</Date>
+				<Account>78384877</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>9.8</Amount>
+</Tr>
+				<Tr>
+				<Date>20010926</Date>
+				<Account>51991450</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-2.50</Amount>
+</Tr>
+				<Tr>
+				<Date>20010927</Date>
+				<Account>34990955</Account>
+				<Details>ABWDL Cronulla</Details>
+				<Amount>-822</Amount>
+</Tr>
+				<Tr>
+				<Date>20010928</Date>
+				<Account>49687039</Account>
+				<Details>ABWDL</Details>
+				<Amount>-5.77</Amount>
+</Tr>
+				<Tr>
+				<Date>20010929</Date>
+				<Account>09188858</Account>
+				<Details>ABWDL Town Hall</Details>
+				<Amount>-839.6</Amount>
+</Tr>
+				<Tr>
+				<Date>20011003</Date>
+				<Account>79689833</Account>
+				<Details>Handyway Flight</Details>
+				<Amount>-6.62</Amount>
+</Tr>
+				<Tr>
+				<Date>20011006</Date>
+				<Account>00080894</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-260.1</Amount>
+</Tr>
+				<Tr>
+				<Date>20011007</Date>
+				<Account>88452463</Account>
+				<Details>ABWDL Cronulla</Details>
+				<Amount>-5.37</Amount>
+</Tr>
+				<Tr>
+				<Date>20011007</Date>
+				<Account>30878715</Account>
+				<Details>GMC Soft</Details>
+				<Amount>8653.4</Amount>
+</Tr>
+				<Tr>
+				<Date>20011008</Date>
+				<Account>20093617</Account>
+				<Details>GMC Soft</Details>
+				<Amount>47.48</Amount>
+</Tr>
+				<Tr>
+				<Date>20011009</Date>
+				<Account>25391087</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-6.12</Amount>
+</Tr>
+				<Tr>
+				<Date>20011009</Date>
+				<Account>12074175</Account>
+				<Details>Handyway Flight</Details>
+				<Amount>-5.55</Amount>
+</Tr>
+				<Tr>
+				<Date>20011010</Date>
+				<Account>35122415</Account>
+				<Details>Sydney CenTral C</Details>
+				<Amount>17.7</Amount>
+</Tr>
+				<Tr>
+				<Date>20011010</Date>
+				<Account>25554167</Account>
+				<Details>ABWDL</Details>
+				<Amount>-861.86</Amount>
+</Tr>
+				<Tr>
+				<Date>20011011</Date>
+				<Account>85446623</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-374.7</Amount>
+</Tr>
+				<Tr>
+				<Date>20011012</Date>
+				<Account>52012703</Account>
+				<Details>Handyway Flight</Details>
+				<Amount>-157.23</Amount>
+</Tr>
+				<Tr>
+				<Date>20011012</Date>
+				<Account>65619962</Account>
+				<Details>ABWDL George and MKT</Details>
+				<Amount>-611.12</Amount>
+</Tr>
+				<Tr>
+				<Date>20011015</Date>
+				<Account>08255659</Account>
+				<Details>Sydney CenTral C</Details>
+				<Amount>6184.7</Amount>
+</Tr>
+				<Tr>
+				<Date>20011015</Date>
+				<Account>63464443</Account>
+				<Details>Handyway Flight</Details>
+				<Amount>-764.6</Amount>
+</Tr>
+				<Tr>
+				<Date>20011017</Date>
+				<Account>32308717</Account>
+				<Details>Handyway Flight</Details>
+				<Amount>-7.28</Amount>
+</Tr>
+				<Tr>
+				<Date>20011019</Date>
+				<Account>29107247</Account>
+				<Details>ABWDL Town Hall</Details>
+				<Amount>-4.74</Amount>
+</Tr>
+				<Tr>
+				<Date>20011021</Date>
+				<Account>53815467</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-0.19</Amount>
+</Tr>
+				<Tr>
+				<Date>20011021</Date>
+				<Account>53770683</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-6.19</Amount>
+</Tr>
+				<Tr>
+				<Date>20011024</Date>
+				<Account>35512041</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-66.09</Amount>
+</Tr>
+				<Tr>
+				<Date>20011027</Date>
+				<Account>71751406</Account>
+				<Details>ABWDL</Details>
+				<Amount>-92.2</Amount>
+</Tr>
+				<Tr>
+				<Date>20011030</Date>
+				<Account>14537727</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>923.2</Amount>
+</Tr>
+				<Tr>
+				<Date>20011031</Date>
+				<Account>77197294</Account>
+				<Details>ABWDL Cronulla</Details>
+				<Amount>-14.03</Amount>
+</Tr>
+				<Tr>
+				<Date>20011101</Date>
+				<Account>23946227</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-54.71</Amount>
+</Tr>
+				<Tr>
+				<Date>20011102</Date>
+				<Account>53647806</Account>
+				<Details>ABWDL Town Hall</Details>
+				<Amount>-99.70</Amount>
+</Tr>
+				<Tr>
+				<Date>20011108</Date>
+				<Account>97659295</Account>
+				<Details>Interest</Details>
+				<Amount>433.45</Amount>
+</Tr>
+				<Tr>
+				<Date>20011109</Date>
+				<Account>77540351</Account>
+				<Details>ABWDL George and MKT</Details>
+				<Amount>-0.22</Amount>
+</Tr>
+				<Tr>
+				<Date>20011109</Date>
+				<Account>50108376</Account>
+				<Details>GMC Soft</Details>
+				<Amount>461</Amount>
+</Tr>
+				<Tr>
+				<Date>20011116</Date>
+				<Account>57916895</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>1.30</Amount>
+</Tr>
+				<Tr>
+				<Date>20011116</Date>
+				<Account>49898478</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>739.89</Amount>
+</Tr>
+				<Tr>
+				<Date>20011117</Date>
+				<Account>69806845</Account>
+				<Details>ABWDL Town Hall</Details>
+				<Amount>-693.50</Amount>
+</Tr>
+</Array-Tr>
+</Cards>
+</Array-Cards>
+</Accounts>
+		<Accounts>
+		<Id>426351</Id>
+		<Account>87959899</Account>
+		<Balance>120.5</Balance>
+		<Array-Cards>
+			<Cards>
+			<Number>4034585648948759</Number>
+			<Expiry>09/08</Expiry>
+			<Type>VISA</Type>
+			<Array-Tr>
+				<Tr>
+				<Date>20010817</Date>
+				<Account>34208101</Account>
+				<Details>ABWDL Town Hall</Details>
+				<Amount>-2.5</Amount>
+</Tr>
+				<Tr>
+				<Date>20010823</Date>
+				<Account>69881050</Account>
+				<Details>Handyway Flight</Details>
+				<Amount>-0.81</Amount>
+</Tr>
+				<Tr>
+				<Date>20010823</Date>
+				<Account>87602586</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-92</Amount>
+</Tr>
+				<Tr>
+				<Date>20010826</Date>
+				<Account>51721724</Account>
+				<Details>ABWDL</Details>
+				<Amount>-123</Amount>
+</Tr>
+				<Tr>
+				<Date>20010827</Date>
+				<Account>60729756</Account>
+				<Details>ABWDL</Details>
+				<Amount>-547.08</Amount>
+</Tr>
+				<Tr>
+				<Date>20010831</Date>
+				<Account>87377111</Account>
+				<Details>Bi-Lo Hyprmarket</Details>
+				<Amount>-634</Amount>
+</Tr>
+				<Tr>
+				<Date>20010831</Date>
+				<Account>78588923</Account>
+				<Details>Sydney CenTral C</Details>
+				<Amount>218</Amount>
+</Tr>
+				<Tr>
+				<Date>20010902</Date>
+				<Account>97191475</Account>
+				<Details>GMC Soft</Details>
+				<Amount>26.62</Amount>
+</Tr>
+				<Tr>
+				<Date>20010903</Date>
+				<Account>88045422</Account>
+				<Details>ABWDL</Details>
+				<Amount>-69.8</Amount>
+</Tr>
+				<Tr>
+				<Date>20010904</Date>
+				<Account>97039359</Account>
+				<Details>Interest</Details>
+				<Amount>680.4</Amount>
+</Tr>
+				<Tr>
+				<Date>20010908</Date>
+				<Account>64021946</Account>
+				<Details>Sydney CenTral C</Details>
+				<Amount>21.51</Amount>
+</Tr>
+				<Tr>
+				<Date>20010909</Date>
+				<Account>02211581</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-30</Amount>
+</Tr>
+				<Tr>
+				<Date>20010910</Date>
+				<Account>45529339</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-98.3</Amount>
+</Tr>
+				<Tr>
+				<Date>20010910</Date>
+				<Account>56943335</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-242.69</Amount>
+</Tr>
+</Array-Tr>
+</Cards>
+			<Cards>
+			<Number>4047889548894789</Number>
+			<Expiry>02/09</Expiry>
+			<Type>American Express</Type>
+			<Array-Tr>
+				<Tr>
+				<Date>20010911</Date>
+				<Account>93769951</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>81.8</Amount>
+</Tr>
+				<Tr>
+				<Date>20010913</Date>
+				<Account>57670318</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-6.81</Amount>
+</Tr>
+				<Tr>
+				<Date>20010915</Date>
+				<Account>10623911</Account>
+				<Details>ABWDL</Details>
+				<Amount>-9.91</Amount>
+</Tr>
+				<Tr>
+				<Date>20010915</Date>
+				<Account>25383405</Account>
+				<Details>Interest</Details>
+				<Amount>22.23</Amount>
+</Tr>
+				<Tr>
+				<Date>20010916</Date>
+				<Account>30902943</Account>
+				<Details>Sydney CenTral C</Details>
+				<Amount>0.26</Amount>
+</Tr>
+				<Tr>
+				<Date>20010917</Date>
+				<Account>86324432</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-59.9</Amount>
+</Tr>
+				<Tr>
+				<Date>20010918</Date>
+				<Account>70659567</Account>
+				<Details>ABWDL George and MKT</Details>
+				<Amount>-773.97</Amount>
+</Tr>
+				<Tr>
+				<Date>20010919</Date>
+				<Account>18218229</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-955.03</Amount>
+</Tr>
+				<Tr>
+				<Date>20010925</Date>
+				<Account>09947576</Account>
+				<Details>ABWDL George and MKT</Details>
+				<Amount>-8.6</Amount>
+</Tr>
+				<Tr>
+				<Date>20010926</Date>
+				<Account>78384877</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>.07</Amount>
+</Tr>
+				<Tr>
+				<Date>20010926</Date>
+				<Account>51991450</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-2.5</Amount>
+</Tr>
+				<Tr>
+				<Date>20010927</Date>
+				<Account>34990955</Account>
+				<Details>ABWDL Cronulla</Details>
+				<Amount>-822</Amount>
+</Tr>
+				<Tr>
+				<Date>20010928</Date>
+				<Account>49687039</Account>
+				<Details>ABWDL</Details>
+				<Amount>-5.77</Amount>
+</Tr>
+				<Tr>
+				<Date>20010929</Date>
+				<Account>09188858</Account>
+				<Details>ABWDL Town Hall</Details>
+				<Amount>-859.6</Amount>
+</Tr>
+				<Tr>
+				<Date>20011003</Date>
+				<Account>79689833</Account>
+				<Details>Handyway Flight</Details>
+				<Amount>-6.62</Amount>
+</Tr>
+				<Tr>
+				<Date>20011006</Date>
+				<Account>00080894</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-2607</Amount>
+</Tr>
+				<Tr>
+				<Date>20011007</Date>
+				<Account>88452463</Account>
+				<Details>ABWDL Cronulla</Details>
+				<Amount>-5.37</Amount>
+</Tr>
+				<Tr>
+				<Date>20011007</Date>
+				<Account>30878715</Account>
+				<Details>GMC Soft</Details>
+				<Amount>9253.4</Amount>
+</Tr>
+				<Tr>
+				<Date>20011008</Date>
+				<Account>20093617</Account>
+				<Details>GMC Soft</Details>
+				<Amount>47.58</Amount>
+</Tr>
+				<Tr>
+				<Date>20011009</Date>
+				<Account>25391087</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-6.82</Amount>
+</Tr>
+				<Tr>
+				<Date>20011009</Date>
+				<Account>12074175</Account>
+				<Details>Handyway Flight</Details>
+				<Amount>-3.33</Amount>
+</Tr>
+				<Tr>
+				<Date>20011010</Date>
+				<Account>35122415</Account>
+				<Details>Sydney CenTral C</Details>
+				<Amount>18.8</Amount>
+</Tr>
+				<Tr>
+				<Date>20011010</Date>
+				<Account>25554167</Account>
+				<Details>ABWDL</Details>
+				<Amount>-869.86</Amount>
+</Tr>
+				<Tr>
+				<Date>20011011</Date>
+				<Account>85446623</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-381.70</Amount>
+</Tr>
+				<Tr>
+				<Date>20011012</Date>
+				<Account>52012703</Account>
+				<Details>Handyway Flight</Details>
+				<Amount>-125.86</Amount>
+</Tr>
+				<Tr>
+				<Date>20011012</Date>
+				<Account>65619962</Account>
+				<Details>ABWDL George and MKT</Details>
+				<Amount>-3598.74</Amount>
+</Tr>
+				<Tr>
+				<Date>20011015</Date>
+				<Account>08255659</Account>
+				<Details>Sydney CenTral C</Details>
+				<Amount>6184.7</Amount>
+</Tr>
+				<Tr>
+				<Date>20011015</Date>
+				<Account>63464443</Account>
+				<Details>Handyway Flight</Details>
+				<Amount>-764.6</Amount>
+</Tr>
+				<Tr>
+				<Date>20011017</Date>
+				<Account>32308717</Account>
+				<Details>Handyway Flight</Details>
+				<Amount>-7.28</Amount>
+</Tr>
+				<Tr>
+				<Date>20011019</Date>
+				<Account>29107247</Account>
+				<Details>ABWDL Town Hall</Details>
+				<Amount>-4.76</Amount>
+</Tr>
+				<Tr>
+				<Date>20011021</Date>
+				<Account>56415867</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-0.19</Amount>
+</Tr>
+				<Tr>
+				<Date>20011021</Date>
+				<Account>54770683</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-6.19</Amount>
+</Tr>
+				<Tr>
+				<Date>20011024</Date>
+				<Account>35512041</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-680.9</Amount>
+</Tr>
+				<Tr>
+				<Date>20011027</Date>
+				<Account>71751406</Account>
+				<Details>ABWDL</Details>
+				<Amount>-94.31</Amount>
+</Tr>
+				<Tr>
+				<Date>20011030</Date>
+				<Account>14548561</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>923.2</Amount>
+</Tr>
+				<Tr>
+				<Date>20011031</Date>
+				<Account>77197294</Account>
+				<Details>ABWDL Cronulla</Details>
+				<Amount>-25.03</Amount>
+</Tr>
+				<Tr>
+				<Date>20011101</Date>
+				<Account>23946227</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-54.71</Amount>
+</Tr>
+				<Tr>
+				<Date>20011102</Date>
+				<Account>53647806</Account>
+				<Details>ABWDL Town Hall</Details>
+				<Amount>-99.7</Amount>
+</Tr>
+				<Tr>
+				<Date>20011108</Date>
+				<Account>97659295</Account>
+				<Details>Interest</Details>
+				<Amount>433.45</Amount>
+</Tr>
+				<Tr>
+				<Date>20011109</Date>
+				<Account>77540351</Account>
+				<Details>ABWDL George and MKT</Details>
+				<Amount>-.26</Amount>
+</Tr>
+				<Tr>
+				<Date>20011109</Date>
+				<Account>50108376</Account>
+				<Details>GMC Soft</Details>
+				<Amount>541</Amount>
+</Tr>
+				<Tr>
+				<Date>20011116</Date>
+				<Account>57916895</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>1.20</Amount>
+</Tr>
+				<Tr>
+				<Date>20011116</Date>
+				<Account>49898478</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>729.59</Amount>
+</Tr>
+				<Tr>
+				<Date>20011117</Date>
+				<Account>69806845</Account>
+				<Details>ABWDL Town Hall</Details>
+				<Amount>-696.21</Amount>
+</Tr>
+</Array-Tr>
+</Cards>
+</Array-Cards>
+</Accounts>
+</Array-Accounts>
+</Clients>
+	<Clients>
+	<Id>852702</Id>
+	<Gender>1</Gender>
+	<FirstName>Thomas</FirstName>
+	<Surname>Jackson</Surname>
+	<Address>413 Market St</Address>
+	<Town>San Francisco</Town>
+	<ZIPcode>94103</ZIPcode>
+	<BeginDate>20101708</BeginDate>
+	<EndDate>20101811</EndDate>
+	<BranchID>2104</BranchID>
+	
+	<Array-Accounts>
+		<Accounts>
+		<Id>852702</Id>
+		<Account>37146745</Account>
+		<Balance>99000</Balance>
+		<Array-Cards>
+			<Cards>
+			<Number>4032478954589147</Number>
+			<Expiry>01/07</Expiry>
+			<Type>Maestro</Type>
+			<Array-Tr>
+				<Tr>
+				<Date>20010827</Date>
+				<Account>54845437</Account>
+				<Details>Interest</Details>
+				<Amount>7054.6</Amount>
+</Tr>
+				<Tr>
+				<Date>20010827</Date>
+				<Account>42807135</Account>
+				<Details>Handyway Flight</Details>
+				<Amount>-12</Amount>
+</Tr>
+				<Tr>
+				<Date>20010831</Date>
+				<Account>90708991</Account>
+				<Details>ABWDL</Details>
+				<Amount>-561.87</Amount>
+</Tr>
+				<Tr>
+				<Date>20010902</Date>
+				<Account>01056139</Account>
+				<Details>Interest</Details>
+				<Amount>.6</Amount>
+</Tr>
+				<Tr>
+				<Date>20010903</Date>
+				<Account>08140543</Account>
+				<Details>ABWDL Cronulla</Details>
+				<Amount>-3.78</Amount>
+</Tr>
+				<Tr>
+				<Date>20010905</Date>
+				<Account>27000559</Account>
+				<Details>Bi-Lo Hyprmarket</Details>
+				<Amount>-913.33</Amount>
+</Tr>
+				<Tr>
+				<Date>20010907</Date>
+				<Account>57033615</Account>
+				<Details>Bi-Lo Hyprmarket</Details>
+				<Amount>-0.83</Amount>
+</Tr>
+				<Tr>
+				<Date>20010908</Date>
+				<Account>98456309</Account>
+				<Details>ABWDL</Details>
+				<Amount>-213.77</Amount>
+</Tr>
+				<Tr>
+				<Date>20010910</Date>
+				<Account>43217655</Account>
+				<Details>ABWDL Town Hall</Details>
+				<Amount>-22.14</Amount>
+</Tr>
+				<Tr>
+				<Date>20010916</Date>
+				<Account>75729639</Account>
+				<Details>ABWDL</Details>
+				<Amount>-0.39</Amount>
+</Tr>
+				<Tr>
+				<Date>20010921</Date>
+				<Account>57758718</Account>
+				<Details>ABWDL Town Hall</Details>
+				<Amount>-37.20</Amount>
+</Tr>
+				<Tr>
+				<Date>20010925</Date>
+				<Account>82339950</Account>
+				<Details>Sydney CenTral C</Details>
+				<Amount>99.12</Amount>
+</Tr>
+				<Tr>
+				<Date>20010927</Date>
+				<Account>11768062</Account>
+				<Details>Bi-Lo Hyprmarket</Details>
+				<Amount>-0.89</Amount>
+</Tr>
+				<Tr>
+				<Date>20011002</Date>
+				<Account>52845053</Account>
+				<Details>Interest</Details>
+				<Amount>37.10</Amount>
+</Tr>
+				<Tr>
+				<Date>20011006</Date>
+				<Account>23670187</Account>
+				<Details>Handyway Flight</Details>
+				<Amount>-21.89</Amount>
+</Tr>
+				<Tr>
+				<Date>20011015</Date>
+				<Account>96882943</Account>
+				<Details>Bi-Lo Hyprmarket</Details>
+				<Amount>-4.50</Amount>
+</Tr>
+				<Tr>
+				<Date>20011024</Date>
+				<Account>72020591</Account>
+				<Details>GMC Soft</Details>
+				<Amount>0.99</Amount>
+</Tr>
+				<Tr>
+				<Date>20011025</Date>
+				<Account>14357613</Account>
+				<Details>ABWDL</Details>
+				<Amount>-497</Amount>
+</Tr>
+				<Tr>
+				<Date>20011029</Date>
+				<Account>74319223</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-394</Amount>
+</Tr>
+				<Tr>
+				<Date>20011101</Date>
+				<Account>87870975</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-777.6</Amount>
+</Tr>
+				<Tr>
+				<Date>20011102</Date>
+				<Account>69543422</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-0.05</Amount>
+</Tr>
+				<Tr>
+				<Date>20011105</Date>
+				<Account>69301246</Account>
+				<Details>Handyway Flight</Details>
+				<Amount>-1.67</Amount>
+</Tr>
+				<Tr>
+				<Date>20011105</Date>
+				<Account>27752047</Account>
+				<Details>ABWDL Cronulla</Details>
+				<Amount>-188</Amount>
+</Tr>
+				<Tr>
+				<Date>20011108</Date>
+				<Account>09569983</Account>
+				<Details>ABWDL</Details>
+				<Amount>-24</Amount>
+</Tr>
+				<Tr>
+				<Date>20011110</Date>
+				<Account>87005684</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-62.1</Amount>
+</Tr>
+</Array-Tr>
+</Cards>
+			<Cards>
+			<Number>4788878578893698</Number>
+			<Expiry>11/09</Expiry>
+			<Type>VISA Electron</Type>
+			<Array-Tr>
+				<Tr>
+				<Date>20011113</Date>
+				<Account>93662135</Account>
+				<Details>ABWDL George and MKT</Details>
+				<Amount>-82.5</Amount>
+</Tr>
+				<Tr>
+				<Date>20011118</Date>
+				<Account>97302990</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>79898</Amount>
+</Tr>
+				<Tr>
+				<Date>20011118</Date>
+				<Account>78930330</Account>
+				<Details>ABWDL Cronulla</Details>
+				<Amount>-58</Amount>
+</Tr>
+</Array-Tr>
+</Cards>
+</Array-Cards>
+</Accounts>
+</Array-Accounts>
+</Clients>
+	<Clients>
+	<Id>279053</Id>
+	<Gender>2</Gender>
+	<FirstName>Barbara</FirstName>
+	<Surname>Novak</Surname>
+	<Address>414 Garden Street</Address>
+	<Town>Santa Barbara</Town>
+	<ZIPcode>93101</ZIPcode>
+	<BeginDate>20101708</BeginDate>
+	<EndDate>20101811</EndDate>
+	<BranchID>2106</BranchID>
+	
+	<Array-Accounts>
+		<Accounts>
+		<Id>279053</Id>
+		<Account>23493309</Account>
+		<Balance>324890</Balance>
+		<Array-Cards>
+			<Cards>
+			<Number>4034789548898756</Number>
+			<Expiry>03/07</Expiry>
+			<Type>Maestro</Type>
+			<Array-Tr>
+				<Tr>
+				<Date>20010817</Date>
+				<Account>81356667</Account>
+				<Details>GMC Soft</Details>
+				<Amount>83.6</Amount>
+</Tr>
+				<Tr>
+				<Date>20010818</Date>
+				<Account>46512852</Account>
+				<Details>Sydney CenTral C</Details>
+				<Amount>0.66</Amount>
+</Tr>
+				<Tr>
+				<Date>20010820</Date>
+				<Account>68664986</Account>
+				<Details>ABWDL George and MKT</Details>
+				<Amount>-6940.4</Amount>
+</Tr>
+				<Tr>
+				<Date>20010821</Date>
+				<Account>98292991</Account>
+				<Details>GMC Soft</Details>
+				<Amount>7796.8</Amount>
+</Tr>
+				<Tr>
+				<Date>20010825</Date>
+				<Account>11144951</Account>
+				<Details>ABWDL Cronulla</Details>
+				<Amount>-0.11</Amount>
+</Tr>
+				<Tr>
+				<Date>20010830</Date>
+				<Account>02277437</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>56</Amount>
+</Tr>
+				<Tr>
+				<Date>20010830</Date>
+				<Account>84945511</Account>
+				<Details>ABWDL Town Hall</Details>
+				<Amount>-703.6</Amount>
+</Tr>
+				<Tr>
+				<Date>20010904</Date>
+				<Account>04461692</Account>
+				<Details>GMC Soft</Details>
+				<Amount>0.36</Amount>
+</Tr>
+				<Tr>
+				<Date>20010907</Date>
+				<Account>46348445</Account>
+				<Details>ABWDL</Details>
+				<Amount>-9.6</Amount>
+</Tr>
+				<Tr>
+				<Date>20010907</Date>
+				<Account>18996975</Account>
+				<Details>Bi-Lo Hyprmarket</Details>
+				<Amount>-0.37</Amount>
+</Tr>
+				<Tr>
+				<Date>20010909</Date>
+				<Account>61463613</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-9.11</Amount>
+</Tr>
+				<Tr>
+				<Date>20010912</Date>
+				<Account>42929663</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-6.9</Amount>
+</Tr>
+				<Tr>
+				<Date>20010912</Date>
+				<Account>22605269</Account>
+				<Details>ABWDL</Details>
+				<Amount>-53.3</Amount>
+</Tr>
+				<Tr>
+				<Date>20010913</Date>
+				<Account>84827376</Account>
+				<Details>Interest</Details>
+				<Amount>1.36</Amount>
+</Tr>
+				<Tr>
+				<Date>20010914</Date>
+				<Account>89068415</Account>
+				<Details>ABWDL Cronulla</Details>
+				<Amount>-15.5</Amount>
+</Tr>
+				<Tr>
+				<Date>20010919</Date>
+				<Account>30461431</Account>
+				<Details>ABWDL Cronulla</Details>
+				<Amount>-2262</Amount>
+</Tr>
+				<Tr>
+				<Date>20010920</Date>
+				<Account>36293354</Account>
+				<Details>Sydney CenTral C</Details>
+				<Amount>56.4</Amount>
+</Tr>
+				<Tr>
+				<Date>20010922</Date>
+				<Account>77836471</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-2.29</Amount>
+</Tr>
+				<Tr>
+				<Date>20010922</Date>
+				<Account>52967511</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-86.6</Amount>
+</Tr>
+				<Tr>
+				<Date>20010929</Date>
+				<Account>40858610</Account>
+				<Details>Bi-Lo Hyprmarket</Details>
+				<Amount>-0.01</Amount>
+</Tr>
+				<Tr>
+				<Date>20010930</Date>
+				<Account>48121975</Account>
+				<Details>ABWDL George and MKT</Details>
+				<Amount>-727.9</Amount>
+</Tr>
+				<Tr>
+				<Date>20011001</Date>
+				<Account>51785212</Account>
+				<Details>Handyway Flight</Details>
+				<Amount>-0.04</Amount>
+</Tr>
+				<Tr>
+				<Date>20011001</Date>
+				<Account>11040766</Account>
+				<Details>ABWDL Town Hall</Details>
+				<Amount>-2</Amount>
+</Tr>
+				<Tr>
+				<Date>20011002</Date>
+				<Account>94425822</Account>
+				<Details>ABWDL Town Hall</Details>
+				<Amount>-567.4</Amount>
+</Tr>
+				<Tr>
+				<Date>20011003</Date>
+				<Account>77950382</Account>
+				<Details>Interest</Details>
+				<Amount>78.5</Amount>
+</Tr>
+				<Tr>
+				<Date>20011015</Date>
+				<Account>90516919</Account>
+				<Details>ABWDL Town Hall</Details>
+				<Amount>-0.6</Amount>
+</Tr>
+				<Tr>
+				<Date>20011023</Date>
+				<Account>50928055</Account>
+				<Details>ABWDL</Details>
+				<Amount>-39.2</Amount>
+</Tr>
+				<Tr>
+				<Date>20011025</Date>
+				<Account>50033375</Account>
+				<Details>ABWDL</Details>
+				<Amount>-6352.1</Amount>
+</Tr>
+				<Tr>
+				<Date>20011029</Date>
+				<Account>51168639</Account>
+				<Details>ABWDL Cronulla</Details>
+				<Amount>-53.15</Amount>
+</Tr>
+				<Tr>
+				<Date>20011030</Date>
+				<Account>66417662</Account>
+				<Details>Handyway Flight</Details>
+				<Amount>-38.07</Amount>
+</Tr>
+				<Tr>
+				<Date>20011101</Date>
+				<Account>76396819</Account>
+				<Details>ABWDL Cronulla</Details>
+				<Amount>-9.1</Amount>
+</Tr>
+				<Tr>
+				<Date>20011101</Date>
+				<Account>00551415</Account>
+				<Details>GMC Soft</Details>
+				<Amount>4.3</Amount>
+</Tr>
+				<Tr>
+				<Date>20011102</Date>
+				<Account>27773672</Account>
+				<Details>Handyway Flight</Details>
+				<Amount>-878.9</Amount>
+</Tr>
+				<Tr>
+				<Date>20011110</Date>
+				<Account>01036119</Account>
+				<Details>ABWDL George and MKT</Details>
+				<Amount>-3.6</Amount>
+</Tr>
+				<Tr>
+				<Date>20011112</Date>
+				<Account>97239247</Account>
+				<Details>ABWDL</Details>
+				<Amount>-63</Amount>
+</Tr>
+				<Tr>
+				<Date>20011113</Date>
+				<Account>44136797</Account>
+				<Details>Bi-Lo Hyprmarket</Details>
+				<Amount>-215.4</Amount>
+</Tr>
+				<Tr>
+				<Date>20011117</Date>
+				<Account>58695518</Account>
+				<Details>ABWDL Town Hall</Details>
+				<Amount>-79.12</Amount>
+</Tr>
+				<Tr>
+				<Date>20011118</Date>
+				<Account>91164895</Account>
+				<Details>Bi-Lo Hyprmarket</Details>
+				<Amount>-10</Amount>
+</Tr>
+</Array-Tr>
+</Cards>
+</Array-Cards>
+</Accounts>
+</Array-Accounts>
+</Clients>
+	<Clients>
+	<Id>705404</Id>
+	<Gender>2</Gender>
+	<FirstName>Teresa</FirstName>
+	<Surname>Shield</Surname>
+	<Address>1451 Great Parkway</Address>
+	<Town>Santa Clara</Town>
+	<ZIPcode>95054</ZIPcode>
+	<BeginDate>20101708</BeginDate>
+	<EndDate>20101811</EndDate>
+	<BranchID>2105</BranchID>
+	
+	<Array-Accounts>
+		<Accounts>
+		<Id>705404</Id>
+		<Account>03665759</Account>
+		<Balance>5314</Balance>
+		<Array-Cards>
+			<Cards>
+			<Number>4034444466987542</Number>
+			<Expiry>02/09</Expiry>
+			<Type>VISA</Type>
+			<Array-Tr>
+				<Tr>
+				<Date>20010817</Date>
+				<Account>55951156</Account>
+				<Details>Sydney CenTral C</Details>
+				<Amount>76</Amount>
+</Tr>
+				<Tr>
+				<Date>20010821</Date>
+				<Account>65269174</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-307.64</Amount>
+</Tr>
+				<Tr>
+				<Date>20010821</Date>
+				<Account>02190587</Account>
+				<Details>Sydney CenTral C</Details>
+				<Amount>15.17</Amount>
+</Tr>
+				<Tr>
+				<Date>20010825</Date>
+				<Account>47336175</Account>
+				<Details>ABWDL</Details>
+				<Amount>-34.23</Amount>
+</Tr>
+				<Tr>
+				<Date>20010825</Date>
+				<Account>93379295</Account>
+				<Details>Handyway Flight</Details>
+				<Amount>-0.01</Amount>
+</Tr>
+				<Tr>
+				<Date>20010825</Date>
+				<Account>28154335</Account>
+				<Details>Interest</Details>
+				<Amount>12.29</Amount>
+</Tr>
+				<Tr>
+				<Date>20010825</Date>
+				<Account>78080463</Account>
+				<Details>ABWDL</Details>
+				<Amount>-735.3</Amount>
+</Tr>
+				<Tr>
+				<Date>20010826</Date>
+				<Account>68852139</Account>
+				<Details>GMC Soft</Details>
+				<Amount>31.7</Amount>
+</Tr>
+				<Tr>
+				<Date>20010827</Date>
+				<Account>59401213</Account>
+				<Details>Handyway Flight</Details>
+				<Amount>-88.2</Amount>
+</Tr>
+				<Tr>
+				<Date>20010828</Date>
+				<Account>17576407</Account>
+				<Details>Bi-Lo Hyprmarket</Details>
+				<Amount>-72.8</Amount>
+</Tr>
+				<Tr>
+				<Date>20010829</Date>
+				<Account>51752179</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-403.2</Amount>
+</Tr>
+				<Tr>
+				<Date>20010829</Date>
+				<Account>25726461</Account>
+				<Details>Sydney CenTral C</Details>
+				<Amount>962.87</Amount>
+</Tr>
+				<Tr>
+				<Date>20010829</Date>
+				<Account>36205051</Account>
+				<Details>Bi-Lo Hyprmarket</Details>
+				<Amount>-29</Amount>
+</Tr>
+				<Tr>
+				<Date>20010830</Date>
+				<Account>21270605</Account>
+				<Details>ABWDL Town Hall</Details>
+				<Amount>-1673.4</Amount>
+</Tr>
+				<Tr>
+				<Date>20010903</Date>
+				<Account>56931835</Account>
+				<Details>ABWDL</Details>
+				<Amount>-636.9</Amount>
+</Tr>
+				<Tr>
+				<Date>20010906</Date>
+				<Account>85810647</Account>
+				<Details>Handyway Flight</Details>
+				<Amount>-5.21</Amount>
+</Tr>
+				<Tr>
+				<Date>20010906</Date>
+				<Account>39507647</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-0.88</Amount>
+</Tr>
+				<Tr>
+				<Date>20010908</Date>
+				<Account>22538751</Account>
+				<Details>Sydney CenTral C</Details>
+				<Amount>62.42</Amount>
+</Tr>
+				<Tr>
+				<Date>20010910</Date>
+				<Account>81603997</Account>
+				<Details>ABWDL Cronulla</Details>
+				<Amount>-97.91</Amount>
+</Tr>
+</Array-Tr>
+</Cards>
+			<Cards>
+			<Number>1111111788954587</Number>
+			<Expiry>02/09</Expiry>
+			<Type>VISA</Type>
+			<Array-Tr>
+				<Tr>
+				<Date>20010912</Date>
+				<Account>03806831</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-6.57</Amount>
+</Tr>
+				<Tr>
+				<Date>20010912</Date>
+				<Account>83845359</Account>
+				<Details>ABWDL Town Hall</Details>
+				<Amount>-0.1</Amount>
+</Tr>
+				<Tr>
+				<Date>20010914</Date>
+				<Account>25058559</Account>
+				<Details>ABWDL George and MKT</Details>
+				<Amount>-0.02</Amount>
+</Tr>
+				<Tr>
+				<Date>20010915</Date>
+				<Account>61928887</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-168.1</Amount>
+</Tr>
+				<Tr>
+				<Date>20010916</Date>
+				<Account>37570655</Account>
+				<Details>Interest</Details>
+				<Amount>63.7</Amount>
+</Tr>
+				<Tr>
+				<Date>20010916</Date>
+				<Account>98005683</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-0.92</Amount>
+</Tr>
+				<Tr>
+				<Date>20010918</Date>
+				<Account>50216051</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-646.4</Amount>
+</Tr>
+				<Tr>
+				<Date>20010918</Date>
+				<Account>38196859</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-280.7</Amount>
+</Tr>
+				<Tr>
+				<Date>20010918</Date>
+				<Account>05707503</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-77</Amount>
+</Tr>
+				<Tr>
+				<Date>20010918</Date>
+				<Account>17047039</Account>
+				<Details>Handyway Flight</Details>
+				<Amount>-710.6</Amount>
+</Tr>
+				<Tr>
+				<Date>20010919</Date>
+				<Account>38274815</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-94.25</Amount>
+</Tr>
+				<Tr>
+				<Date>20010921</Date>
+				<Account>18725875</Account>
+				<Details>Handyway Flight</Details>
+				<Amount>-970.1</Amount>
+</Tr>
+				<Tr>
+				<Date>20010922</Date>
+				<Account>76126911</Account>
+				<Details>ABWDL George and MKT</Details>
+				<Amount>-9.10</Amount>
+</Tr>
+				<Tr>
+				<Date>20010923</Date>
+				<Account>80541623</Account>
+				<Details>Handyway Flight</Details>
+				<Amount>-974.67</Amount>
+</Tr>
+				<Tr>
+				<Date>20010924</Date>
+				<Account>54972219</Account>
+				<Details>Bi-Lo Hyprmarket</Details>
+				<Amount>-77.84</Amount>
+</Tr>
+				<Tr>
+				<Date>20010925</Date>
+				<Account>60550651</Account>
+				<Details>Handyway Flight</Details>
+				<Amount>-0.77</Amount>
+</Tr>
+				<Tr>
+				<Date>20010928</Date>
+				<Account>05701867</Account>
+				<Details>ABWDL Town Hall</Details>
+				<Amount>-531</Amount>
+</Tr>
+				<Tr>
+				<Date>20010928</Date>
+				<Account>31507895</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-492.3</Amount>
+</Tr>
+				<Tr>
+				<Date>20010928</Date>
+				<Account>22698735</Account>
+				<Details>ABWDL Cronulla</Details>
+				<Amount>-298.8</Amount>
+</Tr>
+				<Tr>
+				<Date>20010928</Date>
+				<Account>95020527</Account>
+				<Details>Interest</Details>
+				<Amount>471.14</Amount>
+</Tr>
+				<Tr>
+				<Date>20011002</Date>
+				<Account>00221115</Account>
+				<Details>Sydney CenTral C</Details>
+				<Amount>0.02</Amount>
+</Tr>
+				<Tr>
+				<Date>20011003</Date>
+				<Account>81783765</Account>
+				<Details>ABWDL Cronulla</Details>
+				<Amount>-103.7</Amount>
+</Tr>
+				<Tr>
+				<Date>20011003</Date>
+				<Account>91550363</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-0.08</Amount>
+</Tr>
+				<Tr>
+				<Date>20011003</Date>
+				<Account>64875903</Account>
+				<Details>Handyway Flight</Details>
+				<Amount>-15.1</Amount>
+</Tr>
+				<Tr>
+				<Date>20011004</Date>
+				<Account>25826430</Account>
+				<Details>ABWDL Town Hall</Details>
+				<Amount>-4567</Amount>
+</Tr>
+				<Tr>
+				<Date>20011005</Date>
+				<Account>59219870</Account>
+				<Details>ABWDL</Details>
+				<Amount>-41.78</Amount>
+</Tr>
+				<Tr>
+				<Date>20011006</Date>
+				<Account>82176476</Account>
+				<Details>ABWDL George and MKT</Details>
+				<Amount>-0.30</Amount>
+</Tr>
+				<Tr>
+				<Date>20011007</Date>
+				<Account>17673514</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-7.17</Amount>
+</Tr>
+				<Tr>
+				<Date>20011007</Date>
+				<Account>33059647</Account>
+				<Details>ABWDL</Details>
+				<Amount>-723</Amount>
+</Tr>
+				<Tr>
+				<Date>20011010</Date>
+				<Account>87674014</Account>
+				<Details>Interest</Details>
+				<Amount>1.30</Amount>
+</Tr>
+				<Tr>
+				<Date>20011011</Date>
+				<Account>92542329</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-68.43</Amount>
+</Tr>
+				<Tr>
+				<Date>20011012</Date>
+				<Account>57678012</Account>
+				<Details>GMC Soft</Details>
+				<Amount>22.63</Amount>
+</Tr>
+				<Tr>
+				<Date>20011012</Date>
+				<Account>33979895</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-29.3</Amount>
+</Tr>
+				<Tr>
+				<Date>20011012</Date>
+				<Account>40418278</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-539.89</Amount>
+</Tr>
+				<Tr>
+				<Date>20011014</Date>
+				<Account>86669031</Account>
+				<Details>GMC Soft</Details>
+				<Amount>266.71</Amount>
+</Tr>
+				<Tr>
+				<Date>20011014</Date>
+				<Account>86769491</Account>
+				<Details>Bi-Lo Hyprmarket</Details>
+				<Amount>-834.3</Amount>
+</Tr>
+				<Tr>
+				<Date>20011016</Date>
+				<Account>55618943</Account>
+				<Details>Interest</Details>
+				<Amount>0.05</Amount>
+</Tr>
+				<Tr>
+				<Date>20011017</Date>
+				<Account>75446270</Account>
+				<Details>ABWDL George and MKT</Details>
+				<Amount>-3.6</Amount>
+</Tr>
+				<Tr>
+				<Date>20011017</Date>
+				<Account>55593718</Account>
+				<Details>ABWDL George and MKT</Details>
+				<Amount>-3650</Amount>
+</Tr>
+</Array-Tr>
+</Cards>
+			<Cards>
+			<Number>1111189854897487</Number>
+			<Expiry>05/09</Expiry>
+			<Type>Maestro</Type>
+			<Array-Tr>
+				<Tr>
+				<Date>20011019</Date>
+				<Account>69135279</Account>
+				<Details>GMC Soft</Details>
+				<Amount>6.89</Amount>
+</Tr>
+				<Tr>
+				<Date>20011019</Date>
+				<Account>06664557</Account>
+				<Details>Interest</Details>
+				<Amount>7</Amount>
+</Tr>
+				<Tr>
+				<Date>20011020</Date>
+				<Account>99980607</Account>
+				<Details>Bi-Lo Hyprmarket</Details>
+				<Amount>-77.1</Amount>
+</Tr>
+				<Tr>
+				<Date>20011020</Date>
+				<Account>00867807</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>0.35</Amount>
+</Tr>
+				<Tr>
+				<Date>20011025</Date>
+				<Account>36998382</Account>
+				<Details>Bi-Lo Hyprmarket</Details>
+				<Amount>-601</Amount>
+</Tr>
+				<Tr>
+				<Date>20011025</Date>
+				<Account>99848237</Account>
+				<Details>ABWDL George and MKT</Details>
+				<Amount>-0.07</Amount>
+</Tr>
+				<Tr>
+				<Date>20011030</Date>
+				<Account>60100047</Account>
+				<Details>Handyway Flight</Details>
+				<Amount>-471.4</Amount>
+</Tr>
+				<Tr>
+				<Date>20011031</Date>
+				<Account>85414911</Account>
+				<Details>Sydney CenTral C</Details>
+				<Amount>870</Amount>
+</Tr>
+				<Tr>
+				<Date>20011031</Date>
+				<Account>45185163</Account>
+				<Details>ABWDL Cronulla</Details>
+				<Amount>-683.31</Amount>
+</Tr>
+				<Tr>
+				<Date>20011101</Date>
+				<Account>01687548</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>92613</Amount>
+</Tr>
+				<Tr>
+				<Date>20011104</Date>
+				<Account>62153207</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-1.95</Amount>
+</Tr>
+				<Tr>
+				<Date>20011104</Date>
+				<Account>80469023</Account>
+				<Details>Bi-Lo Hyprmarket</Details>
+				<Amount>-0.99</Amount>
+</Tr>
+				<Tr>
+				<Date>20011106</Date>
+				<Account>57393911</Account>
+				<Details>GMC Soft</Details>
+				<Amount>428</Amount>
+</Tr>
+				<Tr>
+				<Date>20011106</Date>
+				<Account>37451751</Account>
+				<Details>Handyway Flight</Details>
+				<Amount>-76.83</Amount>
+</Tr>
+				<Tr>
+				<Date>20011106</Date>
+				<Account>05535095</Account>
+				<Details>GMC Soft</Details>
+				<Amount>0.05</Amount>
+</Tr>
+				<Tr>
+				<Date>20011107</Date>
+				<Account>20902911</Account>
+				<Details>ABWDL Town Hall</Details>
+				<Amount>-0.69</Amount>
+</Tr>
+				<Tr>
+				<Date>20011107</Date>
+				<Account>51778778</Account>
+				<Details>ABWDL George and MKT</Details>
+				<Amount>-976.5</Amount>
+</Tr>
+				<Tr>
+				<Date>20011108</Date>
+				<Account>69372539</Account>
+				<Details>ABWDL Town Hall</Details>
+				<Amount>-705.3</Amount>
+</Tr>
+				<Tr>
+				<Date>20011108</Date>
+				<Account>64366011</Account>
+				<Details>ABWDL</Details>
+				<Amount>-6.12</Amount>
+</Tr>
+				<Tr>
+				<Date>20011109</Date>
+				<Account>22918887</Account>
+				<Details>ABWDL</Details>
+				<Amount>-8.15</Amount>
+</Tr>
+				<Tr>
+				<Date>20011109</Date>
+				<Account>67980029</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-931.2</Amount>
+</Tr>
+				<Tr>
+				<Date>20011109</Date>
+				<Account>52775662</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-19.1</Amount>
+</Tr>
+				<Tr>
+				<Date>20011110</Date>
+				<Account>78369919</Account>
+				<Details>ABWDL George and MKT</Details>
+				<Amount>-5.98</Amount>
+</Tr>
+				<Tr>
+				<Date>20011111</Date>
+				<Account>45492707</Account>
+				<Details>ABWDL George and MKT</Details>
+				<Amount>-0.46</Amount>
+</Tr>
+				<Tr>
+				<Date>20011111</Date>
+				<Account>22236863</Account>
+				<Details>Interest</Details>
+				<Amount>19.21</Amount>
+</Tr>
+				<Tr>
+				<Date>20011112</Date>
+				<Account>13377019</Account>
+				<Details>ABWDL Town Hall</Details>
+				<Amount>-0.8</Amount>
+</Tr>
+				<Tr>
+				<Date>20011113</Date>
+				<Account>13735125</Account>
+				<Details>GMC Soft</Details>
+				<Amount>796.4</Amount>
+</Tr>
+				<Tr>
+				<Date>20011114</Date>
+				<Account>08963839</Account>
+				<Details>ABWDL Town Hall</Details>
+				<Amount>-490.9</Amount>
+</Tr>
+				<Tr>
+				<Date>20011115</Date>
+				<Account>56827391</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-1.2</Amount>
+</Tr>
+				<Tr>
+				<Date>20011117</Date>
+				<Account>99579385</Account>
+				<Details>Bi-Lo Hyprmarket</Details>
+				<Amount>-37.99</Amount>
+</Tr>
+</Array-Tr>
+</Cards>
+			<Cards>
+			<Number>4034444488911483</Number>
+			<Expiry>07/09</Expiry>
+			<Type>VISA Electron</Type>
+			<Array-Tr>
+				<Tr>
+				<Date>20011118</Date>
+				<Account>35544248</Account>
+				<Details>Bi-Lo Hyprmarket</Details>
+				<Amount>-79.65</Amount>
+</Tr>
+				<Tr>
+				<Date>20011118</Date>
+				<Account>08994271</Account>
+				<Details>ABWDL George and MKT</Details>
+				<Amount>-6.2</Amount>
+</Tr>
+</Array-Tr>
+</Cards>
+</Array-Cards>
+</Accounts>
+</Array-Accounts>
+</Clients>
+	<Clients>
+	<Id>131755</Id>
+	<Gender>1</Gender>
+	<FirstName>Phil</FirstName>
+	<Surname>Mirkwood</Surname>
+	<Address>1331 South Olive Street</Address>
+	<Town>Los Angeles</Town>
+	<ZIPcode>90012</ZIPcode>
+	<BeginDate>20101708</BeginDate>
+	<EndDate>20101811</EndDate>
+	<BranchID>2103</BranchID>
+	
+	<Array-Accounts>
+		<Accounts>
+		<Id>131755</Id>
+		<Account>81390911</Account>
+		<Balance>56910</Balance>
+		<Array-Cards>
+			<Cards>
+			<Number>4455787878892237</Number>
+			<Expiry>07/09</Expiry>
+			<Type>VISA</Type>
+			<Array-Tr>
+				<Tr>
+				<Date>20010819</Date>
+				<Account>93601266</Account>
+				<Details>Sydney CenTral C</Details>
+				<Amount>5.52</Amount>
+</Tr>
+				<Tr>
+				<Date>20010820</Date>
+				<Account>12128125</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>49.79</Amount>
+</Tr>
+				<Tr>
+				<Date>20010825</Date>
+				<Account>03157228</Account>
+				<Details>Bi-Lo Hyprmarket</Details>
+				<Amount>-863</Amount>
+</Tr>
+				<Tr>
+				<Date>20010826</Date>
+				<Account>33033885</Account>
+				<Details>ABWDL</Details>
+				<Amount>-24.6</Amount>
+</Tr>
+				<Tr>
+				<Date>20010827</Date>
+				<Account>27367549</Account>
+				<Details>ABWDL Town Hall</Details>
+				<Amount>-87.3</Amount>
+</Tr>
+				<Tr>
+				<Date>20010827</Date>
+				<Account>17046783</Account>
+				<Details>ABWDL Cronulla</Details>
+				<Amount>-0.52</Amount>
+</Tr>
+				<Tr>
+				<Date>20010828</Date>
+				<Account>94746033</Account>
+				<Details>GMC Soft</Details>
+				<Amount>437.4</Amount>
+</Tr>
+				<Tr>
+				<Date>20010831</Date>
+				<Account>63249911</Account>
+				<Details>Interest</Details>
+				<Amount>3.01</Amount>
+</Tr>
+				<Tr>
+				<Date>20010901</Date>
+				<Account>01255933</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-650.58</Amount>
+</Tr>
+</Array-Tr>
+</Cards>
+			<Cards>
+			<Number>4032457777898745</Number>
+			<Expiry>07/08</Expiry>
+			<Type>VISA</Type>
+			<Array-Tr>
+				<Tr>
+				<Date>20010906</Date>
+				<Account>75363455</Account>
+				<Details>ABWDL Cronulla</Details>
+				<Amount>-60.59</Amount>
+</Tr>
+				<Tr>
+				<Date>20010908</Date>
+				<Account>69043965</Account>
+				<Details>Interest</Details>
+				<Amount>1.3</Amount>
+</Tr>
+				<Tr>
+				<Date>20010910</Date>
+				<Account>60386105</Account>
+				<Details>Handyway Flight</Details>
+				<Amount>-1.77</Amount>
+</Tr>
+				<Tr>
+				<Date>20010914</Date>
+				<Account>57006847</Account>
+				<Details>ABWDL George and MKT</Details>
+				<Amount>-74.21</Amount>
+</Tr>
+				<Tr>
+				<Date>20010915</Date>
+				<Account>96753399</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-0.77</Amount>
+</Tr>
+				<Tr>
+				<Date>20010921</Date>
+				<Account>01285567</Account>
+				<Details>ABWDL Town Hall</Details>
+				<Amount>-62.9</Amount>
+</Tr>
+				<Tr>
+				<Date>20010922</Date>
+				<Account>08972279</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-72.5</Amount>
+</Tr>
+				<Tr>
+				<Date>20010923</Date>
+				<Account>57623775</Account>
+				<Details>ABWDL George and MKT</Details>
+				<Amount>-320.93</Amount>
+</Tr>
+				<Tr>
+				<Date>20010925</Date>
+				<Account>46649471</Account>
+				<Details>ABWDL</Details>
+				<Amount>-3558.9</Amount>
+</Tr>
+				<Tr>
+				<Date>20010929</Date>
+				<Account>88524015</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-1.03</Amount>
+</Tr>
+</Array-Tr>
+</Cards>
+			<Cards>
+			<Number>4032457787893658</Number>
+			<Expiry>02/09</Expiry>
+			<Type>VISA</Type>
+			<Array-Tr>
+				<Tr>
+				<Date>20011002</Date>
+				<Account>34773757</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-0.49</Amount>
+</Tr>
+				<Tr>
+				<Date>20011007</Date>
+				<Account>44760829</Account>
+				<Details>Bi-Lo Hyprmarket</Details>
+				<Amount>-0.54</Amount>
+</Tr>
+				<Tr>
+				<Date>20011008</Date>
+				<Account>67615999</Account>
+				<Details>GMC Soft</Details>
+				<Amount>0.65</Amount>
+</Tr>
+				<Tr>
+				<Date>20011010</Date>
+				<Account>23798143</Account>
+				<Details>Sydney CenTral C</Details>
+				<Amount>1917</Amount>
+</Tr>
+				<Tr>
+				<Date>20011017</Date>
+				<Account>17689341</Account>
+				<Details>Sydney CenTral C</Details>
+				<Amount>3278.6</Amount>
+</Tr>
+				<Tr>
+				<Date>20011019</Date>
+				<Account>13220847</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-972.43</Amount>
+</Tr>
+				<Tr>
+				<Date>20011022</Date>
+				<Account>85583327</Account>
+				<Details>ABWDL Cronulla</Details>
+				<Amount>-846.7</Amount>
+</Tr>
+				<Tr>
+				<Date>20011023</Date>
+				<Account>62796773</Account>
+				<Details>ABWDL</Details>
+				<Amount>-0.96</Amount>
+</Tr>
+				<Tr>
+				<Date>20011030</Date>
+				<Account>16722813</Account>
+				<Details>Bi-Lo Hyprmarket</Details>
+				<Amount>-0.64</Amount>
+</Tr>
+				<Tr>
+				<Date>20011031</Date>
+				<Account>79721454</Account>
+				<Details>ABWDL George and MKT</Details>
+				<Amount>-0.29</Amount>
+</Tr>
+				<Tr>
+				<Date>20011101</Date>
+				<Account>81744639</Account>
+				<Details>Handyway Flight</Details>
+				<Amount>-510.52</Amount>
+</Tr>
+				<Tr>
+				<Date>20011105</Date>
+				<Account>65299313</Account>
+				<Details>Bi-Lo Hyprmarket</Details>
+				<Amount>-1.39</Amount>
+</Tr>
+				<Tr>
+				<Date>20011105</Date>
+				<Account>91011837</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-512</Amount>
+</Tr>
+				<Tr>
+				<Date>20011107</Date>
+				<Account>92638009</Account>
+				<Details>Handyway Flight</Details>
+				<Amount>-0.65</Amount>
+</Tr>
+				<Tr>
+				<Date>20011118</Date>
+				<Account>63072955</Account>
+				<Details>ABWDL George and MKT</Details>
+				<Amount>-66.63</Amount>
+</Tr>
+</Array-Tr>
+</Cards>
+</Array-Cards>
+</Accounts>
+</Array-Accounts>
+</Clients>
+	<Clients>
+	<Id>558106</Id>
+	<Gender>1</Gender>
+	<FirstName>John</FirstName>
+	<Surname>Black</Surname>
+	<Address>123 Bush Street</Address>
+	<Town>San Francisco</Town>
+	<ZIPcode>94103</ZIPcode>
+	<BeginDate>20101708</BeginDate>
+	<EndDate>20101811</EndDate>
+	<BranchID>2104</BranchID>
+	
+	<Array-Accounts>
+		<Accounts>
+		<Id>558106</Id>
+		<Account>50464223</Account>
+		<Balance>26490</Balance>
+		<Array-Cards>
+			<Cards>
+			<Number>4032478788954786</Number>
+			<Expiry>07/07</Expiry>
+			<Type>VISA</Type>
+			<Array-Tr>
+				<Tr>
+				<Date>20010819</Date>
+				<Account>98326015</Account>
+				<Details>ABWDL Town Hall</Details>
+				<Amount>-5.4</Amount>
+</Tr>
+				<Tr>
+				<Date>20010819</Date>
+				<Account>81427565</Account>
+				<Details>Handyway Flight</Details>
+				<Amount>-0.55</Amount>
+</Tr>
+				<Tr>
+				<Date>20010820</Date>
+				<Account>25129931</Account>
+				<Details>Interest</Details>
+				<Amount>4.8</Amount>
+</Tr>
+				<Tr>
+				<Date>20010820</Date>
+				<Account>77859933</Account>
+				<Details>Bi-Lo Hyprmarket</Details>
+				<Amount>-0.87</Amount>
+</Tr>
+				<Tr>
+				<Date>20010821</Date>
+				<Account>64967924</Account>
+				<Details>ABWDL Cronulla</Details>
+				<Amount>-40.6</Amount>
+</Tr>
+				<Tr>
+				<Date>20010821</Date>
+				<Account>55127454</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-6.2</Amount>
+</Tr>
+				<Tr>
+				<Date>20010824</Date>
+				<Account>17256639</Account>
+				<Details>Sydney CenTral C</Details>
+				<Amount>163.9</Amount>
+</Tr>
+				<Tr>
+				<Date>20010826</Date>
+				<Account>09684093</Account>
+				<Details>Bi-Lo Hyprmarket</Details>
+				<Amount>-259</Amount>
+</Tr>
+				<Tr>
+				<Date>20010826</Date>
+				<Account>12533757</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-0.07</Amount>
+</Tr>
+				<Tr>
+				<Date>20010829</Date>
+				<Account>34863519</Account>
+				<Details>ABWDL Town Hall</Details>
+				<Amount>-13.12</Amount>
+</Tr>
+				<Tr>
+				<Date>20010830</Date>
+				<Account>05182173</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-0.6</Amount>
+</Tr>
+				<Tr>
+				<Date>20010830</Date>
+				<Account>69996031</Account>
+				<Details>ABWDL George and MKT</Details>
+				<Amount>-4.16</Amount>
+</Tr>
+				<Tr>
+				<Date>20010902</Date>
+				<Account>91997979</Account>
+				<Details>Interest</Details>
+				<Amount>402.35</Amount>
+</Tr>
+				<Tr>
+				<Date>20010904</Date>
+				<Account>48251007</Account>
+				<Details>GMC Soft</Details>
+				<Amount>52003</Amount>
+</Tr>
+				<Tr>
+				<Date>20010904</Date>
+				<Account>40429311</Account>
+				<Details>Handyway Flight</Details>
+				<Amount>-0.03</Amount>
+</Tr>
+				<Tr>
+				<Date>20010905</Date>
+				<Account>50562919</Account>
+				<Details>ABWDL</Details>
+				<Amount>-82.79</Amount>
+</Tr>
+				<Tr>
+				<Date>20010909</Date>
+				<Account>48243653</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-778</Amount>
+</Tr>
+				<Tr>
+				<Date>20010909</Date>
+				<Account>91841003</Account>
+				<Details>ABWDL George and MKT</Details>
+				<Amount>-7.86</Amount>
+</Tr>
+				<Tr>
+				<Date>20010909</Date>
+				<Account>30225007</Account>
+				<Details>ABWDL Town Hall</Details>
+				<Amount>-645.07</Amount>
+</Tr>
+				<Tr>
+				<Date>20010910</Date>
+				<Account>42700279</Account>
+				<Details>ABWDL Town Hall</Details>
+				<Amount>-468</Amount>
+</Tr>
+				<Tr>
+				<Date>20010911</Date>
+				<Account>19617134</Account>
+				<Details>ABWDL George and MKT</Details>
+				<Amount>-58.47</Amount>
+</Tr>
+				<Tr>
+				<Date>20010913</Date>
+				<Account>15569055</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>0.02</Amount>
+</Tr>
+				<Tr>
+				<Date>20010913</Date>
+				<Account>08887791</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-58.7</Amount>
+</Tr>
+				<Tr>
+				<Date>20010917</Date>
+				<Account>49022205</Account>
+				<Details>ABWDL</Details>
+				<Amount>-5966</Amount>
+</Tr>
+				<Tr>
+				<Date>20010920</Date>
+				<Account>96329077</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-50.9</Amount>
+</Tr>
+				<Tr>
+				<Date>20010921</Date>
+				<Account>34441075</Account>
+				<Details>ABWDL Cronulla</Details>
+				<Amount>-14</Amount>
+</Tr>
+</Array-Tr>
+</Cards>
+			<Cards>
+			<Number>4578787887889147</Number>
+			<Expiry>03/09</Expiry>
+			<Type>VISA</Type>
+			<Array-Tr>
+				<Tr>
+				<Date>20010921</Date>
+				<Account>49285999</Account>
+				<Details>ABWDL Cronulla</Details>
+				<Amount>-88.96</Amount>
+</Tr>
+				<Tr>
+				<Date>20010922</Date>
+				<Account>43898367</Account>
+				<Details>ABWDL</Details>
+				<Amount>-123.4</Amount>
+</Tr>
+				<Tr>
+				<Date>20010923</Date>
+				<Account>31449599</Account>
+				<Details>ABWDL</Details>
+				<Amount>-42066</Amount>
+</Tr>
+				<Tr>
+				<Date>20010923</Date>
+				<Account>69031863</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>31428</Amount>
+</Tr>
+				<Tr>
+				<Date>20010925</Date>
+				<Account>79672767</Account>
+				<Details>GMC Soft</Details>
+				<Amount>7.2</Amount>
+</Tr>
+				<Tr>
+				<Date>20010926</Date>
+				<Account>62168575</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-3523.4</Amount>
+</Tr>
+				<Tr>
+				<Date>20010927</Date>
+				<Account>39456317</Account>
+				<Details>ABWDL George and MKT</Details>
+				<Amount>-961.6</Amount>
+</Tr>
+				<Tr>
+				<Date>20010930</Date>
+				<Account>16050398</Account>
+				<Details>ABWDL Town Hall</Details>
+				<Amount>-32.8</Amount>
+</Tr>
+				<Tr>
+				<Date>20011001</Date>
+				<Account>68402655</Account>
+				<Details>ABWDL George and MKT</Details>
+				<Amount>-7352.2</Amount>
+</Tr>
+				<Tr>
+				<Date>20011004</Date>
+				<Account>89839357</Account>
+				<Details>Interest</Details>
+				<Amount>0.56</Amount>
+</Tr>
+				<Tr>
+				<Date>20011004</Date>
+				<Account>10343551</Account>
+				<Details>ABWDL</Details>
+				<Amount>-752</Amount>
+</Tr>
+				<Tr>
+				<Date>20011006</Date>
+				<Account>74844926</Account>
+				<Details>GMC Soft</Details>
+				<Amount>838.6</Amount>
+</Tr>
+				<Tr>
+				<Date>20011009</Date>
+				<Account>13030127</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-6.54</Amount>
+</Tr>
+				<Tr>
+				<Date>20011011</Date>
+				<Account>26154487</Account>
+				<Details>Interest</Details>
+				<Amount>1509.3</Amount>
+</Tr>
+				<Tr>
+				<Date>20011011</Date>
+				<Account>74558775</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-9417.2</Amount>
+</Tr>
+				<Tr>
+				<Date>20011014</Date>
+				<Account>91701501</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>92.9</Amount>
+</Tr>
+				<Tr>
+				<Date>20011014</Date>
+				<Account>59101399</Account>
+				<Details>ABWDL George and MKT</Details>
+				<Amount>-3.28</Amount>
+</Tr>
+				<Tr>
+				<Date>20011014</Date>
+				<Account>94306174</Account>
+				<Details>Bi-Lo Hyprmarket</Details>
+				<Amount>-571.41</Amount>
+</Tr>
+				<Tr>
+				<Date>20011017</Date>
+				<Account>29237246</Account>
+				<Details>ABWDL George and MKT</Details>
+				<Amount>-6542.2</Amount>
+</Tr>
+				<Tr>
+				<Date>20011018</Date>
+				<Account>33788518</Account>
+				<Details>Sydney CenTral C</Details>
+				<Amount>88.86</Amount>
+</Tr>
+				<Tr>
+				<Date>20011018</Date>
+				<Account>03977579</Account>
+				<Details>Bi-Lo Hyprmarket</Details>
+				<Amount>-0.85</Amount>
+</Tr>
+				<Tr>
+				<Date>20011019</Date>
+				<Account>12520508</Account>
+				<Details>Interest</Details>
+				<Amount>80.57</Amount>
+</Tr>
+				<Tr>
+				<Date>20011021</Date>
+				<Account>41749116</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-702.84</Amount>
+</Tr>
+				<Tr>
+				<Date>20011025</Date>
+				<Account>74509927</Account>
+				<Details>Bi-Lo Hyprmarket</Details>
+				<Amount>-0.15</Amount>
+</Tr>
+				<Tr>
+				<Date>20011026</Date>
+				<Account>87837691</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-70.8</Amount>
+</Tr>
+				<Tr>
+				<Date>20011026</Date>
+				<Account>02451453</Account>
+				<Details>ABWDL Cronulla</Details>
+				<Amount>-672.93</Amount>
+</Tr>
+				<Tr>
+				<Date>20011028</Date>
+				<Account>17813243</Account>
+				<Details>Bi-Lo Hyprmarket</Details>
+				<Amount>-0.4</Amount>
+</Tr>
+				<Tr>
+				<Date>20011029</Date>
+				<Account>05971185</Account>
+				<Details>Bi-Lo Hyprmarket</Details>
+				<Amount>-69.22</Amount>
+</Tr>
+				<Tr>
+				<Date>20011030</Date>
+				<Account>75877334</Account>
+				<Details>ABWDL Town Hall</Details>
+				<Amount>-6.52</Amount>
+</Tr>
+				<Tr>
+				<Date>20011104</Date>
+				<Account>60634599</Account>
+				<Details>Handyway Flight</Details>
+				<Amount>-40.5</Amount>
+</Tr>
+				<Tr>
+				<Date>20011104</Date>
+				<Account>44541587</Account>
+				<Details>ABWDL Cronulla</Details>
+				<Amount>-0.03</Amount>
+</Tr>
+				<Tr>
+				<Date>20011106</Date>
+				<Account>68332404</Account>
+				<Details>Sydney CenTral C</Details>
+				<Amount>6506.7</Amount>
+</Tr>
+				<Tr>
+				<Date>20011106</Date>
+				<Account>97147645</Account>
+				<Details>ABWDL</Details>
+				<Amount>-0.08</Amount>
+</Tr>
+</Array-Tr>
+</Cards>
+			<Cards>
+			<Number>4078787888923665</Number>
+			<Expiry>03/09</Expiry>
+			<Type>VISA</Type>
+			<Array-Tr>
+				<Tr>
+				<Date>20011107</Date>
+				<Account>65340917</Account>
+				<Details>Sydney CenTral C</Details>
+				<Amount>0.54</Amount>
+</Tr>
+				<Tr>
+				<Date>20011107</Date>
+				<Account>48360697</Account>
+				<Details>ABWDL</Details>
+				<Amount>-455.5</Amount>
+</Tr>
+				<Tr>
+				<Date>20011108</Date>
+				<Account>73493145</Account>
+				<Details>ABWDL Cronulla</Details>
+				<Amount>-28.29</Amount>
+</Tr>
+				<Tr>
+				<Date>20011108</Date>
+				<Account>60696127</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-5646.5</Amount>
+</Tr>
+				<Tr>
+				<Date>20011108</Date>
+				<Account>15620791</Account>
+				<Details>ABWDL George and MKT</Details>
+				<Amount>-3.84</Amount>
+</Tr>
+				<Tr>
+				<Date>20011108</Date>
+				<Account>86476415</Account>
+				<Details>ABWDL</Details>
+				<Amount>-77.3</Amount>
+</Tr>
+				<Tr>
+				<Date>20011109</Date>
+				<Account>40230142</Account>
+				<Details>ABWDL Town Hall</Details>
+				<Amount>-378</Amount>
+</Tr>
+				<Tr>
+				<Date>20011110</Date>
+				<Account>49355519</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-285.3</Amount>
+</Tr>
+				<Tr>
+				<Date>20011111</Date>
+				<Account>21614207</Account>
+				<Details>ABWDL Town Hall</Details>
+				<Amount>-45</Amount>
+</Tr>
+				<Tr>
+				<Date>20011114</Date>
+				<Account>86938326</Account>
+				<Details>Interest</Details>
+				<Amount>291.6</Amount>
+</Tr>
+				<Tr>
+				<Date>20011114</Date>
+				<Account>64581595</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-5.43</Amount>
+</Tr>
+				<Tr>
+				<Date>20011114</Date>
+				<Account>49167551</Account>
+				<Details>ABWDL Town Hall</Details>
+				<Amount>-48.4</Amount>
+</Tr>
+				<Tr>
+				<Date>20011116</Date>
+				<Account>33084798</Account>
+				<Details>ABWDL George and MKT</Details>
+				<Amount>-4.84</Amount>
+</Tr>
+				<Tr>
+				<Date>20011116</Date>
+				<Account>32676351</Account>
+				<Details>ABWDL George and MKT</Details>
+				<Amount>-69.65</Amount>
+</Tr>
+				<Tr>
+				<Date>20011117</Date>
+				<Account>32092927</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>63049</Amount>
+</Tr>
+				<Tr>
+				<Date>20011117</Date>
+				<Account>12233791</Account>
+				<Details>Interest</Details>
+				<Amount>1.99</Amount>
+</Tr>
+</Array-Tr>
+</Cards>
+</Array-Cards>
+</Accounts>
+</Array-Accounts>
+</Clients>
+	<Clients>
+	<Id>984457</Id>
+	<Gender>2</Gender>
+	<FirstName>Pamela</FirstName>
+	<Surname>Summer</Surname>
+	<Address>1412 Channel Drive</Address>
+	<Town>Santa Barbara</Town>
+	<ZIPcode>93101</ZIPcode>
+	<BeginDate>20101708</BeginDate>
+	<EndDate>20101811</EndDate>
+	<BranchID>2106</BranchID>
+	
+	<Array-Accounts>
+		<Accounts>
+		<Id>984457</Id>
+		<Account>56512751</Account>
+		<Balance>7900</Balance>
+		<Array-Cards>
+			<Cards>
+			<Number>4032778787779114</Number>
+			<Expiry>07/08</Expiry>
+			<Type>VISA</Type>
+			<Array-Tr>
+				<Tr>
+				<Date>20010817</Date>
+				<Account>07091398</Account>
+				<Details>Bondi Music</Details>
+				<Amount>-47.68</Amount>
+</Tr>
+				<Tr>
+				<Date>20010824</Date>
+				<Account>34909084</Account>
+				<Details>Deposit</Details>
+				<Amount>7.05</Amount>
+</Tr>
+				<Tr>
+				<Date>20010824</Date>
+				<Account>68836047</Account>
+				<Details>C&amp;A Bankstown</Details>
+				<Amount>-96.7</Amount>
+</Tr>
+				<Tr>
+				<Date>20010827</Date>
+				<Account>52222971</Account>
+				<Details>C&amp;A Bankstown</Details>
+				<Amount>-1431</Amount>
+</Tr>
+				<Tr>
+				<Date>20010827</Date>
+				<Account>95852661</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>58.49</Amount>
+</Tr>
+				<Tr>
+				<Date>20010831</Date>
+				<Account>61123195</Account>
+				<Details>ABWDL Shellharbour</Details>
+				<Amount>-277.16</Amount>
+</Tr>
+				<Tr>
+				<Date>20010901</Date>
+				<Account>21161919</Account>
+				<Details>Deposit</Details>
+				<Amount>3.21</Amount>
+</Tr>
+				<Tr>
+				<Date>20010903</Date>
+				<Account>98555583</Account>
+				<Details>Bondi Music</Details>
+				<Amount>-61</Amount>
+</Tr>
+				<Tr>
+				<Date>20010903</Date>
+				<Account>89192319</Account>
+				<Details>ABWDL Bankstown</Details>
+				<Amount>-1582</Amount>
+</Tr>
+				<Tr>
+				<Date>20010903</Date>
+				<Account>32728951</Account>
+				<Details>ABWDL Shellharbour</Details>
+				<Amount>-931.3</Amount>
+</Tr>
+				<Tr>
+				<Date>20010904</Date>
+				<Account>20726996</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>74.4</Amount>
+</Tr>
+				<Tr>
+				<Date>20010904</Date>
+				<Account>87430904</Account>
+				<Details>Interest</Details>
+				<Amount>0.28</Amount>
+</Tr>
+				<Tr>
+				<Date>20010907</Date>
+				<Account>76828535</Account>
+				<Details>ABWDL Bankstown</Details>
+				<Amount>-5000.9</Amount>
+</Tr>
+				<Tr>
+				<Date>20010909</Date>
+				<Account>80931821</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-0.49</Amount>
+</Tr>
+				<Tr>
+				<Date>20010914</Date>
+				<Account>93428447</Account>
+				<Details>ABWDL</Details>
+				<Amount>-691.46</Amount>
+</Tr>
+				<Tr>
+				<Date>20010914</Date>
+				<Account>08694903</Account>
+				<Details>Deposit</Details>
+				<Amount>6.14</Amount>
+</Tr>
+				<Tr>
+				<Date>20010916</Date>
+				<Account>35305015</Account>
+				<Details>ABWDL</Details>
+				<Amount>-8.5</Amount>
+</Tr>
+				<Tr>
+				<Date>20010916</Date>
+				<Account>26983661</Account>
+				<Details>Bi-Lo Hypermarket</Details>
+				<Amount>-2.3</Amount>
+</Tr>
+				<Tr>
+				<Date>20010917</Date>
+				<Account>84930551</Account>
+				<Details>ABWDL Shellharbour</Details>
+				<Amount>-98</Amount>
+</Tr>
+				<Tr>
+				<Date>20010917</Date>
+				<Account>91954415</Account>
+				<Details>C&amp;A Bankstown</Details>
+				<Amount>-31.64</Amount>
+</Tr>
+				<Tr>
+				<Date>20010921</Date>
+				<Account>23788767</Account>
+				<Details>Deposit</Details>
+				<Amount>23.32</Amount>
+</Tr>
+				<Tr>
+				<Date>20010921</Date>
+				<Account>45183997</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-15.6</Amount>
+</Tr>
+				<Tr>
+				<Date>20010921</Date>
+				<Account>75264202</Account>
+				<Details>Bondi Music</Details>
+				<Amount>-2.849</Amount>
+</Tr>
+				<Tr>
+				<Date>20010922</Date>
+				<Account>84508282</Account>
+				<Details>Bondi Music</Details>
+				<Amount>-945.46</Amount>
+</Tr>
+				<Tr>
+				<Date>20010923</Date>
+				<Account>30472063</Account>
+				<Details>ABWDL Bankstown</Details>
+				<Amount>-726.8</Amount>
+</Tr>
+				<Tr>
+				<Date>20010923</Date>
+				<Account>57948526</Account>
+				<Details>ABWDL Shellharbour</Details>
+				<Amount>-0.08</Amount>
+</Tr>
+				<Tr>
+				<Date>20010924</Date>
+				<Account>55585274</Account>
+				<Details>C&amp;A Bankstown</Details>
+				<Amount>-2.07</Amount>
+</Tr>
+				<Tr>
+				<Date>20010924</Date>
+				<Account>53440715</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-38.3</Amount>
+</Tr>
+				<Tr>
+				<Date>20010928</Date>
+				<Account>37519731</Account>
+				<Details>Bi-Lo Hypermarket</Details>
+				<Amount>-868.25</Amount>
+</Tr>
+				<Tr>
+				<Date>20010930</Date>
+				<Account>44000933</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-43.2</Amount>
+</Tr>
+				<Tr>
+				<Date>20011001</Date>
+				<Account>33122238</Account>
+				<Details>ABWDL</Details>
+				<Amount>-57.4</Amount>
+</Tr>
+				<Tr>
+				<Date>20011005</Date>
+				<Account>00575227</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-124.7</Amount>
+</Tr>
+				<Tr>
+				<Date>20011005</Date>
+				<Account>05147227</Account>
+				<Details>ABWDL Bankstown</Details>
+				<Amount>-77.25</Amount>
+</Tr>
+				<Tr>
+				<Date>20011010</Date>
+				<Account>19124471</Account>
+				<Details>ABWDL Bankstown</Details>
+				<Amount>-20.22</Amount>
+</Tr>
+				<Tr>
+				<Date>20011012</Date>
+				<Account>10382238</Account>
+				<Details>Bondi Music</Details>
+				<Amount>-0.08</Amount>
+</Tr>
+				<Tr>
+				<Date>20011012</Date>
+				<Account>25681894</Account>
+				<Details>Salary</Details>
+				<Amount>55.2</Amount>
+</Tr>
+				<Tr>
+				<Date>20011013</Date>
+				<Account>57882815</Account>
+				<Details>Bi-Lo Hypermarket</Details>
+				<Amount>-57.72</Amount>
+</Tr>
+				<Tr>
+				<Date>20011022</Date>
+				<Account>39220511</Account>
+				<Details>ABWDL Bankstown</Details>
+				<Amount>-73.67</Amount>
+</Tr>
+				<Tr>
+				<Date>20011024</Date>
+				<Account>36845565</Account>
+				<Details>Bondi Music</Details>
+				<Amount>-444.5</Amount>
+</Tr>
+				<Tr>
+				<Date>20011025</Date>
+				<Account>63219030</Account>
+				<Details>Bondi Music</Details>
+				<Amount>-812.09</Amount>
+</Tr>
+</Array-Tr>
+</Cards>
+			<Cards>
+			<Number>4032457878893302</Number>
+			<Expiry>01/09</Expiry>
+			<Type>VISA</Type>
+			<Array-Tr>
+				<Tr>
+				<Date>20011027</Date>
+				<Account>56438885</Account>
+				<Details>ABWDL</Details>
+				<Amount>-0.93</Amount>
+</Tr>
+				<Tr>
+				<Date>20011028</Date>
+				<Account>03847727</Account>
+				<Details>Deposit</Details>
+				<Amount>8.02</Amount>
+</Tr>
+				<Tr>
+				<Date>20011028</Date>
+				<Account>95151103</Account>
+				<Details>Bi-Lo Hypermarket</Details>
+				<Amount>-73</Amount>
+</Tr>
+				<Tr>
+				<Date>20011109</Date>
+				<Account>64462918</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-389.41</Amount>
+</Tr>
+				<Tr>
+				<Date>20011112</Date>
+				<Account>33421773</Account>
+				<Details>ABWDL</Details>
+				<Amount>-83.67</Amount>
+</Tr>
+</Array-Tr>
+</Cards>
+</Array-Cards>
+</Accounts>
+</Array-Accounts>
+</Clients>
+	<Clients>
+	<Id>410808</Id>
+	<Gender>1</Gender>
+	<FirstName>Gary</FirstName>
+	<Surname>Smith</Surname>
+	<Address>2147 Mission Ave</Address>
+	<Town>Santa Clara</Town>
+	<ZIPcode>95054</ZIPcode>
+	<BeginDate>20101708</BeginDate>
+	<EndDate>20101811</EndDate>
+	<BranchID>2105</BranchID>
+	
+	<Array-Accounts>
+		<Accounts>
+		<Id>410808</Id>
+		<Account>99737189</Account>
+		<Balance>5696</Balance>
+		<Array-Cards>
+			<Cards>
+			<Number>1333357878891154</Number>
+			<Expiry>10/09</Expiry>
+			<Type>VISA</Type>
+			<Array-Tr>
+				<Tr>
+				<Date>20010819</Date>
+				<Account>08768991</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-12.41</Amount>
+</Tr>
+				<Tr>
+				<Date>20010819</Date>
+				<Account>66866654</Account>
+				<Details>ABWDL Shellharbour</Details>
+				<Amount>-505.56</Amount>
+</Tr>
+				<Tr>
+				<Date>20010901</Date>
+				<Account>94382334</Account>
+				<Details>C&amp;A Bankstown</Details>
+				<Amount>-30.2</Amount>
+</Tr>
+				<Tr>
+				<Date>20010904</Date>
+				<Account>14054057</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-0.44</Amount>
+</Tr>
+				<Tr>
+				<Date>20010904</Date>
+				<Account>12699071</Account>
+				<Details>ABWDL</Details>
+				<Amount>-707</Amount>
+</Tr>
+				<Tr>
+				<Date>20010911</Date>
+				<Account>97719295</Account>
+				<Details>ABWDL Shellharbour</Details>
+				<Amount>-26.41</Amount>
+</Tr>
+				<Tr>
+				<Date>20010913</Date>
+				<Account>49373695</Account>
+				<Details>ABWDL Shellharbour</Details>
+				<Amount>-863.8</Amount>
+</Tr>
+				<Tr>
+				<Date>20010918</Date>
+				<Account>47594958</Account>
+				<Details>C&amp;A Bankstown</Details>
+				<Amount>-5.9</Amount>
+</Tr>
+				<Tr>
+				<Date>20011006</Date>
+				<Account>13678575</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>33.4</Amount>
+</Tr>
+				<Tr>
+				<Date>20011008</Date>
+				<Account>84209399</Account>
+				<Details>Bondi Music</Details>
+				<Amount>-0.53</Amount>
+</Tr>
+				<Tr>
+				<Date>20011010</Date>
+				<Account>03909823</Account>
+				<Details>ABWDL Bankstown</Details>
+				<Amount>-0.72</Amount>
+</Tr>
+				<Tr>
+				<Date>20011011</Date>
+				<Account>33782965</Account>
+				<Details>Bondi Music</Details>
+				<Amount>-59</Amount>
+</Tr>
+				<Tr>
+				<Date>20011011</Date>
+				<Account>22039549</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-0.7</Amount>
+</Tr>
+				<Tr>
+				<Date>20011014</Date>
+				<Account>75426225</Account>
+				<Details>Deposit</Details>
+				<Amount>0.7</Amount>
+</Tr>
+				<Tr>
+				<Date>20011018</Date>
+				<Account>83097527</Account>
+				<Details>ABWDL Shellharbour</Details>
+				<Amount>-65.47</Amount>
+</Tr>
+				<Tr>
+				<Date>20011023</Date>
+				<Account>84465659</Account>
+				<Details>Bondi Music</Details>
+				<Amount>-3.4</Amount>
+</Tr>
+				<Tr>
+				<Date>20011023</Date>
+				<Account>71041721</Account>
+				<Details>Bi-Lo Hypermarket</Details>
+				<Amount>-579.88</Amount>
+</Tr>
+				<Tr>
+				<Date>20011026</Date>
+				<Account>04997624</Account>
+				<Details>Deposit</Details>
+				<Amount>6.53</Amount>
+</Tr>
+				<Tr>
+				<Date>20011028</Date>
+				<Account>61210367</Account>
+				<Details>ABWDL Shellharbour</Details>
+				<Amount>-753.4</Amount>
+</Tr>
+				<Tr>
+				<Date>20011106</Date>
+				<Account>94349301</Account>
+				<Details>Bi-Lo Hypermarket</Details>
+				<Amount>-0.98</Amount>
+</Tr>
+</Array-Tr>
+</Cards>
+</Array-Cards>
+</Accounts>
+</Array-Accounts>
+</Clients>
+	<Clients>
+	<Id>837159</Id>
+	<Gender>1</Gender>
+	<FirstName>David</FirstName>
+	<Surname>Peterson</Surname>
+	<Address>7000 Franklin Ave</Address>
+	<Town>Los Angeles</Town>
+	<ZIPcode>90049</ZIPcode>
+	<BeginDate>20101708</BeginDate>
+	<EndDate>20101811</EndDate>
+	<BranchID>2103</BranchID>
+	
+	<Array-Accounts>
+		<Accounts>
+		<Id>837159</Id>
+		<Account>24743977</Account>
+		<Balance>15210</Balance>
+		<Array-Cards>
+			<Cards>
+			<Number>2222228788902010</Number>
+			<Expiry>09/09</Expiry>
+			<Type>VISA</Type>
+			<Array-Tr>
+				<Tr>
+				<Date>20010817</Date>
+				<Account>69070319</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>227.62</Amount>
+</Tr>
+				<Tr>
+				<Date>20010818</Date>
+				<Account>52256753</Account>
+				<Details>Salary</Details>
+				<Amount>1845.6</Amount>
+</Tr>
+				<Tr>
+				<Date>20010819</Date>
+				<Account>42582771</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-0.67</Amount>
+</Tr>
+				<Tr>
+				<Date>20010824</Date>
+				<Account>95574708</Account>
+				<Details>Interest</Details>
+				<Amount>85.70</Amount>
+</Tr>
+				<Tr>
+				<Date>20010824</Date>
+				<Account>29101167</Account>
+				<Details>ABWDL Bankstown</Details>
+				<Amount>-0.96</Amount>
+</Tr>
+				<Tr>
+				<Date>20010830</Date>
+				<Account>37129338</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-9.45</Amount>
+</Tr>
+				<Tr>
+				<Date>20010830</Date>
+				<Account>25029372</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-4647.9</Amount>
+</Tr>
+				<Tr>
+				<Date>20010904</Date>
+				<Account>98358239</Account>
+				<Details>Bi-Lo Hypermarket</Details>
+				<Amount>-89.4</Amount>
+</Tr>
+				<Tr>
+				<Date>20010904</Date>
+				<Account>85212623</Account>
+				<Details>Bondi Music</Details>
+				<Amount>-932.81</Amount>
+</Tr>
+				<Tr>
+				<Date>20010906</Date>
+				<Account>49780199</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-43.89</Amount>
+</Tr>
+				<Tr>
+				<Date>20010909</Date>
+				<Account>29955839</Account>
+				<Details>Deposit</Details>
+				<Amount>71.99</Amount>
+</Tr>
+				<Tr>
+				<Date>20010911</Date>
+				<Account>92227244</Account>
+				<Details>Deposit</Details>
+				<Amount>2.2</Amount>
+</Tr>
+</Array-Tr>
+</Cards>
+			<Cards>
+			<Number>4032778878891456</Number>
+			<Expiry>07/09</Expiry>
+			<Type>Maestro</Type>
+			<Array-Tr>
+				<Tr>
+				<Date>20010914</Date>
+				<Account>62090911</Account>
+				<Details>Bondi Music</Details>
+				<Amount>-0.03</Amount>
+</Tr>
+				<Tr>
+				<Date>20010916</Date>
+				<Account>81623591</Account>
+				<Details>Deposit</Details>
+				<Amount>0.04</Amount>
+</Tr>
+				<Tr>
+				<Date>20010917</Date>
+				<Account>54398079</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-68.49</Amount>
+</Tr>
+				<Tr>
+				<Date>20010919</Date>
+				<Account>99215287</Account>
+				<Details>C&amp;A Bankstown</Details>
+				<Amount>-66.5</Amount>
+</Tr>
+				<Tr>
+				<Date>20010926</Date>
+				<Account>07192549</Account>
+				<Details>ABWDL Shellharbour</Details>
+				<Amount>-0.29</Amount>
+</Tr>
+				<Tr>
+				<Date>20010930</Date>
+				<Account>05266295</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-0.03</Amount>
+</Tr>
+				<Tr>
+				<Date>20011010</Date>
+				<Account>42782431</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-0.5</Amount>
+</Tr>
+				<Tr>
+				<Date>20011015</Date>
+				<Account>54347583</Account>
+				<Details>Salary</Details>
+				<Amount>581.85</Amount>
+</Tr>
+				<Tr>
+				<Date>20011017</Date>
+				<Account>60315701</Account>
+				<Details>Bi-Lo Hypermarket</Details>
+				<Amount>-0.45</Amount>
+</Tr>
+				<Tr>
+				<Date>20011019</Date>
+				<Account>23872703</Account>
+				<Details>Bi-Lo Hypermarket</Details>
+				<Amount>-28.11</Amount>
+</Tr>
+				<Tr>
+				<Date>20011024</Date>
+				<Account>07893743</Account>
+				<Details>ABWDL</Details>
+				<Amount>-60.66</Amount>
+</Tr>
+				<Tr>
+				<Date>20011029</Date>
+				<Account>18328831</Account>
+				<Details>C&amp;A Bankstown</Details>
+				<Amount>-29.06</Amount>
+</Tr>
+				<Tr>
+				<Date>20011030</Date>
+				<Account>21032890</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>0.5</Amount>
+</Tr>
+				<Tr>
+				<Date>20011102</Date>
+				<Account>09841135</Account>
+				<Details>Bondi Music</Details>
+				<Amount>-0.32</Amount>
+</Tr>
+				<Tr>
+				<Date>20011104</Date>
+				<Account>24037117</Account>
+				<Details>Deposit</Details>
+				<Amount>989.5</Amount>
+</Tr>
+				<Tr>
+				<Date>20011109</Date>
+				<Account>51402167</Account>
+				<Details>Interest</Details>
+				<Amount>18.46</Amount>
+</Tr>
+				<Tr>
+				<Date>20011109</Date>
+				<Account>79895244</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-6.4</Amount>
+</Tr>
+				<Tr>
+				<Date>20011111</Date>
+				<Account>69547484</Account>
+				<Details>ABWDL Shellharbour</Details>
+				<Amount>-0.25</Amount>
+</Tr>
+				<Tr>
+				<Date>20011115</Date>
+				<Account>04101366</Account>
+				<Details>ABWDL</Details>
+				<Amount>-2.2</Amount>
+</Tr>
+				<Tr>
+				<Date>20011117</Date>
+				<Account>52551671</Account>
+				<Details>Bondi Music</Details>
+				<Amount>-0.63</Amount>
+</Tr>
+				<Tr>
+				<Date>20011118</Date>
+				<Account>39833214</Account>
+				<Details>Bondi Music</Details>
+				<Amount>-4.46</Amount>
+</Tr>
+				<Tr>
+				<Date>20011118</Date>
+				<Account>66786013</Account>
+				<Details>Salary</Details>
+				<Amount>15418</Amount>
+</Tr>
+				<Tr>
+				<Date>20011118</Date>
+				<Account>11873790</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-819.11</Amount>
+</Tr>
+</Array-Tr>
+</Cards>
+</Array-Cards>
+</Accounts>
+</Array-Accounts>
+</Clients>
+	<Clients>
+	<Id>263510</Id>
+	<Gender>1</Gender>
+	<FirstName>Steve</FirstName>
+	<Surname>Novak</Surname>
+	<Address>1474 California Street</Address>
+	<Town>San Francisco</Town>
+	<ZIPcode>94103</ZIPcode>
+	<BeginDate>20101708</BeginDate>
+	<EndDate>20101811</EndDate>
+	<BranchID>2104</BranchID>
+	
+	<Array-Accounts>
+</Array-Accounts>
+</Clients>
+	<Clients>
+	<Id>689861</Id>
+	<Gender>2</Gender>
+	<FirstName>Sandra</FirstName>
+	<Surname>Writer</Surname>
+	<Address>510 Levelling Blvd.</Address>
+	<Town>San Leandro</Town>
+	<ZIPcode>94577</ZIPcode>
+	<BeginDate>20101708</BeginDate>
+	<EndDate>20101811</EndDate>
+	<BranchID>2107</BranchID>
+	
+	<Array-Accounts>
+		<Accounts>
+		<Id>689861</Id>
+		<Account>84512368</Account>
+		<Balance>88</Balance>
+		<Array-Cards>
+			<Cards>
+			<Number>4032889899933695</Number>
+			<Expiry>03/09</Expiry>
+			<Type>VISA</Type>
+			<Array-Tr>
+				<Tr>
+				<Date>20010817</Date>
+				<Account>07091398</Account>
+				<Details>Bondi Music</Details>
+				<Amount>-476.8</Amount>
+</Tr>
+				<Tr>
+				<Date>20010824</Date>
+				<Account>34909084</Account>
+				<Details>Deposit</Details>
+				<Amount>7.05</Amount>
+</Tr>
+				<Tr>
+				<Date>20010824</Date>
+				<Account>68836047</Account>
+				<Details>C&amp;A Bankstown</Details>
+				<Amount>-96.7</Amount>
+</Tr>
+				<Tr>
+				<Date>20010827</Date>
+				<Account>52222971</Account>
+				<Details>C&amp;A Bankstown</Details>
+				<Amount>-1431</Amount>
+</Tr>
+				<Tr>
+				<Date>20010827</Date>
+				<Account>95852661</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>58.49</Amount>
+</Tr>
+				<Tr>
+				<Date>20010831</Date>
+				<Account>61123195</Account>
+				<Details>ABWDL Shellharbour</Details>
+				<Amount>-277.16</Amount>
+</Tr>
+				<Tr>
+				<Date>20010901</Date>
+				<Account>21161919</Account>
+				<Details>Deposit</Details>
+				<Amount>3.21</Amount>
+</Tr>
+				<Tr>
+				<Date>20010903</Date>
+				<Account>98555583</Account>
+				<Details>Bondi Music</Details>
+				<Amount>-61</Amount>
+</Tr>
+				<Tr>
+				<Date>20010903</Date>
+				<Account>89192319</Account>
+				<Details>ABWDL Bankstown</Details>
+				<Amount>-158.2</Amount>
+</Tr>
+				<Tr>
+				<Date>20010903</Date>
+				<Account>32728951</Account>
+				<Details>ABWDL Shellharbour</Details>
+				<Amount>-931.3</Amount>
+</Tr>
+				<Tr>
+				<Date>20010904</Date>
+				<Account>20726996</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>74.4</Amount>
+</Tr>
+				<Tr>
+				<Date>20010904</Date>
+				<Account>87430904</Account>
+				<Details>Interest</Details>
+				<Amount>0.28</Amount>
+</Tr>
+				<Tr>
+				<Date>20010907</Date>
+				<Account>76828535</Account>
+				<Details>ABWDL Bankstown</Details>
+				<Amount>-500.09</Amount>
+</Tr>
+				<Tr>
+				<Date>20010909</Date>
+				<Account>80931821</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-0.49</Amount>
+</Tr>
+				<Tr>
+				<Date>20010914</Date>
+				<Account>93428447</Account>
+				<Details>ABWDL</Details>
+				<Amount>-69.15</Amount>
+</Tr>
+				<Tr>
+				<Date>20010914</Date>
+				<Account>08694903</Account>
+				<Details>Deposit</Details>
+				<Amount>6.14</Amount>
+</Tr>
+				<Tr>
+				<Date>20010916</Date>
+				<Account>35305015</Account>
+				<Details>ABWDL</Details>
+				<Amount>-8.5</Amount>
+</Tr>
+				<Tr>
+				<Date>20010916</Date>
+				<Account>26983661</Account>
+				<Details>Bi-Lo Hypermarket</Details>
+				<Amount>-2.30</Amount>
+</Tr>
+				<Tr>
+				<Date>20010917</Date>
+				<Account>84930551</Account>
+				<Details>ABWDL Shellharbour</Details>
+				<Amount>-98</Amount>
+</Tr>
+				<Tr>
+				<Date>20010917</Date>
+				<Account>91954415</Account>
+				<Details>C&amp;A Bankstown</Details>
+				<Amount>-31.63</Amount>
+</Tr>
+				<Tr>
+				<Date>20010921</Date>
+				<Account>23788767</Account>
+				<Details>Deposit</Details>
+				<Amount>23.32</Amount>
+</Tr>
+				<Tr>
+				<Date>20010921</Date>
+				<Account>45183997</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-15.6</Amount>
+</Tr>
+				<Tr>
+				<Date>20010921</Date>
+				<Account>75264202</Account>
+				<Details>Bondi Music</Details>
+				<Amount>-2.85</Amount>
+</Tr>
+				<Tr>
+				<Date>20010922</Date>
+				<Account>84508282</Account>
+				<Details>Bondi Music</Details>
+				<Amount>-945.46</Amount>
+</Tr>
+				<Tr>
+				<Date>20010923</Date>
+				<Account>30472063</Account>
+				<Details>ABWDL Bankstown</Details>
+				<Amount>-726.8</Amount>
+</Tr>
+				<Tr>
+				<Date>20010923</Date>
+				<Account>57948526</Account>
+				<Details>ABWDL Shellharbour</Details>
+				<Amount>-0.08</Amount>
+</Tr>
+				<Tr>
+				<Date>20010924</Date>
+				<Account>55585274</Account>
+				<Details>C&amp;A Bankstown</Details>
+				<Amount>-2.07</Amount>
+</Tr>
+				<Tr>
+				<Date>20010924</Date>
+				<Account>53440715</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-38.3</Amount>
+</Tr>
+				<Tr>
+				<Date>20010928</Date>
+				<Account>37519731</Account>
+				<Details>Bi-Lo Hypermarket</Details>
+				<Amount>-868.25</Amount>
+</Tr>
+				<Tr>
+				<Date>20010930</Date>
+				<Account>44000933</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-43.2</Amount>
+</Tr>
+				<Tr>
+				<Date>20011001</Date>
+				<Account>33122238</Account>
+				<Details>ABWDL</Details>
+				<Amount>-57.4</Amount>
+</Tr>
+				<Tr>
+				<Date>20011005</Date>
+				<Account>00575227</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-124.7</Amount>
+</Tr>
+				<Tr>
+				<Date>20011005</Date>
+				<Account>05147227</Account>
+				<Details>ABWDL Bankstown</Details>
+				<Amount>-77.25</Amount>
+</Tr>
+				<Tr>
+				<Date>20011010</Date>
+				<Account>19124471</Account>
+				<Details>ABWDL Bankstown</Details>
+				<Amount>-20.22</Amount>
+</Tr>
+				<Tr>
+				<Date>20011012</Date>
+				<Account>10382238</Account>
+				<Details>Bondi Music</Details>
+				<Amount>-0.08</Amount>
+</Tr>
+				<Tr>
+				<Date>20011012</Date>
+				<Account>25681894</Account>
+				<Details>Salary</Details>
+				<Amount>55.2</Amount>
+</Tr>
+				<Tr>
+				<Date>20011013</Date>
+				<Account>57882815</Account>
+				<Details>Bi-Lo Hypermarket</Details>
+				<Amount>-57.72</Amount>
+</Tr>
+				<Tr>
+				<Date>20011022</Date>
+				<Account>39220511</Account>
+				<Details>ABWDL Bankstown</Details>
+				<Amount>-73.67</Amount>
+</Tr>
+				<Tr>
+				<Date>20011024</Date>
+				<Account>36845565</Account>
+				<Details>Bondi Music</Details>
+				<Amount>-444.50</Amount>
+</Tr>
+</Array-Tr>
+</Cards>
+			<Cards>
+			<Number>4034555578896985</Number>
+			<Expiry>09/09</Expiry>
+			<Type>VISA</Type>
+			<Array-Tr>
+				<Tr>
+				<Date>20011025</Date>
+				<Account>63219030</Account>
+				<Details>Bondi Music</Details>
+				<Amount>-812.09</Amount>
+</Tr>
+				<Tr>
+				<Date>20011027</Date>
+				<Account>56438885</Account>
+				<Details>ABWDL</Details>
+				<Amount>-0.93</Amount>
+</Tr>
+				<Tr>
+				<Date>20011028</Date>
+				<Account>03847727</Account>
+				<Details>Deposit</Details>
+				<Amount>8.02</Amount>
+</Tr>
+				<Tr>
+				<Date>20011028</Date>
+				<Account>95151103</Account>
+				<Details>Bi-Lo Hypermarket</Details>
+				<Amount>-73</Amount>
+</Tr>
+				<Tr>
+				<Date>20011109</Date>
+				<Account>64462918</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-3894.1</Amount>
+</Tr>
+				<Tr>
+				<Date>20011112</Date>
+				<Account>33421773</Account>
+				<Details>ABWDL</Details>
+				<Amount>-83.67</Amount>
+</Tr>
+</Array-Tr>
+</Cards>
+</Array-Cards>
+</Accounts>
+</Array-Accounts>
+</Clients>
+	<Clients>
+	<Id>116212</Id>
+	<Gender>1</Gender>
+	<FirstName>John</FirstName>
+	<Surname>Davis</Surname>
+	<Address>4778 Marina Ave</Address>
+	<Town>San Leandro</Town>
+	<ZIPcode>94577</ZIPcode>
+	<BeginDate>20101708</BeginDate>
+	<EndDate>20101811</EndDate>
+	<BranchID>2107</BranchID>
+	
+	<Array-Accounts>
+		<Accounts>
+		<Id>116212</Id>
+		<Account>56749502</Account>
+		<Balance>94000</Balance>
+		<Array-Cards>
+			<Cards>
+			<Number>4098888658933265</Number>
+			<Expiry>01/09</Expiry>
+			<Type>VISA</Type>
+			<Array-Tr>
+				<Tr>
+				<Date>20010819</Date>
+				<Account>66973695</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>91</Amount>
+</Tr>
+				<Tr>
+				<Date>20010820</Date>
+				<Account>88494303</Account>
+				<Details>Salary</Details>
+				<Amount>7682.9</Amount>
+</Tr>
+				<Tr>
+				<Date>20010820</Date>
+				<Account>91872505</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-0.31</Amount>
+</Tr>
+				<Tr>
+				<Date>20010821</Date>
+				<Account>22628923</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-1.10</Amount>
+</Tr>
+				<Tr>
+				<Date>20010824</Date>
+				<Account>95994367</Account>
+				<Details>Bi-Lo Hypermarket</Details>
+				<Amount>-712.84</Amount>
+</Tr>
+				<Tr>
+				<Date>20010824</Date>
+				<Account>25890495</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-1732</Amount>
+</Tr>
+				<Tr>
+				<Date>20010824</Date>
+				<Account>60406741</Account>
+				<Details>ABWDL Bankstown</Details>
+				<Amount>-63.2</Amount>
+</Tr>
+				<Tr>
+				<Date>20010825</Date>
+				<Account>84934103</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-0.03</Amount>
+</Tr>
+				<Tr>
+				<Date>20010825</Date>
+				<Account>96703063</Account>
+				<Details>Salary</Details>
+				<Amount>828.9</Amount>
+</Tr>
+				<Tr>
+				<Date>20010828</Date>
+				<Account>93346815</Account>
+				<Details>Bondi Music</Details>
+				<Amount>-29.98</Amount>
+</Tr>
+</Array-Tr>
+</Cards>
+			<Cards>
+			<Number>4037888996590001</Number>
+			<Expiry>09/09</Expiry>
+			<Type>VISA</Type>
+			<Array-Tr>
+				<Tr>
+				<Date>20010829</Date>
+				<Account>00849855</Account>
+				<Details>C&amp;A Bankstown</Details>
+				<Amount>-63.01</Amount>
+</Tr>
+				<Tr>
+				<Date>20010830</Date>
+				<Account>99050494</Account>
+				<Details>Interest</Details>
+				<Amount>0.89</Amount>
+</Tr>
+				<Tr>
+				<Date>20010830</Date>
+				<Account>69300159</Account>
+				<Details>ABWDL Shellharbour</Details>
+				<Amount>-6.2</Amount>
+</Tr>
+				<Tr>
+				<Date>20010901</Date>
+				<Account>50341886</Account>
+				<Details>ABWDL</Details>
+				<Amount>-910.73</Amount>
+</Tr>
+				<Tr>
+				<Date>20010902</Date>
+				<Account>88160046</Account>
+				<Details>Bondi Music</Details>
+				<Amount>-0.97</Amount>
+</Tr>
+				<Tr>
+				<Date>20010903</Date>
+				<Account>12137935</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>2.06</Amount>
+</Tr>
+				<Tr>
+				<Date>20010905</Date>
+				<Account>07542747</Account>
+				<Details>ABWDL</Details>
+				<Amount>-99.42</Amount>
+</Tr>
+				<Tr>
+				<Date>20010905</Date>
+				<Account>02223595</Account>
+				<Details>ABWDL Shellharbour</Details>
+				<Amount>-994.57</Amount>
+</Tr>
+				<Tr>
+				<Date>20010906</Date>
+				<Account>46153023</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-0.83</Amount>
+</Tr>
+				<Tr>
+				<Date>20010906</Date>
+				<Account>63800479</Account>
+				<Details>ABWDL Bankstown</Details>
+				<Amount>-82.56</Amount>
+</Tr>
+				<Tr>
+				<Date>20010907</Date>
+				<Account>32945839</Account>
+				<Details>ABWDL Shellharbour</Details>
+				<Amount>-238</Amount>
+</Tr>
+				<Tr>
+				<Date>20010908</Date>
+				<Account>38872287</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>5.22</Amount>
+</Tr>
+				<Tr>
+				<Date>20010908</Date>
+				<Account>20257243</Account>
+				<Details>Deposit</Details>
+				<Amount>7980</Amount>
+</Tr>
+				<Tr>
+				<Date>20010908</Date>
+				<Account>85348523</Account>
+				<Details>ABWDL</Details>
+				<Amount>-0.05</Amount>
+</Tr>
+				<Tr>
+				<Date>20010909</Date>
+				<Account>02885225</Account>
+				<Details>Salary</Details>
+				<Amount>192.99</Amount>
+</Tr>
+				<Tr>
+				<Date>20010910</Date>
+				<Account>43192823</Account>
+				<Details>Deposit</Details>
+				<Amount>0.57</Amount>
+</Tr>
+</Array-Tr>
+</Cards>
+			<Cards>
+			<Number>4032478889529110</Number>
+			<Expiry>01/09</Expiry>
+			<Type>VISA</Type>
+			<Array-Tr>
+				<Tr>
+				<Date>20010911</Date>
+				<Account>34168511</Account>
+				<Details>ABWDL</Details>
+				<Amount>-27.81</Amount>
+</Tr>
+				<Tr>
+				<Date>20010911</Date>
+				<Account>72498684</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-534.89</Amount>
+</Tr>
+				<Tr>
+				<Date>20010912</Date>
+				<Account>09015033</Account>
+				<Details>ABWDL Bankstown</Details>
+				<Amount>-400.9</Amount>
+</Tr>
+				<Tr>
+				<Date>20010912</Date>
+				<Account>98626047</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-920.1</Amount>
+</Tr>
+				<Tr>
+				<Date>20010914</Date>
+				<Account>44784351</Account>
+				<Details>Salary</Details>
+				<Amount>9259.9</Amount>
+</Tr>
+				<Tr>
+				<Date>20010917</Date>
+				<Account>86046567</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-1131.9</Amount>
+</Tr>
+				<Tr>
+				<Date>20010920</Date>
+				<Account>16823039</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>386.93</Amount>
+</Tr>
+				<Tr>
+				<Date>20010925</Date>
+				<Account>46603645</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-0.39</Amount>
+</Tr>
+				<Tr>
+				<Date>20010926</Date>
+				<Account>86426303</Account>
+				<Details>Bondi Music</Details>
+				<Amount>-578.4</Amount>
+</Tr>
+				<Tr>
+				<Date>20010927</Date>
+				<Account>84398270</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>78</Amount>
+</Tr>
+				<Tr>
+				<Date>20010927</Date>
+				<Account>45131734</Account>
+				<Details>ABWDL Bankstown</Details>
+				<Amount>-91.38</Amount>
+</Tr>
+				<Tr>
+				<Date>20010929</Date>
+				<Account>00084469</Account>
+				<Details>Deposit</Details>
+				<Amount>5719.1</Amount>
+</Tr>
+				<Tr>
+				<Date>20010930</Date>
+				<Account>82718655</Account>
+				<Details>Salary</Details>
+				<Amount>43.78</Amount>
+</Tr>
+				<Tr>
+				<Date>20011001</Date>
+				<Account>10814318</Account>
+				<Details>ABWDL Bankstown</Details>
+				<Amount>-52.38</Amount>
+</Tr>
+				<Tr>
+				<Date>20011002</Date>
+				<Account>38999791</Account>
+				<Details>ABWDL</Details>
+				<Amount>-1555.4</Amount>
+</Tr>
+				<Tr>
+				<Date>20011003</Date>
+				<Account>23726589</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-10.29</Amount>
+</Tr>
+				<Tr>
+				<Date>20011004</Date>
+				<Account>92491645</Account>
+				<Details>Interest</Details>
+				<Amount>0.90</Amount>
+</Tr>
+				<Tr>
+				<Date>20011005</Date>
+				<Account>10822550</Account>
+				<Details>ABWDL</Details>
+				<Amount>-10.52</Amount>
+</Tr>
+				<Tr>
+				<Date>20011005</Date>
+				<Account>49278590</Account>
+				<Details>ABWDL Bankstown</Details>
+				<Amount>-864.66</Amount>
+</Tr>
+				<Tr>
+				<Date>20011008</Date>
+				<Account>60233407</Account>
+				<Details>ABWDL</Details>
+				<Amount>-9.8</Amount>
+</Tr>
+				<Tr>
+				<Date>20011008</Date>
+				<Account>42110687</Account>
+				<Details>Deposit</Details>
+				<Amount>6.2</Amount>
+</Tr>
+				<Tr>
+				<Date>20011009</Date>
+				<Account>92909291</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-0.29</Amount>
+</Tr>
+				<Tr>
+				<Date>20011009</Date>
+				<Account>80348919</Account>
+				<Details>Interest</Details>
+				<Amount>815.24</Amount>
+</Tr>
+				<Tr>
+				<Date>20011010</Date>
+				<Account>01715164</Account>
+				<Details>ABWDL Bankstown</Details>
+				<Amount>-16</Amount>
+</Tr>
+				<Tr>
+				<Date>20011011</Date>
+				<Account>45708383</Account>
+				<Details>C&amp;A Bankstown</Details>
+				<Amount>-0.05</Amount>
+</Tr>
+				<Tr>
+				<Date>20011011</Date>
+				<Account>39082163</Account>
+				<Details>Bi-Lo Hypermarket</Details>
+				<Amount>-6.75</Amount>
+</Tr>
+				<Tr>
+				<Date>20011012</Date>
+				<Account>67956869</Account>
+				<Details>ABWDL Shellharbour</Details>
+				<Amount>-0.22</Amount>
+</Tr>
+				<Tr>
+				<Date>20011013</Date>
+				<Account>78645459</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-4.7</Amount>
+</Tr>
+				<Tr>
+				<Date>20011014</Date>
+				<Account>76060078</Account>
+				<Details>ABWDL Bankstown</Details>
+				<Amount>-0.28</Amount>
+</Tr>
+				<Tr>
+				<Date>20011017</Date>
+				<Account>89449339</Account>
+				<Details>C&amp;A Bankstown</Details>
+				<Amount>-9492</Amount>
+</Tr>
+				<Tr>
+				<Date>20011017</Date>
+				<Account>89684359</Account>
+				<Details>Bi-Lo Hypermarket</Details>
+				<Amount>-0.69</Amount>
+</Tr>
+				<Tr>
+				<Date>20011018</Date>
+				<Account>10886107</Account>
+				<Details>Bi-Lo Hypermarket</Details>
+				<Amount>-1.2</Amount>
+</Tr>
+				<Tr>
+				<Date>20011018</Date>
+				<Account>50458476</Account>
+				<Details>Salary</Details>
+				<Amount>345</Amount>
+</Tr>
+				<Tr>
+				<Date>20011019</Date>
+				<Account>81628924</Account>
+				<Details>Salary</Details>
+				<Amount>33.3</Amount>
+</Tr>
+				<Tr>
+				<Date>20011020</Date>
+				<Account>61106655</Account>
+				<Details>ABWDL</Details>
+				<Amount>-1</Amount>
+</Tr>
+				<Tr>
+				<Date>20011021</Date>
+				<Account>22231759</Account>
+				<Details>Bondi Music</Details>
+				<Amount>-380.51</Amount>
+</Tr>
+				<Tr>
+				<Date>20011021</Date>
+				<Account>29593726</Account>
+				<Details>ABWDL Shellharbour</Details>
+				<Amount>-4026</Amount>
+</Tr>
+				<Tr>
+				<Date>20011021</Date>
+				<Account>91984639</Account>
+				<Details>ABWDL Bankstown</Details>
+				<Amount>-541.7</Amount>
+</Tr>
+				<Tr>
+				<Date>20011021</Date>
+				<Account>95532270</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-0.29</Amount>
+</Tr>
+				<Tr>
+				<Date>20011021</Date>
+				<Account>17286907</Account>
+				<Details>ABWDL Shellharbour</Details>
+				<Amount>-767.4</Amount>
+</Tr>
+				<Tr>
+				<Date>20011022</Date>
+				<Account>30266359</Account>
+				<Details>C&amp;A Bankstown</Details>
+				<Amount>-0.06</Amount>
+</Tr>
+				<Tr>
+				<Date>20011023</Date>
+				<Account>75399415</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-669</Amount>
+</Tr>
+				<Tr>
+				<Date>20011025</Date>
+				<Account>33541557</Account>
+				<Details>C&amp;A Bankstown</Details>
+				<Amount>-0.06</Amount>
+</Tr>
+				<Tr>
+				<Date>20011025</Date>
+				<Account>40770783</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-398.7</Amount>
+</Tr>
+				<Tr>
+				<Date>20011026</Date>
+				<Account>66368508</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-2.93</Amount>
+</Tr>
+				<Tr>
+				<Date>20011026</Date>
+				<Account>53336159</Account>
+				<Details>Interest</Details>
+				<Amount>0.28</Amount>
+</Tr>
+</Array-Tr>
+</Cards>
+			<Cards>
+			<Number>7878845787889457</Number>
+			<Expiry>01/09</Expiry>
+			<Type>American Express</Type>
+			<Array-Tr>
+				<Tr>
+				<Date>20011026</Date>
+				<Account>86332895</Account>
+				<Details>C&amp;A Bankstown</Details>
+				<Amount>-1.47</Amount>
+</Tr>
+				<Tr>
+				<Date>20011030</Date>
+				<Account>75727423</Account>
+				<Details>Salary</Details>
+				<Amount>513.3</Amount>
+</Tr>
+				<Tr>
+				<Date>20011101</Date>
+				<Account>83115519</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-764.62</Amount>
+</Tr>
+				<Tr>
+				<Date>20011102</Date>
+				<Account>99877629</Account>
+				<Details>C&amp;A Bankstown</Details>
+				<Amount>-0.14</Amount>
+</Tr>
+				<Tr>
+				<Date>20011102</Date>
+				<Account>03403129</Account>
+				<Details>Deposit</Details>
+				<Amount>9.95</Amount>
+</Tr>
+				<Tr>
+				<Date>20011103</Date>
+				<Account>38088683</Account>
+				<Details>C&amp;A Bankstown</Details>
+				<Amount>-972.6</Amount>
+</Tr>
+				<Tr>
+				<Date>20011107</Date>
+				<Account>93814974</Account>
+				<Details>Bondi Music</Details>
+				<Amount>-832</Amount>
+</Tr>
+				<Tr>
+				<Date>20011107</Date>
+				<Account>51646709</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-6</Amount>
+</Tr>
+				<Tr>
+				<Date>20011108</Date>
+				<Account>31345391</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>-59.8</Amount>
+</Tr>
+				<Tr>
+				<Date>20011108</Date>
+				<Account>82779395</Account>
+				<Details>ABWDL</Details>
+				<Amount>-867.2</Amount>
+</Tr>
+				<Tr>
+				<Date>20011110</Date>
+				<Account>13054971</Account>
+				<Details>Deposit</Details>
+				<Amount>9</Amount>
+</Tr>
+				<Tr>
+				<Date>20011111</Date>
+				<Account>71270398</Account>
+				<Details>Bi-Lo Hypermarket</Details>
+				<Amount>-0.88</Amount>
+</Tr>
+				<Tr>
+				<Date>20011111</Date>
+				<Account>26472573</Account>
+				<Details>Deposit</Details>
+				<Amount>4.68</Amount>
+</Tr>
+				<Tr>
+				<Date>20011113</Date>
+				<Account>68262211</Account>
+				<Details>Bondi Music</Details>
+				<Amount>-350.13</Amount>
+</Tr>
+				<Tr>
+				<Date>20011113</Date>
+				<Account>10638056</Account>
+				<Details>ABWDL</Details>
+				<Amount>-0.23</Amount>
+</Tr>
+				<Tr>
+				<Date>20011117</Date>
+				<Account>17834460</Account>
+				<Details>1st International Lottery</Details>
+				<Amount>15.81</Amount>
+</Tr>
+				<Tr>
+				<Date>20011118</Date>
+				<Account>80353775</Account>
+				<Details>Bi-Lo Hypermarket</Details>
+				<Amount>-715.99</Amount>
+</Tr>
+				<Tr>
+				<Date>20011118</Date>
+				<Account>70657991</Account>
+				<Details>Withdrawal</Details>
+				<Amount>-360.15</Amount>
+</Tr>
+</Array-Tr>
+</Cards>
+</Array-Cards>
+</Accounts>
+</Array-Accounts>
+</Clients>
+</Array-Clients>
+
